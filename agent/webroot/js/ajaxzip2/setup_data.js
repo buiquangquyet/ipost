@@ -1,0 +1,1 @@
+AjaxZip2.JSONDATA = '/assets/js/ajaxzip2/data';

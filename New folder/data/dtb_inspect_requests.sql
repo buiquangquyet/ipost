@@ -1,0 +1,1 @@
+INSERT INTO `dtb_inspect_requests` (`id`, `user_id`, `agent_result`, `status`, `master_result`, `master_id`, `android_released`, `ios_released`, `created`, `modified`) VALUES (1, 7, NULL, 0, NULL, NULL, '0000-0-0 00:00:00', '0000-0-0 00:00:00', '2015-6-24 11:39:16', '2015-6-24 11:39:16');

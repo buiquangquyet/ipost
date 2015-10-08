@@ -1,0 +1,11 @@
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (3, 'jpn', 'ja', '2015-6-20 14:21:56', '2015-6-20 14:21:56');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (4, 'eng', 'en', '2015-6-20 14:22:57', '2015-6-20 14:30:11');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (6, 'en', 'en', '2015-6-20 14:30:53', '2015-6-20 14:30:53');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (7, 'jp', 'ja', '2015-6-20 14:31:12', '2015-6-20 14:31:19');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (8, 'en-us', 'en', '2015-6-20 14:39:14', '2015-6-20 14:39:14');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (9, 'vi', 'vi', '2015-6-20 14:39:27', '2015-6-20 14:39:27');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (10, 'vn', 'vi', '2015-6-20 14:39:33', '2015-6-20 14:39:33');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (11, 'zh', 'zh', '2015-6-20 14:39:39', '2015-6-20 14:39:39');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (12, 'hk', 'zh', '2015-6-20 14:39:44', '2015-6-20 14:39:44');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (13, 'ja', 'ja', '2015-6-20 14:39:44', '2015-6-20 14:39:44');
+INSERT INTO `dtb_lang_maps` (`id`, `lang_before`, `lang_after`, `created`, `modified`) VALUES (14, 'vie', 'vi', '2015-6-20 14:39:44', '2015-6-20 14:39:44');

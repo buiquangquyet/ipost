@@ -1,0 +1,192 @@
+/*-------------------------------------------------------------------------------****リセット*****-------------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     outline: 0;
+     font-size: 100%;
+     vertical-align: baseline;
+     background: transparent;
+}
+body {
+     line-height: 1;
+}
+ol, ul {
+     list-style: none;
+}
+blockquote, q {
+     quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+     content: '';
+     content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+     outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+     text-decoration: none;
+}
+del {
+     text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing=&quot;0&quot;' in the markup */
+table {
+     border-collapse: collapse;
+     border-spacing: 0;
+}
+
+
+/*-----------------------------------  使い回すcss ------------------------------------*/
+.clear{
+	clear:both;
+}
+.ml10{
+	margin-left:10px;
+}
+.ml30{
+	margin-left:30px;
+}
+.mt30{
+	margin-top:30px;
+}
+.mb30{
+	margin-bottom:30px;
+}
+
+.km{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+}
+.main{
+	width:1024px;
+	margin:auto;
+}
+.b_c{
+	background-color: #66cccc;
+}
+.shadow{
+	background-color:white;
+	box-shadow:0px 4px 0px #d8d8d8;
+}
+
+
+/*水色ボタン*/
+.blue_btn{
+	color:white;
+	letter-spacing:0.03em;
+	background-color:#5FC0C0;
+	box-shadow:0px 4px 0px #53a2a2;
+	text-align:center;
+	padding:15px;
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+     -o-transition: all 0.8s ease;
+}
+.blue_btn a:link{
+	color:white;
+	display:block;
+}
+
+.blue_btn:hover{
+	-webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+     -o-transition: all 0.5s ease;
+	 background-color:#53a2a2;
+}
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------------------------------------------------*/
+body{
+	background: black;
+	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+	color:white;
+	letter-spacing:0.03em;
+	width:220px;
+	height:300px;
+}
+a:link{    
+     text-decoration:none; /*-- 未訪問のリンク --*/
+     color:white;
+	 cursor:pointer;
+}
+a:visited{
+     color: white;  /*-- 訪問済みのリンク --*/
+}
+a:active {
+     text-decoration:none; /*-- 選択中のリンク --*/
+}
+/*------------------------------------------------------------------------------------------*/
+
+
+/*--  ヘッダー  --*/
+#head{
+	width: 100%;
+	background-color: #ad1e21;
+	text-align:center;
+}
+
+.shop_logo{
+	width: 64px;
+	padding: 2px 0;
+}
+.menu_btn{
+	position: absolute;
+	width: 32px;
+	margin-top: -34px;
+	margin-left: 4px;
+}
+
+
+/*-- メニュー --*/
+.menu li{
+	color:white;
+	padding:10px 8px;
+	font-size:12px;
+	margin:0;
+}
+.menu li a:link{
+	display:block;
+}
+
+.menu li:nth-child(odd){
+	background-color:rgb(148, 37, 37);
+}
+.menu{
+	margin-top:6px;
+	margin:0;
+}
+
+
+/*--- スクショ　--*/
+.scn{
+	width:220px;
+	height:300px;
+}
+.scn_img{
+	width:220px;
+}

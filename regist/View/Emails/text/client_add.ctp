@@ -1,0 +1,23 @@
+iPost Enterprise運営事務局でございます。
+この度はiPost Enterpriseへご登録いただきまして誠に有難うございます。
+以下の登録内容にて登録が完了しました。
+
+■登録内容 -----------------
+お名前: <?php echo $data['User']['user_name'];?>
+メールアドレス: <?php echo $data['User']['email'];?>
+-------------------------
+
+以下のiPost Enterprise管理画面URLへアクセスしていただき下記のユーザーID/パスワードにてログインしてください。
+iPost Enterprise管理画面ではアプリ制作を進めていただけます。
+オリジナリティ溢れる素晴らしいアプリが制作できるiPost Enterpriseを是非体感してください！
+
+■iPost Enterprise管理画面情報 --------
+iPost Enterprise管理画面URL：<?php echo $login_url;?>
+パスワード: <?php echo $data['User']['password'];?>
+-------------------------
+
+※ご不明な点がございましたら下記のiPost Enterprise運営事務局までお気軽お尋ねください。
+
+-------------------------
+ iPost Enterprise運営事務局
+ support3@hiropro.co.jp

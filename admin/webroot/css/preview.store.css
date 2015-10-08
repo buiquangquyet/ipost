@@ -1,0 +1,236 @@
+@charset "utf-8";
+/**
+ * store.css
+ * Last Updated: 2013-11-19
+ * Author: Yoshitaka Kitagawa
+ **/
+
+/* clearfix */
+.clearfix:after{
+  content: ".";
+  display: block;
+  height: 0;
+  font-size:0;
+  clear: both;
+  visibility:hidden;
+}
+.clearfix{ display: inline-block; }
+* html .clearfix{ height: 1%; }
+.clearfix{ display:block; }
+
+.fl_l{float:left;}
+.fl_r{float:right;}
+
+/* html,boxy Styles */
+html, body{
+  font-family: "lucida grande", "meiryo", "hiragino kaku gothic pro", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  font-size: 9px;
+  background-color: transparent;
+}
+ul,li{list-style: none;}
+hr {
+height: 1px;
+color: rgba(199, 199, 204, 1);
+background-color: rgba(199, 199, 204, 1);
+border: none;
+}
+
+hr.list_border{
+  width: 230px;
+  margin-left: 10px;
+}
+
+/* iPhone Background */
+#iphone{
+  width: 300px;
+  height: 530px;
+  margin: 0px;
+  padding: 96px 0 0;
+  background-image: url(/img/common/preview/iphone.png);
+  background-position: 0 0;
+  background-size: 300px 617px;
+  background-repeat: no-repeat;
+}
+
+/* Wrap Styles */
+#wrap{
+  width: 240px;
+  height: 426px;
+  margin: 0 auto 0;
+  background-color: rgba(248, 248, 248, 1);
+}
+
+/* Contents Style */
+#contents_wrap{
+  width: 240px;
+  height: 350px;
+  overflow: auto;
+  overflow-x : hidden ;
+}
+
+/* Header Style */
+#header.store{
+  width: 240px;
+  height: 48px;
+  background-image: url(/img/common/preview/store_header.png);
+  background-repeat: no-repeat;
+  background-size: 240px 48px;
+
+}
+
+/* Footer Style */
+#footer.store{
+  width: 240px;
+  height: 37px;
+  background-image: url(/img/common/preview/store_footer.png);
+  background-repeat: no-repeat;
+  background-size: 240px 37px;
+}
+
+/* Application Infomation Style */
+div#app_info{
+  margin-bottom: 4px;
+  padding: 10px 10px 0;
+}
+div#app_info div#app_icon img{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  -webkit-border-radius: 22px;
+  -moz-border-radius: 22px;
+  border-radius: 22px;
+  border: solid 1px rgba(199, 199, 199, 1);
+}
+
+/* Application Text Style */
+div#app_info div#app_text{
+  width: 90px;
+}
+div#app_info div#app_text div#app_name{
+  height: 82px;
+}
+div#app_info div#app_text div#app_name h1{
+  font-size: 1.5em;
+  line-height: 1.7em;
+}
+div#app_info div#app_text div#app_name h1:after{
+  content: '4+';
+  display: inline-block;
+  margin-left: 2px;
+  padding: 1px 2px;
+  color: rgba(160, 160, 160, 1);
+  font-size: 9px;
+  line-height: 1em;
+  font-weight: normal;
+  border: solid 1px rgba(160, 160, 160, 1);
+}
+div#app_info div#app_text div#app_name h2{
+  font-weight: normal;
+}
+div#app_info div#app_text div#app_name h2:after{
+  content: '>';
+  display: inline-block;
+  margin-left: 2px;
+  line-height: 1em;
+}
+div#app_info div#app_text div#app_rate{
+  padding-top: 12px;
+  color: rgba(255,149, 0, 1);
+}
+div#app_info div#app_text div#app_install a.store_btn{
+  display: inline-block;
+  padding: 5px 10px;
+  color: rgba(0, 122, 255, 1);
+  text-decoration: none;
+  border: solid 1px rgba(0, 122, 255, 1);
+  border-radius: 3px;
+  background-image: url(/img/store/store_open.png);
+  background-repeat: no-repeat;
+  background-size: 5px 5px;
+  background-position: 2px 2px;
+}
+
+/* Navigation Style */
+div#app_info div#app_menu ul{
+  width: 218px;
+  margin: 10px auto 0;
+}
+div#app_info div#app_menu ul li a{
+  color: rgba(132, 132, 132, 1);
+  text-decoration: none;
+}
+div#app_info div#app_menu ul li{
+  float: left;
+  width: 70px;
+  padding: 5px 0;
+  text-align: center;
+  border: solid 2px rgba(132, 132, 132, 1);
+}
+div#app_info div#app_menu ul li:first-child{
+  border: solid rgba(132, 132, 132, 1);
+  border-width: 2px 0 2px 2px;
+  border-radius: 4px 0 0 4px;
+}
+div#app_info div#app_menu ul li:last-child{
+  border: solid rgba(132, 132, 132, 1);
+  border-width: 2px 2px 2px 0;
+  border-radius: 0 4px 4px 0;
+}
+div#app_info div#app_menu ul li.current{
+  background-color: rgba(132, 132, 132, 1);
+}
+div#app_info div#app_menu ul li.current a{
+  color: #fff;
+}
+
+/* List Screen Shot Style */
+ul#list li#list_img{
+  overflow: auto;
+  overflow-y : hidden ;
+}
+ul#list li#list_img div{
+  width: 712px;
+  height: 270px;
+}
+ul#list li{
+  margin-left: 10px;
+  padding: 10px 10px 10px 0;
+}
+ul#list li h4{
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+ul#list li p{
+  line-height: 1.8em;
+}
+ul#list li label{
+  display: block;
+  float: left;
+  width: 70px;
+  padding: 3px 0;
+  color: rgba(148, 148, 148, 1);
+  text-align: right;
+}
+ul#list li span{
+  display: block;
+  float: right;
+  width: 140px;
+  padding: 3px 0;
+  text-align: left;
+}
+li#list_info ul li{
+  margin: 0;
+  padding: 0;
+}
+ul#list li.list_link{
+  padding: 5px 0 0;
+  background-image: url(/img/store/store_link.png);
+  background-repeat: no-repeat;
+  background-size: 8px 13px;
+  background-position: 210px center;
+}

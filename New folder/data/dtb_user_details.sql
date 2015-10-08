@@ -1,0 +1,17 @@
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (1, 4, '株式会社差ふと', '', '', '', '', '2015-5-5 07:29:28', '2015-5-5 07:29:28');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (2, 5, '株式会社差ふと', '', '', '', '', '2015-5-5 07:45:56', '2015-5-5 07:45:56');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (3, 6, '', '', '', '', '', '2015-5-5 08:02:00', '2015-5-5 08:02:00');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (4, 2, '', '', '', '', '', '2015-5-27 10:06:05', '2015-5-27 10:06:05');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (5, 11, '', '', '', '', '', '2015-6-8 03:18:59', '2015-6-8 03:18:59');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (6, 12, '', '', '', '', '', '2015-6-8 07:31:51', '2015-6-8 07:31:51');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (7, 13, '', '', '', '', '', '2015-6-8 07:32:27', '2015-6-8 07:32:27');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (8, 14, '', '', '', '', '', '2015-6-8 07:33:00', '2015-6-8 07:33:00');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (9, 15, '', '', '', '', '', '2015-6-22 10:51:23', '2015-6-22 10:51:23');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (10, 16, '', '', '', '', '', '2015-6-22 10:52:23', '2015-6-22 10:52:23');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (11, 17, '', '', '', '', '', '2015-6-22 10:53:05', '2015-6-22 10:53:05');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (12, 18, '', '', '', '', '', '2015-6-22 11:51:34', '2015-6-22 11:51:34');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (13, 19, '', '', '', '', '', '2015-8-6 14:35:33', '2015-8-6 14:35:33');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (14, 20, '', '', '', '', '', '2015-8-6 15:28:37', '2015-8-6 15:28:37');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (15, 21, '', '', '', '', '', '2015-8-6 15:30:42', '2015-8-6 15:30:42');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (16, 22, '', '', '', '', '', '2015-8-10 16:07:14', '2015-8-10 16:07:14');
+INSERT INTO `dtb_user_details` (`id`, `user_id`, `company_name`, `tel`, `fax`, `post_code`, `address`, `created`, `modified`) VALUES (17, 23, '', '', '', '', '', '2015-9-9 15:16:32', '2015-9-9 15:16:32');

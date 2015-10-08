@@ -1,0 +1,2811 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-18 15:15+0700\n"
+"PO-Revision-Date: 2015-08-18 15:22+0700\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\\..\\..\\\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: Locale\\vie\\LC_MESSAGES\n"
+
+#: webroot/js/jquery-ui.min.js:6
+msgid "'"
+msgstr "'"
+
+#: Config/ipost.php:27 Config/ipost.php:211
+msgid "未使用"
+msgstr "Không dùng đến"
+
+#: Config/ipost.php:28 Config/ipost.php:41 Config/ipost.php:212
+#: Config/ipost.php:286 Config/ipost.php:387 View/Elements/sidemenu/top.ctp:4
+#: View/Layouts/admin/default.ctp:184
+msgid "トップ"
+msgstr "Trang chủ"
+
+#: Config/ipost.php:29 Config/ipost.php:52 Config/ipost.php:122
+#: Config/ipost.php:213 Config/ipost.php:287 Config/ipost.php:388
+#: Config/ipost.php:628 View/Elements/sidemenu/news.ctp:4
+#: View/Layouts/admin/default.ctp:193
+msgid "ニュース"
+msgstr "Tin tức"
+
+#: Config/ipost.php:30 Config/ipost.php:47 Config/ipost.php:120
+#: Config/ipost.php:288 Config/ipost.php:389 View/Elements/sidemenu/menu.ctp:4
+#: View/Layouts/admin/default.ctp:202
+msgid "メニュー"
+msgstr "Menu"
+
+#: Config/ipost.php:31 Config/ipost.php:44 Config/ipost.php:121
+#: Config/ipost.php:289 Config/ipost.php:390
+#: View/Elements/sidemenu/coupon.ctp:4 View/Layouts/admin/default.ctp:211
+msgid "クーポン"
+msgstr "Phiếu giảm giá"
+
+#: Config/ipost.php:32
+msgid "設定"
+msgstr "Thiết lập"
+
+#: Config/ipost.php:33 Config/ipost.php:50
+msgid "電話"
+msgstr "Điện thoại"
+
+#: Config/ipost.php:34 Config/ipost.php:55
+msgid "メール"
+msgstr "E-mail"
+
+#: Config/ipost.php:35
+msgid "地図"
+msgstr "Bản đồ"
+
+#: Config/ipost.php:36 Config/ipost.php:290 Config/ipost.php:391
+#: View/Elements/sidemenu/shopprofile.ctp:4 View/Layouts/admin/default.ctp:267
+msgid "店舗情報"
+msgstr "Thông tin Quầy hàng"
+
+#: Config/ipost.php:42 Config/ipost.php:291 Config/ipost.php:392
+#: View/Elements/sidemenu/setting.ctp:4
+msgid "セッティング"
+msgstr "Thiết lập"
+
+#: Config/ipost.php:43 View/Layouts/admin/default.ctp:277
+msgid "HTML"
+msgstr "HTML"
+
+#: Config/ipost.php:45 Config/ipost.php:57
+msgid "通知"
+msgstr "Thông báo"
+
+#: Config/ipost.php:46 Config/ipost.php:294 Config/ipost.php:395
+#: View/Elements/sidemenu/map.ctp:4
+msgid "マップ"
+msgstr "Bản đồ"
+
+#: Config/ipost.php:48
+msgid "カート"
+msgstr "Giỏ hàng"
+
+#: Config/ipost.php:49
+msgid "ショップ"
+msgstr "Cửa hàng"
+
+#: Config/ipost.php:51
+msgid "コイン"
+msgstr "Tiền xu"
+
+#: Config/ipost.php:53
+msgid "ギャラリー"
+msgstr "Thư viện"
+
+#: Config/ipost.php:54
+msgid "ユーザー"
+msgstr "Người dùng"
+
+#: Config/ipost.php:56
+msgid "シェア"
+msgstr "Chia sẻ"
+
+#: Config/ipost.php:58
+msgid "スマホ"
+msgstr "Điện thoại thông minh"
+
+#: Config/ipost.php:83 Config/ipost.php:99 Config/ipost.php:114
+#: Config/ipost.php:142 View/Admin/Pages/Menu/advance.ctp:155
+#: View/Admin/Pages/Menu/advance.ctp:310 View/Admin/Pages/Menu/advance.ctp:464
+#: View/Admin/Pages/Menu/advance.ctp:592 View/Admin/Pages/Menu/easy.ctp:186
+#: View/Admin/Pages/Menu/easy.ctp:375 View/Admin/Pages/Menu/index.ctp:136
+#: View/Admin/Pages/Menu/index.ctp:270 View/Admin/Pages/Menu/index.ctp:394
+#: View/Elements/block/cms.ctp:11 View/Elements/block/coupon.ctp:10
+#: View/Elements/block/image.ctp:10 View/Elements/block/map.ctp:11
+#: View/Elements/block/menu.ctp:10 View/Elements/block/news.ctp:9
+#: View/Elements/block/sns.ctp:10 View/Elements/block/tel.ctp:9
+#: View/Elements/block/topic.ctp:10 View/Elements/block/webview.ctp:11
+#: View/Elements/sidemenu/coupon.ctp:9 View/Elements/sidemenu/mail.ctp:9
+#: View/Elements/sidemenu/map.ctp:9 View/Elements/sidemenu/menu.ctp:9
+#: View/Elements/sidemenu/news.ctp:9 View/Elements/sidemenu/setting.ctp:9
+#: View/Elements/sidemenu/shopprofile.ctp:9 View/Elements/sidemenu/tel.ctp:9
+#: View/Elements/sidemenu/top.ctp:9
+msgid "表示"
+msgstr "Hiển thị"
+
+#: Config/ipost.php:84 Config/ipost.php:100 Config/ipost.php:115
+#: Config/ipost.php:143
+msgid "非表示"
+msgstr "Ẩn"
+
+#: Config/ipost.php:92
+msgid "通常クーポン"
+msgstr "Phiếu giảm giá thông thường"
+
+#: Config/ipost.php:93
+msgid "期間限定クーポン"
+msgstr "Phiếu giảm giá có thời hạn"
+
+#: Config/ipost.php:94
+msgid "使いきりクーポン"
+msgstr "Phiếu giảm giá chỉ sử dụng 1 lần"
+
+#: Config/ipost.php:105 Config/ipost.php:560
+#: View/Admin/Pages/News/sp/index.ctp:129
+msgid "する"
+msgstr "Đồng ý"
+
+#: Config/ipost.php:106 Config/ipost.php:561
+#: View/Admin/Pages/News/sp/index.ctp:130
+msgid "しない"
+msgstr "Hủy"
+
+#: Config/ipost.php:133
+msgid "狭い"
+msgstr "Hẹp"
+
+#: Config/ipost.php:134
+msgid "普通"
+msgstr "Bình thường"
+
+#: Config/ipost.php:135
+msgid "広い"
+msgstr "Rộng"
+
+#: Config/ipost.php:156
+msgid "都道府県を選択"
+msgstr "Lựa chọn quận,huyện,thành phố"
+
+#: Config/ipost.php:157
+msgid "北海道"
+msgstr "Hokkaido"
+
+#: Config/ipost.php:158
+msgid "青森県"
+msgstr "Aomori"
+
+#: Config/ipost.php:159
+msgid "岩手県"
+msgstr "Iwate"
+
+#: Config/ipost.php:160
+msgid "宮城県"
+msgstr "Miyagi"
+
+#: Config/ipost.php:161
+msgid "秋田県"
+msgstr "Akita"
+
+#: Config/ipost.php:162
+msgid "山形県"
+msgstr "Yamagata"
+
+#: Config/ipost.php:163
+msgid "福島県"
+msgstr "Fukushima"
+
+#: Config/ipost.php:164
+msgid "茨城県"
+msgstr "Ibaraki"
+
+#: Config/ipost.php:165
+msgid "栃木県"
+msgstr "Tochigi"
+
+#: Config/ipost.php:166
+msgid "群馬県"
+msgstr "Gunma"
+
+#: Config/ipost.php:167
+msgid "埼玉県"
+msgstr "Saitama"
+
+#: Config/ipost.php:168
+msgid "千葉県"
+msgstr "Chiba"
+
+#: Config/ipost.php:169
+msgid "東京都"
+msgstr "Thủ đô Tokyo"
+
+#: Config/ipost.php:170
+msgid "神奈川県"
+msgstr "Kanagawa"
+
+#: Config/ipost.php:171
+msgid "新潟県"
+msgstr "Niigata"
+
+#: Config/ipost.php:172
+msgid "富山県"
+msgstr "Toyama"
+
+#: Config/ipost.php:173
+msgid "石川県"
+msgstr "Ishikawa"
+
+#: Config/ipost.php:174
+msgid "福井県"
+msgstr "Fukui"
+
+#: Config/ipost.php:175
+msgid "山梨県"
+msgstr "Yamanashi"
+
+#: Config/ipost.php:176
+msgid "長野県"
+msgstr "Nagano"
+
+#: Config/ipost.php:177
+msgid "岐阜県"
+msgstr "Gifu"
+
+#: Config/ipost.php:178
+msgid "静岡県"
+msgstr "Shizuoka"
+
+#: Config/ipost.php:179
+msgid "愛知県"
+msgstr "Aichi"
+
+#: Config/ipost.php:180
+msgid "三重県"
+msgstr "Mie"
+
+#: Config/ipost.php:181
+msgid "滋賀県"
+msgstr "Shiga"
+
+#: Config/ipost.php:182
+msgid "京都府"
+msgstr "Kyoto"
+
+#: Config/ipost.php:183
+msgid "大阪府"
+msgstr "Osaka"
+
+#: Config/ipost.php:184
+msgid "兵庫県"
+msgstr "Hyogo"
+
+#: Config/ipost.php:185
+msgid "奈良県"
+msgstr "Nara"
+
+#: Config/ipost.php:186
+msgid "和歌山県"
+msgstr "Wakayama"
+
+#: Config/ipost.php:187
+msgid "鳥取県"
+msgstr "Tottori"
+
+#: Config/ipost.php:188
+msgid "島根県"
+msgstr "Shimane"
+
+#: Config/ipost.php:189
+msgid "岡山県"
+msgstr "Okayama"
+
+#: Config/ipost.php:190
+msgid "広島県"
+msgstr "Hiroshima "
+
+#: Config/ipost.php:191
+msgid "山口県"
+msgstr "Yamaguchi"
+
+#: Config/ipost.php:192
+msgid "徳島県"
+msgstr "Tokushima"
+
+#: Config/ipost.php:193
+msgid "香川県"
+msgstr "Kagawa"
+
+#: Config/ipost.php:194
+msgid "愛媛県"
+msgstr "Ehime"
+
+#: Config/ipost.php:195
+msgid "高知県"
+msgstr "Kochi"
+
+#: Config/ipost.php:196
+msgid "福岡県"
+msgstr "Fukuoka"
+
+#: Config/ipost.php:197
+msgid "佐賀県"
+msgstr "Saga"
+
+#: Config/ipost.php:198
+msgid "長崎県"
+msgstr "Nagasaki"
+
+#: Config/ipost.php:199
+msgid "熊本県"
+msgstr "Kumamoto"
+
+#: Config/ipost.php:200
+msgid "大分県"
+msgstr "Oita"
+
+#: Config/ipost.php:201
+msgid "宮崎県"
+msgstr "Miyazaki"
+
+#: Config/ipost.php:202
+msgid "鹿児島県"
+msgstr "Kagoshima"
+
+#: Config/ipost.php:203
+msgid "沖縄県"
+msgstr "Okinawa"
+
+#: Config/ipost.php:292 Config/ipost.php:393 View/Elements/sidemenu/tel.ctp:4
+msgid "電話する"
+msgstr "Gọi điện"
+
+#: Config/ipost.php:293 Config/ipost.php:394 View/Elements/sidemenu/mail.ctp:4
+msgid "メールする"
+msgstr "Viết mail"
+
+#: Config/ipost.php:423 Config/ipost.php:424 Config/ipost.php:425
+msgid "未選択"
+msgstr "Chưa được chọn"
+
+#: Config/ipost.php:521
+msgid "時の選択"
+msgstr "Chọn giờ"
+
+#: Config/ipost.php:548
+msgid "分の選択"
+msgstr "Chọn phút"
+
+#: Config/ipost.php:616 Config/ipost.php:643
+msgid "--- カテゴリー選択 ---"
+msgstr "--- Lựa chọn danh mục ---"
+
+#: Config/ipost.php:617
+msgid "エンターテイメント"
+msgstr "Giải trí"
+
+#: Config/ipost.php:618
+msgid "カタログ"
+msgstr "Catalogue"
+
+#: Config/ipost.php:619 Config/ipost.php:659
+msgid "教育"
+msgstr "Giáo dục"
+
+#: Config/ipost.php:620
+msgid "ゲーム"
+msgstr "Trò chơi"
+
+#: Config/ipost.php:621 Config/ipost.php:662
+msgid "仕事効率化"
+msgstr "Hiệu quả công việc"
+
+#: Config/ipost.php:622
+msgid "辞書／辞典／その他"
+msgstr "Từ điển / Tự điển/ khác"
+
+#: Config/ipost.php:623
+msgid "写真／ビデオ"
+msgstr "Ảnh/ Video"
+
+#: Config/ipost.php:624 Config/ipost.php:648
+msgid "スポーツ"
+msgstr "Thể thao"
+
+#: Config/ipost.php:625
+msgid "ソーシャルネットワーキング"
+msgstr "Mạng xã hội"
+
+#: Config/ipost.php:626 Config/ipost.php:666
+msgid "天気"
+msgstr "Thời tiết"
+
+#: Config/ipost.php:627 View/Elements/preview/top.ctp:17
+msgid "ナビゲーション"
+msgstr "Định hướng"
+
+#: Config/ipost.php:629 Config/ipost.php:652
+msgid "ビジネス"
+msgstr "Kinh doanh"
+
+#: Config/ipost.php:630 Config/ipost.php:653
+msgid "ファイナンス"
+msgstr "Tài chính"
+
+#: Config/ipost.php:631
+msgid "BOOK"
+msgstr "Sách"
+
+#: Config/ipost.php:632
+msgid "ヘルスケア／フィットネス"
+msgstr "Chăm sóc sức khỏe / Thể chất"
+
+#: Config/ipost.php:633
+msgid "ミュージック"
+msgstr "Âm nhạc"
+
+#: Config/ipost.php:634
+msgid "メディカル"
+msgstr "Y tế"
+
+#: Config/ipost.php:635
+msgid "ユーティリティ"
+msgstr "Tiện ích"
+
+#: Config/ipost.php:636 Config/ipost.php:655
+msgid "ライフスタイル"
+msgstr "Phong cách sống"
+
+#: Config/ipost.php:637
+msgid "旅行"
+msgstr "Du lịch"
+
+#: Config/ipost.php:638
+msgid "フード／ドリンク"
+msgstr "Thực phẩm / Đồ uống"
+
+#: Config/ipost.php:644
+msgid "エンタテイメント"
+msgstr "Giải trí"
+
+#: Config/ipost.php:645
+msgid "カスタマイズ"
+msgstr "Tùy chỉnh"
+
+#: Config/ipost.php:646
+msgid "コミック"
+msgstr "Truyện tranh"
+
+#: Config/ipost.php:647
+msgid "ショッピング"
+msgstr "Mua sắm"
+
+#: Config/ipost.php:649
+msgid "ソーシャル"
+msgstr "Xã hội"
+
+#: Config/ipost.php:650
+msgid "ツール"
+msgstr "Dụng cụ"
+
+#: Config/ipost.php:651
+msgid "ニュース＆雑誌"
+msgstr "Tin tức & Tạp chí"
+
+#: Config/ipost.php:654
+msgid "メディア＆動画"
+msgstr "Giải trí & Phim"
+
+#: Config/ipost.php:656
+msgid "ライブラリ＆デモ"
+msgstr "Thư viện & Demo"
+
+#: Config/ipost.php:657
+msgid "医療"
+msgstr "Y tế"
+
+#: Config/ipost.php:658
+msgid "音楽＆オーディオ"
+msgstr "Nhạc và âm thanh"
+
+#: Config/ipost.php:660
+msgid "健康＆フィットネス"
+msgstr "Sức khỏe & Thể dục"
+
+#: Config/ipost.php:661
+msgid "交通"
+msgstr "Giao thông"
+
+#: Config/ipost.php:663
+msgid "写真"
+msgstr "Ảnh"
+
+#: Config/ipost.php:664
+msgid "書籍＆文献"
+msgstr "Sách & Tài liệu tham khảo"
+
+#: Config/ipost.php:665
+msgid "通信"
+msgstr "Truyền thông"
+
+#: Config/ipost.php:667
+msgid "旅行＆地域"
+msgstr "Du lịch & Địa điểm"
+
+#: Controller/Admin/AppAdminController.php:55
+#: Controller/Preview/AppPreviewController.php:64
+msgid "ユーザが削除されております。"
+msgstr "Người dùng đã xóa"
+
+#: Controller/Admin/AuthController.php:26
+#: Controller/Admin/AuthController.php:27
+msgid "  ログインPOSTされました"
+msgstr "Thông tin đăng nhập đã được POST"
+
+#: Controller/Admin/AuthController.php:42
+msgid "ログイン失敗"
+msgstr "Đăng nhập thất bại"
+
+#: Controller/Admin/AuthController.php:45
+msgid "ログインID or パスワードが間違っています"
+msgstr "Tài khoản đăng nhập hoặc mật khẩu bị sai"
+
+#: Controller/Admin/AuthController.php:57
+msgid "ログアウトしました"
+msgstr "Đã đăng xuất"
+
+#: Controller/Admin/Pages/BlockController.php:32
+#: Controller/Admin/Pages/BlockController.php:50
+msgid "選択なし"
+msgstr "Chưa được chọn"
+
+#: Controller/Admin/Pages/InspectController.php:28
+#: Controller/Admin/Pages/InspectController.php:43
+msgid "保存失敗::"
+msgstr "Lưu thất bại ::"
+
+#: Controller/Admin/Pages/NewsController.php:90
+msgid "パラメータが不正です。"
+msgstr "Tham số không hợp lệ."
+
+#: Controller/Admin/Pages/NewsController.php:132
+msgid "ニュースを更新しました。"
+msgstr "Tin tức đã được cập nhật."
+
+#: Controller/Admin/Pages/NewsController.php:134
+msgid "新規ニューズが登録されました。"
+msgstr "Đăng ký tin mới thành công."
+
+#: Controller/Api/ApiBlockController.php:33
+msgid "基本情報から取得"
+msgstr "Thu được từ các thông tin cơ bản"
+
+#: Controller/Api/ApiBlockController.php:38
+msgid "画像ID一覧"
+msgstr "Hình ảnh ID danh sách"
+
+#: Controller/Api/ApiBlockController.php:43
+msgid "画像情報一覧"
+msgstr "Hình ảnh Danh sách thông tin"
+
+#: Controller/Api/ApiBlockController.php:67
+#: Controller/Api/AppApiController.php:62
+msgid "画像を登録開始-->"
+msgstr "Việc đăng ký bắt đầu hình ảnh -->"
+
+#: Controller/Api/ApiBlockController.php:71
+#: Controller/Api/AppApiController.php:66
+msgid "画像が指定されていません"
+msgstr "Hình ảnh đã không được chỉ định"
+
+#: Controller/Api/ApiBlockController.php:75
+#: Controller/Api/AppApiController.php:70
+msgid "画像をチェック-->"
+msgstr "Kiểm tra hình ảnh -->"
+
+#: Controller/Api/ApiBlockController.php:78
+#: Controller/Api/AppApiController.php:73
+msgid "画像の一時ファイルが見つかりません。"
+msgstr "Các tập tin tạm thời của hình ảnh không thể được tìm thấy."
+
+#: Controller/Api/ApiBlockController.php:84
+#: Controller/Api/AppApiController.php:79
+msgid "ディレクトリチェック-->"
+msgstr "Danh mục kiểm tra -->"
+
+#: Controller/Api/ApiBlockController.php:90
+#: Controller/Api/AppApiController.php:85
+msgid "ユーザディレクトリの作成に失敗しました"
+msgstr "Tôi thất bại trong việc tạo ra một thư mục người dùng"
+
+#: Controller/Api/ApiBlockController.php:99
+#: Controller/Api/AppApiController.php:94
+msgid "移動先ファイル-->"
+msgstr "Các file đích -->"
+
+#: Controller/Api/ApiBlockController.php:102
+#: Controller/Api/ApiBlockController.php:167
+#: Controller/Api/AppApiController.php:52
+#: Controller/Api/AppApiController.php:97
+msgid "ファイルの移動に失敗しました。"
+msgstr "Tôi thất bại trong việc di chuyển các tập tin."
+
+#: Controller/Api/ApiBlockController.php:109
+msgid "メディア登録ID"
+msgstr "ID đăng ký phương tiện truyền thông"
+
+#: Controller/Api/ApiBlockController.php:113
+#: Controller/Api/ApiBlockController.php:220
+msgid "基礎情報"
+msgstr "Thông tin cơ bản"
+
+#: Controller/Api/ApiBlockController.php:117
+#: Controller/Api/ApiBlockController.php:224
+msgid "登録情報"
+msgstr "Thông tin đăng ký"
+
+#: Controller/Api/ApiBlockController.php:127
+msgid "画像を登録例外-->"
+msgstr "Đăng ký một ngoại lệ hình ảnh -->"
+
+#: Controller/Api/ApiBlockController.php:147
+msgid "画像を一時登録開始-->"
+msgstr "Việc đăng ký bắt đầu tạm thời hình ảnh -->"
+
+#: Controller/Api/ApiBlockController.php:165
+#: Controller/Api/AppApiController.php:50
+msgid "画像の一時ファイル移動先-->"
+msgstr "Đích chuyển tập tin tạm thời của hình ảnh -->"
+
+#: Controller/Api/ApiBlockController.php:181
+msgid "画像を一時登録例外-->"
+msgstr "Một giờ hình ảnh ngoại lệ đăng ký -->"
+
+#: Controller/Api/ApiBlockController.php:206
+msgid "店舗登録情報-->"
+msgstr "Thông tin đăng ký Store -->"
+
+#: Controller/Api/ApiBlockController.php:232
+msgid "店舗登録例外-->"
+msgstr "Đăng ký ngoại lệ Store -->"
+
+#: Controller/Preview/AppPreviewController.php:49
+msgid "ユーザIDが指定されていません。"
+msgstr "Tài khoản người dùng này chưa được đăng ký."
+
+#: Controller/Task/PushController.php:43 Controller/Task/PushController.php:64
+msgid " プッシュ通知待機ステータス更新エラー"
+msgstr "Thông báo đẩy tình trạng chờ đợi lỗi cập nhật"
+
+#: View/Admin/Auth/login.ctp:13 View/Admin/Auth/login.ctp:14
+#: View/Admin/Pages/Reserve/index.ctp:95 View/Admin/Pages/Shop/profile.ctp:143
+#: View/Admin/Pages/Shop/profile.ctp:276
+msgid "メールアドレス"
+msgstr "Địa chỉ E-mail "
+
+#: View/Admin/Auth/login.ctp:16 View/Admin/Auth/login.ctp:17
+msgid "パスワード"
+msgstr "Mật khẩu"
+
+#: View/Admin/Auth/login.ctp:25
+msgid "ログイン"
+msgstr "Đăng nhập"
+
+#: View/Admin/Pages/Apply/index.ctp:4
+msgid "アイコン画像の登録"
+msgstr "Đăng ký hình ảnh biểu tượng "
+
+#: View/Admin/Pages/Apply/index.ctp:4 View/Admin/Pages/Apply/index.ctp:54
+#: View/Admin/Pages/Apply/index.ctp:88 View/Admin/Pages/Apply/index.ctp:141
+#: View/Admin/Pages/Apply/index.ctp:173 View/Admin/Pages/Apply/index.ctp:216
+#: View/Admin/Pages/Apply/index.ctp:223 View/Admin/Pages/Apply/index.ctp:231
+#: View/Admin/Pages/Apply/index.ctp:271 View/Admin/Pages/Apply/index.ctp:317
+#: View/Admin/Pages/Apply/index.ctp:336 View/Admin/Pages/Apply/index.ctp:495
+#: View/Admin/Pages/Apply/index.ctp:597 View/Admin/Pages/Coupon/index.ctp:149
+#: View/Admin/Pages/Coupon/index.ctp:159 View/Admin/Pages/Coupon/index.ctp:166
+#: View/Admin/Pages/Coupon/index.ctp:230 View/Admin/Pages/Menu/advance.ctp:136
+#: View/Admin/Pages/Menu/advance.ctp:289 View/Admin/Pages/Menu/advance.ctp:419
+#: View/Admin/Pages/Menu/advance.ctp:456 View/Admin/Pages/Menu/advance.ctp:547
+#: View/Admin/Pages/Menu/advance.ctp:584 View/Admin/Pages/Menu/easy.ctp:145
+#: View/Admin/Pages/Menu/easy.ctp:178 View/Admin/Pages/Menu/easy.ctp:330
+#: View/Admin/Pages/Menu/easy.ctp:367 View/Admin/Pages/Menu/index.ctp:108
+#: View/Admin/Pages/Menu/index.ctp:129 View/Admin/Pages/Menu/index.ctp:242
+#: View/Admin/Pages/Menu/index.ctp:263 View/Admin/Pages/Menu/index.ctp:366
+#: View/Admin/Pages/Menu/index.ctp:387 View/Admin/Pages/News/index.ctp:59
+#: View/Admin/Pages/News/index.ctp:68 View/Admin/Pages/News/index.ctp:209
+#: View/Admin/Pages/News/index.ctp:216 View/Admin/Pages/Shop/profile.ctp:198
+msgid "必須"
+msgstr "Cần thiết"
+
+#: View/Admin/Pages/Apply/index.ctp:8
+msgid "アプリケーションのアイコン画像の設定になります。"
+msgstr "Hình ảnh biểu tượng của ứng dụng sẽ được thiết lập"
+
+#: View/Admin/Pages/Apply/index.ctp:9
+msgid "推奨サイズは、1024px × 1024pxサイズになります。"
+msgstr "Kích thước khuyến nghị: 1024px x 1024px."
+
+#: View/Admin/Pages/Apply/index.ctp:10 View/Admin/Pages/Apply/index.ctp:62
+#: View/Admin/Pages/Apply/index.ctp:437 View/Admin/Pages/Apply/index.ctp:504
+#: View/Admin/Pages/Apply/index.ctp:533 View/Admin/Pages/Apply/index.ctp:606
+msgid "透過指定されていますと、透過部分が黒くなりますのでご注意下さい。"
+msgstr ""
+"Xin hãy lưu ý khi thiết lập trong suốt, phần thiết lập sẽ trở thành màu đen."
+
+#: View/Admin/Pages/Apply/index.ctp:11 View/Admin/Pages/Apply/index.ctp:63
+#: View/Admin/Pages/Apply/index.ctp:96 View/Admin/Pages/Apply/index.ctp:149
+#: View/Admin/Pages/Apply/index.ctp:178 View/Admin/Pages/Apply/index.ctp:252
+#: View/Admin/Pages/Apply/index.ctp:274 View/Admin/Pages/Apply/index.ctp:348
+#: View/Admin/Pages/Apply/index.ctp:379 View/Admin/Pages/Apply/index.ctp:411
+#: View/Admin/Pages/Apply/index.ctp:443 View/Admin/Pages/Apply/index.ctp:538
+msgid "※1度審査申請されますと変更することができませんのでご注意下さい。"
+msgstr ""
+"※ Xin lưu ý một khi đã yêu cầu kiểm định, bạn sẽ không thể thay đổi được nữa"
+
+#: View/Admin/Pages/Apply/index.ctp:18 View/Admin/Pages/Apply/index.ctp:20
+#: View/Admin/Pages/Apply/index.ctp:44 View/Admin/Pages/Apply/index.ctp:46
+msgid "アイコン画像"
+msgstr "Hình ảnh biểu tượng"
+
+#: View/Admin/Pages/Apply/index.ctp:28 View/Admin/Pages/Apply/index.ctp:113
+#: View/Admin/Pages/Apply/index.ctp:201 View/Admin/Pages/Apply/index.ctp:298
+#: View/Admin/Pages/Apply/index.ctp:388 View/Admin/Pages/Apply/index.ctp:473
+#: View/Admin/Pages/Apply/index.ctp:572 View/Admin/Pages/Block/index.ctp:17
+#: View/Admin/Pages/News/index.ctp:114 View/Elements/block/cms.ctp:30
+#: View/Elements/block/image.ctp:62 View/Elements/block/image.ctp:169
+#: View/Elements/block/menu.ctp:41 View/Elements/block/sns.ctp:56
+#: View/Elements/block/topic.ctp:29 View/Elements/block/webview.ctp:30
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>登録"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Đăng ký"
+
+#: View/Admin/Pages/Apply/index.ctp:54 View/Admin/Pages/Apply/index.ctp:141
+#: View/Admin/Pages/Apply/index.ctp:495 View/Admin/Pages/Apply/index.ctp:597
+#: View/Admin/Pages/Background/index.ctp:33
+#: View/Admin/Pages/Header/index.ctp:38 View/Admin/Pages/Html/index.ctp:21
+#: View/Admin/Pages/Menu/advance.ctp:54 View/Admin/Pages/Menu/advance.ctp:122
+#: View/Admin/Pages/Menu/advance.ctp:276 View/Admin/Pages/Menu/advance.ctp:404
+#: View/Admin/Pages/Menu/advance.ctp:533 View/Admin/Pages/Menu/easy.ctp:54
+#: View/Admin/Pages/Menu/easy.ctp:122 View/Admin/Pages/Menu/easy.ctp:315
+#: View/Admin/Pages/Menu/index.ctp:41 View/Admin/Pages/Menu/index.ctp:93
+#: View/Admin/Pages/Menu/index.ctp:227 View/Admin/Pages/Menu/index.ctp:351
+#: View/Admin/Pages/News/index.ctp:37 View/Admin/Pages/News/index.ctp:190
+#: View/Admin/Pages/News/sp/index.ctp:113 View/Admin/Pages/Shop/profile.ctp:33
+#: View/Admin/Pages/Splash/index.ctp:33 View/Admin/Pages/Splash/index.ctp:83
+#: View/Admin/Pages/Web/index.ctp:39 View/Elements/block/image.ctp:114
+msgid "画像の選択"
+msgstr "Lựa chọn hình ảnh"
+
+#: View/Admin/Pages/Apply/index.ctp:56 View/Admin/Pages/Apply/index.ctp:143
+#: View/Admin/Pages/Apply/index.ctp:497 View/Admin/Pages/Apply/index.ctp:599
+#: View/Admin/Pages/Html/index.ctp:23
+msgid "ファイルを選択"
+msgstr "Chọn tập tin"
+
+#: View/Admin/Pages/Apply/index.ctp:60 View/Admin/Pages/Apply/index.ctp:147
+#: View/Admin/Pages/Apply/index.ctp:502 View/Admin/Pages/Apply/index.ctp:604
+#: View/Admin/Pages/Menu/advance.ctp:64 View/Admin/Pages/Menu/advance.ctp:128
+#: View/Admin/Pages/Menu/advance.ctp:280 View/Admin/Pages/Menu/advance.ctp:408
+#: View/Admin/Pages/Menu/advance.ctp:539 View/Admin/Pages/Menu/easy.ctp:64
+#: View/Admin/Pages/Menu/easy.ctp:131 View/Admin/Pages/Menu/easy.ctp:319
+#: View/Admin/Pages/Menu/index.ctp:43 View/Admin/Pages/Menu/index.ctp:95
+#: View/Admin/Pages/Menu/index.ctp:229 View/Admin/Pages/Menu/index.ctp:353
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:193
+#: View/Admin/Pages/News/sp/index.ctp:121
+msgid "ファイルサイズ：3MBまで"
+msgstr "Kích thước tập tin: không quá 3MB"
+
+#: View/Admin/Pages/Apply/index.ctp:61
+msgid "1024px x 1024px 以上の大きさを推奨"
+msgstr "Kích thước yêu cầu: Lớn hơn hoặc bằng 1024px x 1024px."
+
+#: View/Admin/Pages/Apply/index.ctp:70 View/Admin/Pages/Apply/index.ctp:157
+#: View/Admin/Pages/Apply/index.ctp:259 View/Admin/Pages/Apply/index.ctp:355
+#: View/Admin/Pages/Apply/index.ctp:420 View/Admin/Pages/Apply/index.ctp:511
+#: View/Admin/Pages/Apply/index.ctp:613 View/Admin/Pages/News/index.ctp:113
+#: View/Admin/Pages/News/index.ctp:263 View/Elements/block/image.ctp:168
+msgid "<i class=\"fa fa-mail-reply mg-r-xs\"></i>戻る"
+msgstr "<i class=\"fa fa-mail-reply mg-r-xs\"></i>Quay lại"
+
+#: View/Admin/Pages/Apply/index.ctp:71 View/Admin/Pages/Apply/index.ctp:158
+#: View/Admin/Pages/Apply/index.ctp:260 View/Admin/Pages/Apply/index.ctp:356
+#: View/Admin/Pages/Apply/index.ctp:421 View/Admin/Pages/Apply/index.ctp:512
+#: View/Admin/Pages/Apply/index.ctp:614
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>確認"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Xác nhận"
+
+#: View/Admin/Pages/Apply/index.ctp:88
+msgid "宣伝用画像の登録"
+msgstr "Đăng ký hình ảnh quảng cáo"
+
+#: View/Admin/Pages/Apply/index.ctp:93
+msgid "Google Play (Android用アプリストア)掲載時の宣伝用画像の設定になります。"
+msgstr ""
+"Đây là thiết lập hình ảnh quảng cáo khi đăng tải trên Google Play ( Cửa hàng "
+"ứng dụng cho hệ điều hành Android)"
+
+#: View/Admin/Pages/Apply/index.ctp:94
+msgid "推奨サイズは、1024px × 500pxサイズになります。"
+msgstr "Kích thướckhuyến nghị: 1024px x 500px."
+
+#: View/Admin/Pages/Apply/index.ctp:95
+msgid "透過指定できませんのでご注意下さい。"
+msgstr "Lưu ý: Bắt buộc cần thiết lập"
+
+#: View/Admin/Pages/Apply/index.ctp:103 View/Admin/Pages/Apply/index.ctp:105
+msgid "宣伝用画像"
+msgstr "Hình ảnh "
+
+#: View/Admin/Pages/Apply/index.ctp:130 View/Admin/Pages/Apply/index.ctp:132
+msgid "起動画面用の画像"
+msgstr "Hình ảnh màn hình khởi động"
+
+#: View/Admin/Pages/Apply/index.ctp:148
+msgid "1024px x 500px 以上の大きさを推奨"
+msgstr "Kích thước yêu cầu: Lớn hơn hoặc bằng 1024px x 500px "
+
+#: View/Admin/Pages/Apply/index.ctp:173
+msgid "アプリストア(App Store/Google Play)表示項目の登録"
+msgstr ""
+"Đăng ký các mục hiển thị trên cửa hàng ứng dụng (App Store / Google Play) "
+
+#: View/Admin/Pages/Apply/index.ctp:175
+msgid "アプリケーションの名前、および、ストア掲載時の説明文の設定になります。"
+msgstr "Đây là thiết lập tên ứng dụng và đoạn mô tả khi đăng lên App Store."
+
+#: View/Admin/Pages/Apply/index.ctp:176
+msgid ""
+"アプリ表示名&nbsp;&nbsp;:&nbsp;ホーム画面/ランチャー画面時のアイコン下に表示"
+"されるアプリ名になります。"
+msgstr ""
+"Tên hiển thị của ứng dụng&nbsp;&nbsp;:&nbsp;sẽ là tên của ứng dụng được hiển "
+"thị bên dưới màn hình trang chủ/ màn hình khởi động"
+
+#: View/Admin/Pages/Apply/index.ctp:177
+msgid "ストア表示名&nbsp;:&nbsp;アプリストア掲載時のアプリ名になります。"
+msgstr ""
+"Tên hiển thị của cửa hàng &nbsp;:&nbsp;sẽ là tên của ứng dụng khi đăng lên "
+"AppStore."
+
+#: View/Admin/Pages/Apply/index.ctp:183 View/Admin/Pages/Apply/index.ctp:216
+msgid "アプリ表示名"
+msgstr "Tên hiển thị của ứng dụng"
+
+#: View/Admin/Pages/Apply/index.ctp:189 View/Admin/Pages/Apply/index.ctp:223
+msgid "ストア表示名"
+msgstr "Tên hiển thị của cửa hàng"
+
+#: View/Admin/Pages/Apply/index.ctp:195 View/Admin/Pages/Apply/index.ctp:231
+msgid "説明文"
+msgstr "Đoạn mô tả"
+
+#: View/Admin/Pages/Apply/index.ctp:217
+msgid "アプリ表示名の選択が必要になります。"
+msgstr "Tên hiển thị của ứng dụng là bắt buộc."
+
+#: View/Admin/Pages/Apply/index.ctp:218
+msgid "最大全角6文字分 (半角12文字分)"
+msgstr "Tối đa 6 ký tự độ rộng đầy đủ (12 ký tự độ rộng 1 nửa)"
+
+#: View/Admin/Pages/Apply/index.ctp:224
+msgid "ストア表示名の選択が必要になります。"
+msgstr "Tên hiển thị của cửa hàng là bắt buộc."
+
+#: View/Admin/Pages/Apply/index.ctp:225
+msgid "最大全角12文字／推奨全角9文字以内"
+msgstr ""
+"Tối đa 12 ký tự độ rộng đầy ddue/ Khuyến khích số lượng ký tự nằm trong "
+"khoảng 9 ký tự độ rộng đầy đủ"
+
+#: View/Admin/Pages/Apply/index.ctp:232
+msgid "説明文の選択が必要になります。"
+msgstr "Đoạn mô tả là bắt buộc."
+
+#: View/Admin/Pages/Apply/index.ctp:233
+msgid "全角100 〜 2,000文字"
+msgstr "100 〜 2,000 ký tự có độ rộng đầy đủ"
+
+#: View/Admin/Pages/Apply/index.ctp:241
+msgid "審査に通過しやすい説明文"
+msgstr "Hướng dẫn vượt qua kiểm định của Appstore 1 cách dễ dàng"
+
+#: View/Admin/Pages/Apply/index.ctp:242
+msgid "例文："
+msgstr "Câu mẫu:"
+
+#: View/Admin/Pages/Apply/index.ctp:243
+msgid "みつの里の公式アプリです。"
+msgstr "Ứng dụng của Mitsu no sato"
+
+#: View/Admin/Pages/Apply/index.ctp:244
+msgid ""
+"このアプリでは、アプリユーザー限定の様々なサービスを受けることができます。"
+msgstr ""
+"Bạn sẽ có thể nhận được nhiều dịch vụ chỉ dành riêng cho người dùng trong "
+"ứng dụng này."
+
+#: View/Admin/Pages/Apply/index.ctp:245
+msgid "例えば…"
+msgstr "Ví dụ ..."
+
+#: View/Admin/Pages/Apply/index.ctp:246
+msgid "・お店情報や最新の商品情報を入手することができます。"
+msgstr ""
+"・Bạn có thể nhận được các thông tin cửa hàng và thông tin sản phẩm mới "
+"nhất ."
+
+#: View/Admin/Pages/Apply/index.ctp:247
+msgid "・標準アプリのマップを起動させてお店の位置を確認することができます。"
+msgstr ""
+"・Có thể kiểm tra vị trí cửa hàng khi khởi động bản của ứng dụng tiêu chuẩn."
+
+#: View/Admin/Pages/Apply/index.ctp:248
+msgid "・お店から最新情報やお得なクーポンなどを受け取ることができます。"
+msgstr ""
+"・Có thể nhận được thông tin mới nhất, phiếu giảm giá đặc biệt... từ cửa "
+"hàng."
+
+#: View/Admin/Pages/Apply/index.ctp:249
+msgid "・オンラインショップや公式ホームページなどもすぐにチェックできます。"
+msgstr ""
+"・Có thể ngay lập tức xác nhận việc mua sắm trực truyến hay trang chủ chính "
+"thức..."
+
+#: View/Admin/Pages/Apply/index.ctp:250
+msgid ""
+"・オーダーエントリーがお使いのスマートフォンからできるようになります。（導入"
+"店に限る）"
+msgstr ""
+"・Người dùng có thể đặt hàng từ  điện thoại của mình . (Chỉ áp dụng với của "
+"hàng được giới thiệu )"
+
+#: View/Admin/Pages/Apply/index.ctp:251
+msgid ""
+"このようにアプリで実際に提供できる内容を記載すると、審査に通過しやすいポイン"
+"トになります。"
+msgstr ""
+"Viết nội dung là những yếu tố mà ứng dụng sẽ cung cấp trên thực tế. Việc này "
+"sẽ giúp bạn dễ vượt qua kiểm định của AppStore."
+
+#: View/Admin/Pages/Apply/index.ctp:271
+msgid "アプリストア(App Store/Google Play)カテゴリーの登録"
+msgstr "Đăng ký danh mục trên cửa hàng ứng dụng (App Store/ Google Play)"
+
+#: View/Admin/Pages/Apply/index.ctp:273
+msgid "アプリストア掲載時のカテゴリーの設定になります。"
+msgstr "Đây sẽ là cài đặt dành cho các danh mục khi đăng lên AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:279
+msgid "iPhone1"
+msgstr "iPhone1"
+
+#: View/Admin/Pages/Apply/index.ctp:286
+msgid "iPhone2"
+msgstr "iPhone2"
+
+#: View/Admin/Pages/Apply/index.ctp:292
+msgid "Android"
+msgstr "Android"
+
+#: View/Admin/Pages/Apply/index.ctp:321
+msgid "AppStoreでのメインカテゴリーを選択して下さい。"
+msgstr "Hãy lựa chọn danh mục chính trên AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:326 View/Admin/Pages/Apply/index.ctp:369
+#: View/Admin/Pages/Apply/index.ctp:403 View/Admin/Pages/Apply/index.ctp:433
+#: View/Admin/Pages/Apply/index.ctp:529
+#: View/Admin/Pages/Background/index.ctp:33
+#: View/Admin/Pages/Coupon/index.ctp:122 View/Admin/Pages/Coupon/index.ctp:134
+#: View/Admin/Pages/Coupon/index.ctp:175 View/Admin/Pages/Coupon/index.ctp:184
+#: View/Admin/Pages/Coupon/index.ctp:196 View/Admin/Pages/Header/index.ctp:38
+#: View/Admin/Pages/Menu/advance.ctp:123 View/Admin/Pages/Menu/advance.ctp:146
+#: View/Admin/Pages/Menu/advance.ctp:156 View/Admin/Pages/Menu/advance.ctp:276
+#: View/Admin/Pages/Menu/advance.ctp:299 View/Admin/Pages/Menu/advance.ctp:310
+#: View/Admin/Pages/Menu/advance.ctp:404 View/Admin/Pages/Menu/advance.ctp:428
+#: View/Admin/Pages/Menu/advance.ctp:444 View/Admin/Pages/Menu/advance.ctp:464
+#: View/Admin/Pages/Menu/advance.ctp:534 View/Admin/Pages/Menu/advance.ctp:557
+#: View/Admin/Pages/Menu/advance.ctp:574 View/Admin/Pages/Menu/advance.ctp:593
+#: View/Admin/Pages/Menu/easy.ctp:123 View/Admin/Pages/Menu/easy.ctp:155
+#: View/Admin/Pages/Menu/easy.ctp:168 View/Admin/Pages/Menu/easy.ctp:187
+#: View/Admin/Pages/Menu/easy.ctp:315 View/Admin/Pages/Menu/easy.ctp:339
+#: View/Admin/Pages/Menu/easy.ctp:355 View/Admin/Pages/Menu/easy.ctp:375
+#: View/Admin/Pages/Menu/index.ctp:93 View/Admin/Pages/Menu/index.ctp:115
+#: View/Admin/Pages/Menu/index.ctp:122 View/Admin/Pages/Menu/index.ctp:136
+#: View/Admin/Pages/Menu/index.ctp:227 View/Admin/Pages/Menu/index.ctp:249
+#: View/Admin/Pages/Menu/index.ctp:256 View/Admin/Pages/Menu/index.ctp:270
+#: View/Admin/Pages/Menu/index.ctp:351 View/Admin/Pages/Menu/index.ctp:373
+#: View/Admin/Pages/Menu/index.ctp:380 View/Admin/Pages/Menu/index.ctp:394
+#: View/Admin/Pages/News/index.ctp:38 View/Admin/Pages/News/index.ctp:49
+#: View/Admin/Pages/News/index.ctp:75 View/Admin/Pages/News/index.ctp:85
+#: View/Admin/Pages/News/index.ctp:190 View/Admin/Pages/News/index.ctp:199
+#: View/Admin/Pages/News/index.ctp:224 View/Admin/Pages/News/index.ctp:235
+#: View/Admin/Pages/Reserve/index.ctp:33 View/Admin/Pages/Reserve/index.ctp:58
+#: View/Admin/Pages/Reserve/index.ctp:84 View/Admin/Pages/Reserve/index.ctp:95
+#: View/Admin/Pages/Shop/profile.ctp:33 View/Admin/Pages/Shop/profile.ctp:209
+#: View/Admin/Pages/Shop/profile.ctp:218 View/Admin/Pages/Shop/profile.ctp:230
+#: View/Admin/Pages/Shop/profile.ctp:235 View/Admin/Pages/Shop/profile.ctp:241
+#: View/Admin/Pages/Shop/profile.ctp:247 View/Admin/Pages/Shop/profile.ctp:256
+#: View/Admin/Pages/Shop/profile.ctp:265 View/Admin/Pages/Shop/profile.ctp:276
+#: View/Admin/Pages/Shop/profile.ctp:285 View/Admin/Pages/Shop/profile.ctp:292
+#: View/Admin/Pages/Shop/profile.ctp:302 View/Admin/Pages/Shop/profile.ctp:310
+#: View/Admin/Pages/Splash/index.ctp:33 View/Admin/Pages/Splash/index.ctp:83
+#: View/Admin/Pages/Web/index.ctp:39 View/Elements/block/image.ctp:89
+#: View/Elements/block/image.ctp:114 View/Elements/block/menu.ctp:29
+#: View/Elements/block/sns.ctp:24 View/Elements/block/sns.ctp:29
+#: View/Elements/block/sns.ctp:34 View/Elements/block/sns.ctp:39
+#: View/Elements/block/sns.ctp:44 View/Elements/block/sns.ctp:49
+#: View/Elements/block/topic.ctp:25
+msgid "任意"
+msgstr "bất kỳ"
+
+#: View/Admin/Pages/Apply/index.ctp:330
+msgid "AppStoreでのサブカテゴリーを選択して下さい。"
+msgstr "Hãy lựa chọn danh mục con trên AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:331
+msgid "ない場合は、メインカテゴリーと同じものを選択して下さい。"
+msgstr ""
+"Trương hợp  không có, xin vui lòng chọn lựa giống như các danh mục chính."
+
+#: View/Admin/Pages/Apply/index.ctp:340
+msgid "GooglePlayでのカテゴリーを選択して下さい。"
+msgstr "Hãy lựa chọn danh mục trong GooglePlay"
+
+#: View/Admin/Pages/Apply/index.ctp:369
+msgid "検索キーワードの登録"
+msgstr "Đăng kí từ khóa tìm kiếm"
+
+#: View/Admin/Pages/Apply/index.ctp:374
+msgid "App Store (iOSアプリストア)での、検索キーワードになります。"
+msgstr ""
+"Những từ đã đăng ký sẽ trở thành từ khóa tìm kiếm trên App Store ( Cửa hàng "
+"ứng sụng của iOS)"
+
+#: View/Admin/Pages/Apply/index.ctp:376 View/Admin/Pages/Apply/index.ctp:409
+msgid "半角カンマ「,」区切りで、複数指定が可能です。"
+msgstr "Có thể chỉ thị nhiều từ khóa bằng cách sử dụng dấu phân cách「,」"
+
+#: View/Admin/Pages/Apply/index.ctp:378 View/Admin/Pages/Apply/index.ctp:410
+msgid ""
+"アプリと関係無いキーワードを設定されますと、審査を通らないことがございますの"
+"でご注意下さい。"
+msgstr ""
+"Xin hãy lưu ý, nếu thiết lập từ khóa là những từ không liên quan đến ứng "
+"dụng thì sẽ không qua được kiểm định."
+
+#: View/Admin/Pages/Apply/index.ctp:383
+msgid "検索キーワード"
+msgstr "Từ khóa tìm kiếm"
+
+#: View/Admin/Pages/Apply/index.ctp:403
+msgid "キーワード"
+msgstr "Từ khóa"
+
+#: View/Admin/Pages/Apply/index.ctp:408
+msgid "AppStoreでの、検索キーワードになります。"
+msgstr "Đây sẽ là từ khóa tìm kiếm trên AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:433
+msgid "スクリーンショット１の登録"
+msgstr "Đăng ký ảnh chụp màn hình 1"
+
+#: View/Admin/Pages/Apply/index.ctp:435
+msgid "iPhone5/5S、および、Android用のスクリーンショットの設定になります。"
+msgstr "Thiết lập ảnh chụp màn hình cho iPhone 5/5S và Android"
+
+#: View/Admin/Pages/Apply/index.ctp:436
+msgid "推奨サイズは、640px × 1136pxサイズになります。"
+msgstr "Kích thước khuyến nghị:  640px x 1136px."
+
+#: View/Admin/Pages/Apply/index.ctp:439 View/Admin/Pages/Apply/index.ctp:535
+msgid "各コンテンツの左上部にありますプレビュー画面を活用して下さい。"
+msgstr "Xin hãy sử dụng màn hình xem trước ở phía trên bên trái"
+
+#: View/Admin/Pages/Apply/index.ctp:440 View/Admin/Pages/Apply/index.ctp:536
+msgid ""
+"アプリと関係無い画像、アプリの画面が表示されていない画像を設定されますと"
+msgstr ""
+"Xin hãy lưu ý, nếu thiết lập ảnh chụp màn hình là những ảnh không liên quan "
+"ứng dụng hay ảnh không được hiển thị trên màn hình ứng dụng"
+
+#: View/Admin/Pages/Apply/index.ctp:441 View/Admin/Pages/Apply/index.ctp:537
+msgid "審査を通らないことがございますのでご注意下さい。"
+msgstr ""
+"Xin hãy lưu ý cũng có trường hợp ứng dụng sẽ không qua được kiểm định của "
+"AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:463 View/Admin/Pages/Apply/index.ctp:465
+#: View/Admin/Pages/Apply/index.ctp:561 View/Admin/Pages/Apply/index.ctp:563
+msgid "スクリーンショット２"
+msgstr "Ảnh chụp màn hình 2"
+
+#: View/Admin/Pages/Apply/index.ctp:472 View/Admin/Pages/Apply/index.ctp:571
+#: View/Admin/Pages/Menu/advance.ctp:887 View/Admin/Pages/Menu/advance.ctp:908
+#: View/Admin/Pages/Menu/easy.ctp:606 View/Admin/Pages/News/index.ctp:165
+#: View/Elements/block/image.ctp:64
+msgid "本当に削除してもよろしいですか？"
+msgstr "Bạn có thực sự muốn xóa?"
+
+#: View/Admin/Pages/Apply/index.ctp:472 View/Admin/Pages/Apply/index.ctp:571
+#: View/Admin/Pages/Background/index.ctp:15
+#: View/Admin/Pages/News/index.ctp:165 View/Elements/block/image.ctp:64
+msgid "<i class=\"fa fa-trash-o mg-l-xs\"></i>削除"
+msgstr "<i class=\"fa fa-trash-o mg-l-xs\"></i>&nbsp;Xóa"
+
+#: View/Admin/Pages/Apply/index.ctp:503 View/Admin/Pages/Apply/index.ctp:605
+msgid "640px x 1136px 以上の大きさを推奨"
+msgstr "Kích thước ảnh quy định : Lớn hơn hoặc bằng 640px x 1136px"
+
+#: View/Admin/Pages/Apply/index.ctp:529
+msgid "スクリーンショット２の登録"
+msgstr "Đăng ký ảnh chụp màn hình 2"
+
+#: View/Admin/Pages/Apply/index.ctp:531
+msgid "iPhone4/4S用のスクリーンショットの設定になります。"
+msgstr "Đây là phần thiết lập ảnh chụp màn hình cho iPhone4/ 4S"
+
+#: View/Admin/Pages/Apply/index.ctp:532
+msgid "推奨サイズは、640px × 960pxサイズになります。"
+msgstr "Kích thước khuyến nghị: 640px × 960px"
+
+#: View/Admin/Pages/Apply/index.ctp:648
+#: View/Admin/Pages/Background/index.ctp:98
+#: View/Admin/Pages/Coupon/index.ctp:361 View/Admin/Pages/Menu/advance.ctp:930
+#: View/Admin/Pages/Menu/easy.ctp:639 View/Admin/Pages/News/index.ctp:347
+#: View/Admin/Pages/News/sp/index.ctp:190
+#: View/Admin/Pages/Splash/index.ctp:114 View/Elements/block/image.ctp:216
+msgid "画像を選択してください"
+msgstr "Xin hãy lựa chọn ảnh"
+
+#: View/Admin/Pages/Apply/index.ctp:653
+#: View/Admin/Pages/Background/index.ctp:103
+#: View/Admin/Pages/Coupon/index.ctp:366 View/Admin/Pages/Menu/advance.ctp:935
+#: View/Admin/Pages/Menu/easy.ctp:644 View/Admin/Pages/News/index.ctp:352
+#: View/Admin/Pages/News/sp/index.ctp:195
+#: View/Admin/Pages/Splash/index.ctp:119 View/Admin/Pages/Splash/index.ctp:147
+#: View/Elements/block/image.ctp:221
+msgid "サイズが大きすぎます"
+msgstr "Kích thước ảnh quá lớn"
+
+#: View/Admin/Pages/Background/index.ctp:2
+msgid "背景画像の設定"
+msgstr "Thiết lập hình nền"
+
+#: View/Admin/Pages/Background/index.ctp:10
+#: View/Admin/Pages/Background/index.ctp:26
+msgid "背景画像"
+msgstr "Hình nền"
+
+#: View/Admin/Pages/Background/index.ctp:14
+#: View/Admin/Pages/Background/index.ctp:48
+#: View/Admin/Pages/Coupon/index.ctp:252 View/Admin/Pages/Footer/index.ctp:22
+#: View/Admin/Pages/Header/index.ctp:19 View/Admin/Pages/Header/index.ctp:52
+#: View/Admin/Pages/Menu/advance.ctp:26 View/Admin/Pages/Menu/advance.ctp:80
+#: View/Admin/Pages/Menu/advance.ctp:174 View/Admin/Pages/Menu/advance.ctp:610
+#: View/Admin/Pages/Menu/easy.ctp:26 View/Admin/Pages/Menu/easy.ctp:80
+#: View/Admin/Pages/Menu/easy.ctp:205 View/Admin/Pages/Menu/index.ctp:21
+#: View/Admin/Pages/Menu/index.ctp:55 View/Admin/Pages/Menu/index.ctp:150
+#: View/Admin/Pages/Shop/profile.ctp:15 View/Admin/Pages/Shop/profile.ctp:45
+#: View/Admin/Pages/Shop/profile.ctp:190 View/Admin/Pages/Shop/profile.ctp:320
+#: View/Admin/Pages/Splash/index.ctp:15 View/Admin/Pages/Splash/index.ctp:46
+#: View/Admin/Pages/Splash/index.ctp:62 View/Admin/Pages/Splash/index.ctp:97
+#: View/Admin/Pages/Web/index.ctp:47
+msgid "登録"
+msgstr "Đăng ký"
+
+#: View/Admin/Pages/Background/index.ctp:37
+msgid ""
+"アプリケーションは、白文字を使用しているため、<br>白色の多い画像は非推奨と"
+"なっております。<br>ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;1136px&nbsp;"
+"以上の大きさを推奨"
+msgstr ""
+"Vì ứng dụng sẽ sử dụng chữ trắng, nên chúng tôi khuyên người dùng không nên "
+"sử dụng ảnh nền có quá nhiều <br>phần màu trắng. <br>Kích thước tập tin："
+"không quá 3MB<br>640px&nbsp;×&nbsp;1136px&nbsp;Kích thước ảnh không vượt quá "
+"kích thước trên đây."
+
+#: View/Admin/Pages/Background/index.ctp:47
+#: View/Admin/Pages/Coupon/index.ctp:250 View/Admin/Pages/Header/index.ctp:51
+#: View/Admin/Pages/Menu/advance.ctp:78 View/Admin/Pages/Menu/advance.ctp:172
+#: View/Admin/Pages/Menu/advance.ctp:330 View/Admin/Pages/Menu/advance.ctp:494
+#: View/Admin/Pages/Menu/advance.ctp:609 View/Admin/Pages/Menu/easy.ctp:78
+#: View/Admin/Pages/Menu/easy.ctp:203 View/Admin/Pages/Menu/easy.ctp:405
+#: View/Admin/Pages/Menu/index.ctp:54 View/Admin/Pages/Menu/index.ctp:149
+#: View/Admin/Pages/Menu/index.ctp:283 View/Admin/Pages/Menu/index.ctp:407
+#: View/Admin/Pages/Shop/profile.ctp:44 View/Admin/Pages/Shop/profile.ctp:319
+#: View/Admin/Pages/Splash/index.ctp:45 View/Admin/Pages/Splash/index.ctp:96
+#: View/Admin/Pages/Web/index.ctp:46
+msgid "戻る"
+msgstr "Quay lại"
+
+#: View/Admin/Pages/Background/index.ctp:55
+msgid "背景色の設定"
+msgstr "Thiết lập màu nền"
+
+#: View/Admin/Pages/Background/index.ctp:59
+#: View/Admin/Pages/Header/index.ctp:66
+msgid "背景色選択"
+msgstr "Chọn màu nền"
+
+#: View/Admin/Pages/Background/index.ctp:64
+#: View/Admin/Pages/Header/index.ctp:71
+msgid "背景単色"
+msgstr "Nền đơn sắc"
+
+#: View/Admin/Pages/Background/index.ctp:71
+#: View/Admin/Pages/Header/index.ctp:78
+msgid "背景グラデーション"
+msgstr "Chỉnh sắc cho màu nền"
+
+#: View/Admin/Pages/Background/index.ctp:81
+#: View/Admin/Pages/Header/index.ctp:88
+msgid "背景色の変更"
+msgstr "Thay đổi màu nền"
+
+#: View/Admin/Pages/Background/index.ctp:133
+msgid "背景画像を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký ảnh nền. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Background/index.ctp:140
+msgid "背景色を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký màu nền. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Block/index.ctp:6
+msgid "マージン設定"
+msgstr "Thiết đặt lề"
+
+#: View/Admin/Pages/Block/index.ctp:11
+msgid "マージン"
+msgstr "Lề"
+
+#: View/Admin/Pages/Coupon/index.ctp:11
+#, php-format
+msgid "%s 枚目"
+msgstr "Số %s"
+
+#: View/Admin/Pages/Coupon/index.ctp:21 View/Admin/Pages/Coupon/index.ctp:122
+#: View/Admin/Pages/Coupon/index.ctp:134
+msgid "クーポン画像"
+msgstr "Hình ảnh phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:35 View/Admin/Pages/Coupon/index.ctp:149
+msgid "クーポンの表示"
+msgstr "Hiển thị phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:43 View/Admin/Pages/Coupon/index.ctp:159
+#: View/Admin/Pages/News/index.ctp:59 View/Admin/Pages/News/index.ctp:61
+#: View/Admin/Pages/News/index.ctp:209 View/Admin/Pages/News/index.ctp:210
+#: View/Admin/Pages/News/sp/index.ctp:101
+msgid "タイトル"
+msgstr "Tiêu đề"
+
+#: View/Admin/Pages/Coupon/index.ctp:51
+msgid "内容"
+msgstr "Nội dung"
+
+#: View/Admin/Pages/Coupon/index.ctp:60 View/Admin/Pages/Coupon/index.ctp:175
+msgid "割引率"
+msgstr "Tỉ lệ chiết khấu"
+
+#: View/Admin/Pages/Coupon/index.ctp:69
+msgid "クーポン種類"
+msgstr "Loại phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:80 View/Admin/Pages/Coupon/index.ctp:89
+msgid "期限"
+msgstr "Thời hạn"
+
+#: View/Admin/Pages/Coupon/index.ctp:91
+msgid "無期限"
+msgstr "Vô thời hạn"
+
+#: View/Admin/Pages/Coupon/index.ctp:102
+msgid "表示日数"
+msgstr "Số ngày hiển thị"
+
+#: View/Admin/Pages/Coupon/index.ctp:104
+msgid "日間"
+msgstr "Số ngày"
+
+#: View/Admin/Pages/Coupon/index.ctp:112 View/Admin/Pages/Menu/advance.ctp:236
+#: View/Admin/Pages/Menu/advance.ctp:333 View/Admin/Pages/Menu/advance.ctp:372
+#: View/Admin/Pages/Menu/advance.ctp:497 View/Admin/Pages/Menu/easy.ctp:276
+#: View/Admin/Pages/Menu/easy.ctp:408 View/Admin/Pages/Menu/index.ctp:200
+#: View/Admin/Pages/Menu/index.ctp:284 View/Admin/Pages/Menu/index.ctp:324
+#: View/Admin/Pages/Menu/index.ctp:408
+msgid "変更"
+msgstr "Thay đổi"
+
+#: View/Admin/Pages/Coupon/index.ctp:138
+msgid ""
+"ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;814px&nbsp;以上の大きさを推奨"
+"<br />\n"
+"\t\t\t\t\t\t\t\tクーポンの種類を「使いきりクーポン」を選択時、クーポンを使用"
+"されますと、下部 178px 部分は切り取られます。<br>\n"
+"\t\t\t\t\t\t\t\tクーポン画像を設定しますと、タイトルや利用条件は表示されなく"
+"なります。"
+msgstr ""
+"Kích thước lên đến 3MB <br>Kích thước khuyến nghị : lớn hơn 640px&nbsp;"
+"×&nbsp;814px&nbsp;<br />\n"
+"\t\t\t\t\t\t\t\tNếu lựa chọn \"Phiếu giảm giá 1 lần\" khi sử dụng phiếu này, "
+"178px phần dưới sẽ bị cắt <br>\n"
+"\t\t\t\t\t\t\t\tTiêu đề và điều kiện sử dụng sẽ không hiển thị trong trường "
+"hợp bạn để cài đặt ảnh cho coupon "
+
+#: View/Admin/Pages/Coupon/index.ctp:151 View/Admin/Pages/Coupon/index.ctp:285
+msgid "クーポンの表示の選択が必要になります。"
+msgstr "Hiển thị phiếu giảm giá là bắt buộc."
+
+#: View/Admin/Pages/Coupon/index.ctp:153
+msgid "「非表示」に設定するとアプリ上のクーポンが非表示になります。"
+msgstr ""
+"Khi thiết lập \"Không hiển thị\", mục phiếu giảm giá sẽ bị mất hiển thị trên "
+"ứng dụng."
+
+#: View/Admin/Pages/Coupon/index.ctp:160
+msgid "クーポン名を入力"
+msgstr "Nhập tên phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:160 View/Admin/Pages/Coupon/index.ctp:293
+#: View/Admin/Pages/News/index.ctp:61 View/Admin/Pages/News/index.ctp:210
+msgid "タイトルの選択が必要になります。"
+msgstr "Tiêu đề là bắt buộc."
+
+#: View/Admin/Pages/Coupon/index.ctp:166
+msgid "利用条件"
+msgstr "Điều kiện sử dụng"
+
+#: View/Admin/Pages/Coupon/index.ctp:168
+msgid "利用規約を入力"
+msgstr "Nhập điều khoản sử dụng"
+
+#: View/Admin/Pages/Coupon/index.ctp:168 View/Admin/Pages/Coupon/index.ctp:301
+msgid "利用条件の選択が必要になります。"
+msgstr "Điều kiện sử dụng là bắt buộc."
+
+#: View/Admin/Pages/Coupon/index.ctp:170
+msgid "実際のスマホアプリでは、クーポン画像をタップすると表示されます。"
+msgstr ""
+"Điều kiện sử dụng sẽ hiện ra khi chạm vào hình ảnh của phiếu giảm giá trên "
+"điện thoại di động"
+
+#: View/Admin/Pages/Coupon/index.ctp:177
+msgid "0 〜 100 を入力"
+msgstr "Nhập tỷ lệ chiết khấu 0~100"
+
+#: View/Admin/Pages/Coupon/index.ctp:184
+msgid "クーポンの種類"
+msgstr "Loại phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:188
+msgid "クーポンの種類を選択することができます。"
+msgstr "Bạn có thể chọn loại phiếu giảm giá."
+
+#: View/Admin/Pages/Coupon/index.ctp:196
+msgid "期間指定"
+msgstr "Chỉ định thời hạn cho phiếu giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:200
+msgid "指定した期間のみクーポンの表示をすることができます。"
+msgstr "Chỉ hiển thị những phiếu giảm giá đã chỉ định thời hạn."
+
+#: View/Admin/Pages/Coupon/index.ctp:209
+msgid "表示開始日"
+msgstr "Ngày bắt đầu hiển thị"
+
+#: View/Admin/Pages/Coupon/index.ctp:211 View/Admin/Pages/Coupon/index.ctp:219
+msgid "日付を選択"
+msgstr "Lựa chọn ngày"
+
+#: View/Admin/Pages/Coupon/index.ctp:217
+msgid "表示終了日"
+msgstr "Ngày cuối cùng hiển thị"
+
+#: View/Admin/Pages/Coupon/index.ctp:230
+msgid "掲載日数"
+msgstr "Số ngày đăng"
+
+#: View/Admin/Pages/Coupon/index.ctp:232
+msgid "1以上の数値を入力"
+msgstr "Nhập giá trị số lớn hơn hoặc bằng 1"
+
+#: View/Admin/Pages/Coupon/index.ctp:234
+msgid "アプリインストール後、何日間クーポンを表示するか設定します"
+msgstr ""
+"Sau khi cài đặt ứng dụng, bạn có thể thiết lập số ngày sẽ hiển thị cho phiếu "
+"giảm giá"
+
+#: View/Admin/Pages/Coupon/index.ctp:251 View/Admin/Pages/Html/index.ctp:44
+#: View/Admin/Pages/Menu/advance.ctp:240 View/Admin/Pages/Menu/advance.ctp:373
+#: View/Admin/Pages/Menu/easy.ctp:280 View/Admin/Pages/Menu/index.ctp:201
+#: View/Admin/Pages/Menu/index.ctp:325 View/Admin/Pages/Splash/index.ctp:63
+#: View/Admin/Pages/Web/index.ctp:63
+msgid "削除"
+msgstr "&nbsp;Xóa"
+
+#: View/Admin/Pages/Coupon/index.ctp:270
+msgid "クーポンを削除します。よろしいですか。"
+msgstr "Chúng tôi sẽ xóa phiếu giảm giá này. Bạn có chắc chắn muốn xóa không?"
+
+#: View/Admin/Pages/Coupon/index.ctp:279
+msgid "クーポンを登録します。よろしいですか。"
+msgstr "Chúng tôi sẽ đăng ký phiếu giảm giá này. Bạn có đồng ý không"
+
+#: View/Admin/Pages/Footer/index.ctp:3
+msgid "フッターの設定"
+msgstr "Thiết lập footer"
+
+#: View/Admin/Pages/Footer/index.ctp:30
+msgid "フッターアイコン一覧"
+msgstr " Danh sách biểu tượng cuối trang"
+
+#: View/Admin/Pages/Footer/index.ctp:46
+msgid "フッターアイコンを変更します。よろしいですか"
+msgstr "Chúng tôi sẽ thay đổi biểu tượng cuối trang. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Header/index.ctp:4
+msgid "ヘッダー画像の設定"
+msgstr "Thiết lập các hình ảnh đầu trang"
+
+#: View/Admin/Pages/Header/index.ctp:15 View/Admin/Pages/Header/index.ctp:30
+msgid "ヘッダー画像"
+msgstr "Ảnh đầu trang"
+
+#: View/Admin/Pages/Header/index.ctp:40
+msgid "画像が選択されていません"
+msgstr "Hình ảnh không được chọn"
+
+#: View/Admin/Pages/Header/index.ctp:41
+msgid ""
+"ファイルサイズ：3MBまで<br>400px&nbsp;×&nbsp;88px&nbsp;以上の大きさを推奨<br>"
+"透過png対応しています。"
+msgstr ""
+"Kích thước tập tin：Không quá 3MB<br>Khuyến nghị sử dụng ảnh có kích thước "
+"lớn hơn hoặc bằng 400px&nbsp;×&nbsp;88px&nbsp;<br>Hỗ trợ làm ảnh trong suốt "
+"png。"
+
+#: View/Admin/Pages/Header/index.ctp:62
+msgid "ヘッダー背景色の設定"
+msgstr "Thiết lập màu nền cho phần đầu trang"
+
+#: View/Admin/Pages/Header/index.ctp:106 View/Admin/Pages/Shop/profile.ctp:342
+msgid "画像を選択してください。"
+msgstr "Hãy lựa chọn ảnh"
+
+#: View/Admin/Pages/Header/index.ctp:111 View/Admin/Pages/Shop/profile.ctp:347
+msgid "サイズが大きすぎます。"
+msgstr "Kích thước tập tin quá lớn"
+
+#: View/Admin/Pages/Header/index.ctp:141
+msgid "ヘッダー画像を登録します。よろしいですか"
+msgstr ""
+"Chúng tôi sẽ đăng ký ảnh này làm ảnh nền cho phần đầu trang. Bạn có đồng ý  "
+"không?"
+
+#: View/Admin/Pages/Header/index.ctp:149
+msgid "ヘッダー背景色を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký màu nền cho phần đầu trang. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Html/index.ctp:2 View/Admin/Pages/Web/index.ctp:6
+msgid "HTMLの編集"
+msgstr "Chỉnh Sửa HTML"
+
+#: View/Admin/Pages/Html/index.ctp:8 View/Admin/Pages/Web/index.ctp:11
+msgid "HTML 入力エリア"
+msgstr "Vùng nhập HTML"
+
+#: View/Admin/Pages/Html/index.ctp:13 View/Admin/Pages/Html/index.ctp:75
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>更新"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Cập nhật"
+
+#: View/Admin/Pages/Html/index.ctp:26
+msgid "ファイルサイズ：3MBまで<br>htmlに表示させる画像を登録してください。"
+msgstr ""
+"Kích thước tập tin：không quá 3MB<br>hãy đăng ký ảnh hiển thị trên html。"
+
+#: View/Admin/Pages/Html/index.ctp:32 View/Admin/Pages/Web/index.ctp:51
+msgid "画像リスト"
+msgstr "Dánh sách ảnh"
+
+#: View/Admin/Pages/Html/index.ctp:33 View/Admin/Pages/Web/index.ctp:53
+msgid "画像の&nbsp;img&nbsp;タグをコピー＆ペーストしてご利用ください。"
+msgstr "Hình ảnh&nbsp;img&nbsp; hãy sử dụng bằng cách copy và dán thẻ。"
+
+#: View/Admin/Pages/Html/index.ctp:58 View/Admin/Pages/Web/index.ctp:71
+msgid "CSSの編集"
+msgstr "Chỉnh sửa CSS"
+
+#: View/Admin/Pages/Html/index.ctp:65 View/Admin/Pages/Web/index.ctp:77
+msgid "CSS 入力エリア"
+msgstr "Vùng nhập CSS"
+
+#: View/Admin/Pages/Html/index.ctp:66 View/Admin/Pages/Web/index.ctp:78
+msgid "CSS へのリンクタグは下記のものになります。"
+msgstr "Dưới đây là thẻ liên kết đến CSS."
+
+#: View/Admin/Pages/Inspect/index.ctp:3
+msgid "iOS / Androidのアプリを作成するための申請を行いますか？"
+msgstr "Bạn có muốn áp dụng để tạo ra một iOS / Android ứng dụng?"
+
+#: View/Admin/Pages/Inspect/index.ctp:7 View/Admin/Pages/Menu/select.ctp:15
+msgid "商品の名前と値段を入れるだけの簡単設定！"
+msgstr "Thiết lập đơn giản, chỉ cần nhập tên sản phẩm và giá cả!"
+
+#: View/Admin/Pages/Inspect/index.ctp:9
+msgid "簡易申請を実行する"
+msgstr "Tôi chạy một ứng dụng đơn giản"
+
+#: View/Admin/Pages/Menu/advance.ctp:4 View/Admin/Pages/Menu/easy.ctp:4
+#: View/Admin/Pages/Menu/index.ctp:6
+msgid "メニュートップ画像の変更"
+msgstr "Thay đổi hình ảnh trên cùng cho menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:65 View/Admin/Pages/Menu/advance.ctp:128
+#: View/Admin/Pages/Menu/advance.ctp:280 View/Admin/Pages/Menu/advance.ctp:408
+#: View/Admin/Pages/Menu/advance.ctp:539 View/Admin/Pages/Menu/easy.ctp:65
+#: View/Admin/Pages/Menu/easy.ctp:131 View/Admin/Pages/Menu/easy.ctp:319
+#: View/Admin/Pages/Menu/index.ctp:43 View/Admin/Pages/Menu/index.ctp:95
+#: View/Admin/Pages/Menu/index.ctp:229 View/Admin/Pages/Menu/index.ctp:353
+msgid "640px&nbsp;×&nbsp;350px&nbsp;以上の大きさを推奨"
+msgstr "Kích thước khuyến nghị: lớn hơn hoặc bằng 640px&nbsp;×&nbsp;350px&nbsp"
+
+#: View/Admin/Pages/Menu/advance.ctp:99 View/Admin/Pages/Menu/advance.ctp:105
+msgid "カテゴリーの新規登録"
+msgstr "Đăng ký danh mục mới"
+
+#: View/Admin/Pages/Menu/advance.ctp:135 View/Admin/Pages/Menu/advance.ctp:289
+msgid "項目名"
+msgstr "Tên đề mục"
+
+#: View/Admin/Pages/Menu/advance.ctp:138 View/Admin/Pages/Menu/advance.ctp:290
+#: View/Admin/Pages/Menu/advance.ctp:420 View/Admin/Pages/Menu/advance.ctp:549
+#: View/Admin/Pages/Menu/easy.ctp:147 View/Admin/Pages/Menu/easy.ctp:331
+#: View/Admin/Pages/Menu/index.ctp:109 View/Admin/Pages/Menu/index.ctp:243
+#: View/Admin/Pages/Menu/index.ctp:367
+msgid "商品名の入力"
+msgstr "Nhập tên sản phẩm"
+
+#: View/Admin/Pages/Menu/advance.ctp:140 View/Admin/Pages/Menu/advance.ctp:150
+#: View/Admin/Pages/Menu/advance.ctp:293 View/Admin/Pages/Menu/advance.ctp:304
+#: View/Admin/Pages/Menu/advance.ctp:423 View/Admin/Pages/Menu/advance.ctp:449
+#: View/Admin/Pages/Menu/advance.ctp:551 View/Admin/Pages/Menu/advance.ctp:578
+#: View/Admin/Pages/Menu/easy.ctp:149 View/Admin/Pages/Menu/easy.ctp:172
+#: View/Admin/Pages/Menu/easy.ctp:334 View/Admin/Pages/Menu/easy.ctp:360
+#: View/Admin/Pages/Menu/index.ctp:110 View/Admin/Pages/Menu/index.ctp:124
+#: View/Admin/Pages/Menu/index.ctp:244 View/Admin/Pages/Menu/index.ctp:258
+#: View/Admin/Pages/Menu/index.ctp:368 View/Admin/Pages/Menu/index.ctp:382
+msgid "推奨文字数：約全角22文字"
+msgstr "Số ký tự đề xuất: khoảng 22 ký tự độ rộng đầy đủ"
+
+#: View/Admin/Pages/Menu/advance.ctp:145 View/Admin/Pages/Menu/advance.ctp:298
+#: View/Admin/Pages/Menu/advance.ctp:443 View/Admin/Pages/Menu/advance.ctp:573
+#: View/Admin/Pages/Menu/easy.ctp:167 View/Admin/Pages/Menu/easy.ctp:354
+#: View/Admin/Pages/Menu/index.ctp:122 View/Admin/Pages/Menu/index.ctp:256
+#: View/Admin/Pages/Menu/index.ctp:380
+msgid "一覧説明"
+msgstr "Mô tả danh sách"
+
+#: View/Admin/Pages/Menu/advance.ctp:148 View/Admin/Pages/Menu/advance.ctp:300
+#: View/Admin/Pages/Menu/advance.ctp:445 View/Admin/Pages/Menu/advance.ctp:576
+#: View/Admin/Pages/Menu/easy.ctp:170 View/Admin/Pages/Menu/easy.ctp:356
+#: View/Admin/Pages/Menu/index.ctp:123 View/Admin/Pages/Menu/index.ctp:257
+#: View/Admin/Pages/Menu/index.ctp:381
+msgid "一覧時の説明文を入力"
+msgstr "Nhập đoạn mô tả cho sản phẩm khi hiển thị trên danh sách"
+
+#: View/Admin/Pages/Menu/advance.ctp:150 View/Admin/Pages/Menu/advance.ctp:304
+#: View/Admin/Pages/Menu/advance.ctp:449 View/Admin/Pages/Menu/advance.ctp:578
+#: View/Admin/Pages/Menu/easy.ctp:172 View/Admin/Pages/Menu/easy.ctp:360
+#: View/Admin/Pages/Menu/index.ctp:124 View/Admin/Pages/Menu/index.ctp:190
+#: View/Admin/Pages/Menu/index.ctp:258 View/Admin/Pages/Menu/index.ctp:382
+msgid "商品一覧時に表示される補足説明になります。"
+msgstr "Đây là đoạn mô tả bổ sung và sẽ được hiển thị trên danh sách sản phẩm."
+
+#: View/Admin/Pages/Menu/advance.ctp:159 View/Admin/Pages/Menu/advance.ctp:315
+#: View/Admin/Pages/Menu/advance.ctp:479 View/Admin/Pages/Menu/advance.ctp:596
+#: View/Admin/Pages/Menu/easy.ctp:190 View/Admin/Pages/Menu/easy.ctp:390
+#: View/Admin/Pages/Menu/index.ctp:140 View/Admin/Pages/Menu/index.ctp:274
+#: View/Admin/Pages/Menu/index.ctp:398
+msgid "表示する"
+msgstr "Hiển thị"
+
+#: View/Admin/Pages/Menu/advance.ctp:161 View/Admin/Pages/Menu/advance.ctp:317
+#: View/Admin/Pages/Menu/advance.ctp:481 View/Admin/Pages/Menu/advance.ctp:598
+#: View/Admin/Pages/Menu/easy.ctp:192 View/Admin/Pages/Menu/easy.ctp:392
+#: View/Admin/Pages/Menu/index.ctp:138 View/Admin/Pages/Menu/index.ctp:272
+#: View/Admin/Pages/Menu/index.ctp:396
+msgid "表示しない"
+msgstr "Không hiển thị"
+
+#: View/Admin/Pages/Menu/advance.ctp:163 View/Admin/Pages/Menu/advance.ctp:321
+#: View/Admin/Pages/Menu/advance.ctp:485 View/Admin/Pages/Menu/advance.ctp:600
+#: View/Admin/Pages/Menu/easy.ctp:194 View/Admin/Pages/Menu/easy.ctp:396
+#: View/Admin/Pages/Menu/index.ctp:142 View/Admin/Pages/Menu/index.ctp:276
+#: View/Admin/Pages/Menu/index.ctp:400
+msgid "アプリに表示させるかどうかを選ぶことができます。"
+msgstr ""
+"Bạn có thể lựa chọn có hay không cho phép hiển thị mục này trên ứng dụng."
+
+#: View/Admin/Pages/Menu/advance.ctp:195 View/Admin/Pages/Menu/easy.ctp:224
+#: View/Admin/Pages/Menu/index.ctp:169
+msgid "メニュー一覧"
+msgstr "Danh sách menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:223 View/Admin/Pages/Menu/easy.ctp:256
+msgid "更新日時:"
+msgstr "Ngày giờ cập nhật:"
+
+#: View/Admin/Pages/Menu/advance.ctp:369
+msgid "更新日時"
+msgstr "Ngày giờ cập nhật"
+
+#: View/Admin/Pages/Menu/advance.ctp:419 View/Admin/Pages/Menu/advance.ctp:546
+#: View/Admin/Pages/Menu/easy.ctp:144 View/Admin/Pages/Menu/easy.ctp:330
+#: View/Admin/Pages/Menu/index.ctp:108 View/Admin/Pages/Menu/index.ctp:242
+#: View/Admin/Pages/Menu/index.ctp:366
+msgid "商品名"
+msgstr "Tên sản phẩm"
+
+#: View/Admin/Pages/Menu/advance.ctp:428 View/Admin/Pages/Menu/advance.ctp:556
+#: View/Admin/Pages/Menu/easy.ctp:154 View/Admin/Pages/Menu/easy.ctp:339
+#: View/Admin/Pages/Menu/index.ctp:115 View/Admin/Pages/Menu/index.ctp:249
+#: View/Admin/Pages/Menu/index.ctp:373
+msgid "価格"
+msgstr "Giá cả"
+
+#: View/Admin/Pages/Menu/advance.ctp:429 View/Admin/Pages/Menu/advance.ctp:559
+#: View/Admin/Pages/Menu/easy.ctp:156 View/Admin/Pages/Menu/easy.ctp:340
+#: View/Admin/Pages/Menu/index.ctp:116 View/Admin/Pages/Menu/index.ctp:250
+#: View/Admin/Pages/Menu/index.ctp:374
+msgid "価格の入力"
+msgstr "Nhập giá "
+
+#: View/Admin/Pages/Menu/advance.ctp:438 View/Admin/Pages/Menu/advance.ctp:567
+#: View/Admin/Pages/Menu/advance.ctp:568 View/Admin/Pages/Menu/easy.ctp:163
+#: View/Admin/Pages/Menu/easy.ctp:349 View/Admin/Pages/Menu/index.ctp:117
+#: View/Admin/Pages/Menu/index.ctp:251 View/Admin/Pages/Menu/index.ctp:375
+msgid "未入力、または0を入力で商品価格の非表示がされます。"
+msgstr ""
+"Những hàng hóa chưa được nhập giá, hoặc nhập giá là \"0\" sẽ bị mất hiển thị."
+
+#: View/Admin/Pages/Menu/advance.ctp:455 View/Admin/Pages/Menu/advance.ctp:583
+#: View/Admin/Pages/Menu/easy.ctp:177 View/Admin/Pages/Menu/easy.ctp:366
+#: View/Admin/Pages/Menu/index.ctp:129 View/Admin/Pages/Menu/index.ctp:263
+#: View/Admin/Pages/Menu/index.ctp:387
+msgid "商品説明"
+msgstr "Mô tả sản phẩm"
+
+#: View/Admin/Pages/Menu/advance.ctp:459 View/Admin/Pages/Menu/advance.ctp:587
+#: View/Admin/Pages/Menu/easy.ctp:181 View/Admin/Pages/Menu/easy.ctp:370
+#: View/Admin/Pages/Menu/index.ctp:131 View/Admin/Pages/Menu/index.ctp:265
+#: View/Admin/Pages/Menu/index.ctp:389
+msgid "商品の詳細画面で表示される説明文になります。"
+msgstr "Đây sẽ là đoạn mô tả được hiển thị trên màn hình chi tiết về sản phẩm."
+
+#: View/Admin/Pages/Menu/advance.ctp:516
+msgid "ページトップへ戻る"
+msgstr "Trở về phần đầu trang"
+
+#: View/Admin/Pages/Menu/advance.ctp:517
+msgid "商品の追加"
+msgstr "Thêm sản phẩm"
+
+#: View/Admin/Pages/Menu/advance.ctp:632 View/Admin/Pages/Menu/easy.ctp:432
+#: View/Admin/Pages/Menu/index.ctp:432
+msgid "メニューの利用 ON/OFF"
+msgstr "BẬT/TẮT sử dụng menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:636 View/Admin/Pages/Menu/easy.ctp:436
+#: View/Admin/Pages/Menu/index.ctp:436
+msgid ""
+"現在、メニュー機能を利用中です。利用を停止する場合はボタンを押してください。"
+msgstr ""
+"Hiện tại bạn đang sử dụng chức năng menu.  Hãy nhấn nút trong trường hợp "
+"muốn ngừng sử dụng chức năng này."
+
+#: View/Admin/Pages/Menu/advance.ctp:637 View/Admin/Pages/Menu/easy.ctp:437
+#: View/Admin/Pages/Menu/index.ctp:437
+msgid "メニュー機能を停止すると、アプリにメニューが表示されなくなります。"
+msgstr "Nếu bạn ngừng chức năng menu, menu sẽ mất hiển thị trên  ứng dụng."
+
+#: View/Admin/Pages/Menu/advance.ctp:644 View/Admin/Pages/Menu/easy.ctp:444
+#: View/Admin/Pages/Menu/index.ctp:443
+msgid "メニュー機能の利用を停止する"
+msgstr "Ngừng sử dụng chức năng menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:659 View/Admin/Pages/Menu/easy.ctp:459
+#: View/Admin/Pages/Menu/index.ctp:458
+msgid "メニューのリセット"
+msgstr "Thiết lập lại danh sách"
+
+#: View/Admin/Pages/Menu/advance.ctp:663 View/Admin/Pages/Menu/easy.ctp:463
+#: View/Admin/Pages/Menu/index.ctp:462
+msgid "メニュー機能をリセットすると、すべてのメニューは消えてしまいますが"
+msgstr "Nếu thiết lập lại menu thì toàn bộ menu hiện tại sẽ bị xóa."
+
+#: View/Admin/Pages/Menu/advance.ctp:664 View/Admin/Pages/Menu/easy.ctp:464
+#: View/Admin/Pages/Menu/index.ctp:463
+msgid ""
+"シンプルタイプ/カスタムタイプの選択からやり直すことが出来ます。ご利用にご注意"
+"ください。"
+msgstr ""
+"Có thể chỉnh sửa bằng cách lựa chọn giữa 2 kiểu menu là menu đơn giản và "
+"menu tùy chỉnh. Hãy lưu ý khi sử dụng."
+
+#: View/Admin/Pages/Menu/advance.ctp:671 View/Admin/Pages/Menu/easy.ctp:471
+#: View/Admin/Pages/Menu/index.ctp:469
+msgid "メニューをリセットする"
+msgstr "Thiết lập lại Menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:748 View/Admin/Pages/Menu/advance.ctp:824
+#: View/Admin/Pages/Menu/easy.ctp:559 View/Admin/Pages/Menu/easy.ctp:586
+msgid "価格に数値以外が含まれています。"
+msgstr "Giá sản phẩm đang bao gồm cả giá trị không phải là giá trị số. "
+
+#: View/Admin/Pages/Menu/advance.ctp:751 View/Admin/Pages/Menu/advance.ctp:827
+#: View/Admin/Pages/Menu/advance.ctp:848 View/Admin/Pages/Menu/advance.ctp:862
+#: View/Admin/Pages/Menu/easy.ctp:562 View/Admin/Pages/Menu/easy.ctp:589
+msgid "項目名が未入力です"
+msgstr "Tên đề mục là bắt buộc"
+
+#: View/Admin/Pages/Menu/advance.ctp:754 View/Admin/Pages/Menu/advance.ctp:830
+#: View/Admin/Pages/Menu/easy.ctp:565 View/Admin/Pages/Menu/easy.ctp:592
+msgid "商品説明が未入力です"
+msgstr "Chưa nhập đoạn mô tả sản phẩm"
+
+#: View/Admin/Pages/Menu/advance.ctp:895 View/Admin/Pages/Menu/advance.ctp:916
+#: View/Admin/Pages/Menu/easy.ctp:614
+msgid "キャンセルしました"
+msgstr "Nó đã bị hủy"
+
+#: View/Admin/Pages/Menu/easy.ctp:99 View/Admin/Pages/Menu/easy.ctp:105
+#: View/Admin/Pages/Menu/index.ctp:72 View/Admin/Pages/Menu/index.ctp:77
+msgid "商品の新規登録"
+msgstr "Đăng ký hàng hóa mới"
+
+#: View/Admin/Pages/Menu/index.ctp:14 View/Admin/Pages/Menu/index.ctp:35
+#: View/Elements/block/image.ctp:33 View/Elements/block/image.ctp:35
+#: View/Elements/block/image.ctp:104 View/Elements/block/image.ctp:106
+msgid "メニュートップ画像"
+msgstr "Hình ảnh trên cùng cho menu"
+
+#: View/Admin/Pages/Menu/index.ctp:89
+msgid "メニュー商品追加画像"
+msgstr "Hình ảnh bổ sung sản phẩm cho menu"
+
+#: View/Admin/Pages/Menu/index.ctp:180 View/Admin/Pages/Menu/index.ctp:223
+#: View/Admin/Pages/Menu/index.ctp:304 View/Admin/Pages/Menu/index.ctp:347
+msgid "メニュー商品画像"
+msgstr "Hình ảnh sản phẩm trên menu"
+
+#: View/Admin/Pages/Menu/index.ctp:191
+msgid "更新日時:2015/02/03 23:06"
+msgstr "Ngày giờ cập nhật: 2015/02/03 23:06"
+
+#: View/Admin/Pages/Menu/index.ctp:315
+msgid "更新日時:2015/02/03 23:07"
+msgstr "Ngày giờ cập nhật: 2015/02/03 23:07"
+
+#: View/Admin/Pages/Menu/resume.ctp:8
+msgid ""
+"現在、メニューは利用停止状態です。再開の場合は、下記ボタンを押して利用を開始"
+"してください。"
+msgstr ""
+"Hiện tại bạn đang ngừng sử dụng chức năng menu. Trong trường hợp muốn bật "
+"lại chức năng này, hãy bắt đầu sử dụng bằng cách ấn nút dưới đây."
+
+#: View/Admin/Pages/Menu/resume.ctp:16 View/Admin/Pages/Menu/select.ctp:27
+msgid ""
+"商品をカテゴリーごとに分類して表示するなど、<br>より細かい設定で商品を登録で"
+"きます。"
+msgstr ""
+"Có thể hiển thị sản phẩm bằng cách phân loại sản phẩm vào các danh muc,"
+"<br>có thể đăng ký sản phẩm bằng các thiết lập chi tiêt hơn."
+
+#: View/Admin/Pages/Menu/resume.ctp:18
+msgid "メニューを利用開始する"
+msgstr "Bắt đầu sử dụng chức năng menu"
+
+#: View/Admin/Pages/Menu/select.ctp:8
+msgid ""
+"メニュー機能には、２つのタイプがございます。以下よりお好みの方をお選びくださ"
+"い。"
+msgstr ""
+"Có 2 loại Menu. Hãy lựa chọn loại menu mong muốn trong 2 loại dưới đây."
+
+#: View/Admin/Pages/Menu/select.ctp:17
+msgid "メニュー（シンプルタイプ）を利用する"
+msgstr "Sử dụng menu (kiểu đơn giản)"
+
+#: View/Admin/Pages/Menu/select.ctp:29
+msgid "メニュー（カスタムタイプ）を利用する"
+msgstr "Sử dụng menu (kiểu tùy chỉnh)"
+
+#: View/Admin/Pages/News/index.ctp:3 View/Admin/Pages/News/sp/index.ctp:89
+msgid "ニュースの新規登録"
+msgstr "Đăng ký menu mới"
+
+#: View/Admin/Pages/News/index.ctp:6
+msgid "ニュースの新規登録になります"
+msgstr "Đây là phần đăng ký tin tức mới"
+
+#: View/Admin/Pages/News/index.ctp:6
+msgid "アプリへの表示・プッシュ通知の送信は致しませんので、ご注意下さい。"
+msgstr ""
+"Xin lưu ý, chúng tôi sẽ không hiển thị phần này trên ứng  dụng hoặc gửi đẩy "
+"thông báo"
+
+#: View/Admin/Pages/News/index.ctp:9
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>ニュースの新規作成"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Đăng ký menu mới"
+
+#: View/Admin/Pages/News/index.ctp:17 View/Elements/block/image.ctp:76
+msgid "画像、もしくはYoutube動画を任意で登録することが出来ます。"
+msgstr "Có thể tùy ý đăng ký ảnh hoặc phim youtube"
+
+#: View/Admin/Pages/News/index.ctp:20
+msgid "どちらも利用しない"
+msgstr "Không sử dụng cả 2"
+
+#: View/Admin/Pages/News/index.ctp:21 View/Elements/block/image.ctp:79
+msgid "画像を登録する"
+msgstr "Đăng ký ảnh"
+
+#: View/Admin/Pages/News/index.ctp:22 View/Elements/block/image.ctp:80
+msgid "Youtube動画を登録する"
+msgstr "Đăng ký phim youtube"
+
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:193
+#: View/Admin/Pages/News/sp/index.ctp:122
+msgid "横幅&nbsp;640px&nbsp;以上の大きさを推奨"
+msgstr "Khuyến khích sử dụng kích thước lớn hơn hoặc bằng 640px&nbsp;"
+
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:193
+#: View/Admin/Pages/News/sp/index.ctp:123
+msgid "高さの指定はありません。"
+msgstr "Không chỉ định chiều cao"
+
+#: View/Admin/Pages/News/index.ctp:49
+msgid "Youtube"
+msgstr "Youtube"
+
+#: View/Admin/Pages/News/index.ctp:51 View/Admin/Pages/News/index.ctp:202
+msgid "対象のYoutubeのURLをコピー＆貼り付けをしてください。"
+msgstr "Hãy copy và dán URL của phim Youtube muốn sử dụng."
+
+#: View/Admin/Pages/News/index.ctp:63 View/Admin/Pages/News/index.ctp:211
+msgid "文字数：全角20文字以内を推奨"
+msgstr "Số ký tự khuyến nghị: 20 ký tự độ rộng đầy đủ"
+
+#: View/Admin/Pages/News/index.ctp:68 View/Admin/Pages/News/index.ctp:216
+#: View/Admin/Pages/News/sp/index.ctp:108
+msgid "本文"
+msgstr "Nội dung"
+
+#: View/Admin/Pages/News/index.ctp:69 View/Admin/Pages/News/index.ctp:217
+msgid "本文の選択が必要になります。"
+msgstr "Nội dụng là bắt buộc."
+
+#: View/Admin/Pages/News/index.ctp:75 View/Admin/Pages/News/index.ctp:224
+#: View/Admin/Pages/News/sp/index.ctp:127
+msgid "PUSH通知"
+msgstr "Đẩy thông báo"
+
+#: View/Admin/Pages/News/index.ctp:79 View/Admin/Pages/News/index.ctp:228
+#: View/Admin/Pages/News/sp/index.ctp:128
+msgid "ニュースを配信した時に、お客様に通知するかどうかを選べます。"
+msgstr "Lựa chọn có hay không thông báo cho khách hàng khi gửi tin mới."
+
+#: View/Admin/Pages/News/index.ctp:85 View/Admin/Pages/News/index.ctp:235
+msgid "配信日時"
+msgstr "Ngày giờ gửi"
+
+#: View/Admin/Pages/News/index.ctp:96 View/Admin/Pages/News/index.ctp:246
+msgid "日時を選択"
+msgstr "Lựa chọn ngày"
+
+#: View/Admin/Pages/News/index.ctp:103 View/Admin/Pages/News/index.ctp:253
+msgid "配信希望日が指定できます。"
+msgstr "Có thể chỉ định ngày giờ mong muốn gửi tin."
+
+#: View/Admin/Pages/News/index.ctp:104 View/Admin/Pages/News/index.ctp:254
+msgid "配信されたニュースの日時変更は出来ません。"
+msgstr "Không thể thay đổi ngày giờ gửi tin."
+
+#: View/Admin/Pages/News/index.ctp:105 View/Admin/Pages/News/index.ctp:255
+msgid "未設定の場合は、手動配信での設定になります。"
+msgstr ""
+"Trong trường hợp bạn không thiết lập phần này, thiết lập gửi tin sẽ chuyển "
+"sang chế độ gửi tin thủ công."
+
+#: View/Admin/Pages/News/index.ctp:106 View/Admin/Pages/News/index.ctp:256
+msgid "指定できる時間は、10分後からになっています。"
+msgstr ""
+"Có thể chỉ định thời gian gửi và các sự lựa chọn phút sẽ chênh nhau 10 phút"
+
+#: View/Admin/Pages/News/index.ctp:131
+msgid "ニュース一覧"
+msgstr "Danh sách tin tức"
+
+#: View/Admin/Pages/News/index.ctp:151
+msgid "登録日時:"
+msgstr "Ngày giờ đăng ký:"
+
+#: View/Admin/Pages/News/index.ctp:156
+msgid "プッシュ通知"
+msgstr "Đẩy thông báo"
+
+#: View/Admin/Pages/News/index.ctp:159
+msgid "予約配信指定"
+msgstr "Chỉ định gửi hẹn giờ"
+
+#: View/Admin/Pages/News/index.ctp:164 View/Admin/Pages/News/index.ctp:264
+#: View/Admin/Pages/Reserve/index.ctp:40 View/Admin/Pages/Reserve/index.ctp:67
+#: View/Admin/Pages/Reserve/index.ctp:104 View/Elements/sidemenu/coupon.ctp:25
+#: View/Elements/sidemenu/mail.ctp:26 View/Elements/sidemenu/map.ctp:26
+#: View/Elements/sidemenu/menu.ctp:26 View/Elements/sidemenu/news.ctp:26
+#: View/Elements/sidemenu/setting.ctp:26
+#: View/Elements/sidemenu/shopprofile.ctp:26 View/Elements/sidemenu/tel.ctp:26
+#: View/Elements/sidemenu/top.ctp:26
+msgid "<i class=\"fa fa-edit mg-r-xs\"></i>変更"
+msgstr "<i class=\"fa fa-edit mg-r-xs\"></i>Thay đổi"
+
+#: View/Admin/Pages/News/index.ctp:276 View/Admin/Pages/News/index.ctp:281
+msgid "«"
+msgstr "«"
+
+#: View/Admin/Pages/News/index.ctp:278 View/Admin/Pages/News/index.ctp:283
+msgid "»"
+msgstr "»"
+
+#: View/Admin/Pages/News/sp/index.ctp:66 View/Layouts/admin/default.ctp:95
+msgid "ログアウト"
+msgstr "Đăng xuất"
+
+#: View/Admin/Pages/News/sp/index.ctp:135
+msgid "配信"
+msgstr "Giao hàng"
+
+#: View/Admin/Pages/Reserve/index.ctp:4
+msgid "機能 ON /OFF"
+msgstr "BẬT/ TẮT chức năng"
+
+#: View/Admin/Pages/Reserve/index.ctp:8
+msgid "予約カレンダーの使用"
+msgstr "Sử dụng chức năng đặt lịch"
+
+#: View/Admin/Pages/Reserve/index.ctp:12
+msgid "サイドメニューに、予約カレンダーを表示させるか選択できます。"
+msgstr "Có thể  lựa chọn cho phép hiển thị đặt lịch ở menu bên."
+
+#: View/Admin/Pages/Reserve/index.ctp:29 View/Admin/Pages/Reserve/index.ctp:33
+msgid "ご利用方法"
+msgstr "Phương pháp sử dụng"
+
+#: View/Admin/Pages/Reserve/index.ctp:54 View/Admin/Pages/Reserve/index.ctp:58
+msgid "メール本文"
+msgstr "Nội dung mail"
+
+#: View/Admin/Pages/Reserve/index.ctp:61
+msgid "予約メールを送信する際に、ユーザーに記載してほしい項目を編集できます。"
+msgstr "Có thể sửa những mục muốn viêt vào user khi gửi mail hẹn giờ."
+
+#: View/Admin/Pages/Reserve/index.ctp:62
+msgid "予約希望日は、選択された日付が自動で挿入されます。"
+msgstr ""
+"Ngày mong muốn đặt chỗ là ngày khách hàng đã lựa chọn và sẽ tự động được "
+"chèn vào mail."
+
+#: View/Admin/Pages/Reserve/index.ctp:80
+msgid "予約用連絡先"
+msgstr "Địa chỉ liên lạc khi đặt chỗ"
+
+#: View/Admin/Pages/Reserve/index.ctp:84 View/Admin/Pages/Shop/profile.ctp:125
+#: View/Admin/Pages/Shop/profile.ctp:256
+msgid "電話番号"
+msgstr "Số điện thoại"
+
+#: View/Admin/Pages/Reserve/index.ctp:85 View/Admin/Pages/Reserve/index.ctp:86
+#: View/Admin/Pages/Reserve/index.ctp:87 View/Admin/Pages/Shop/profile.ctp:257
+#: View/Admin/Pages/Shop/profile.ctp:266
+msgid "市外局番"
+msgstr "Mã vùng "
+
+#: View/Admin/Pages/Reserve/index.ctp:88
+msgid ""
+"予約受け付け用の電話番号を指定できます。指定しない場合は、店舗情報に登録され"
+"ている電話番号が利用されます。"
+msgstr ""
+"Có thể chỉ định số điện thoại để nhận đặt chỗ. Trong trường hợp không thiết "
+"lập, chúng tôi sẽ sử dụng số điện thoại được đăng ký trong phần thông tin "
+"quầy hàng."
+
+#: View/Admin/Pages/Reserve/index.ctp:97 View/Admin/Pages/Shop/profile.ctp:277
+msgid "メールアドレスを入力"
+msgstr "Nhập địa chỉ email"
+
+#: View/Admin/Pages/Reserve/index.ctp:99
+msgid ""
+"予約受け付け用のメールアドレスを指定できます。指定しない場合は、登録されてい"
+"るログインメールアドレス宛に送信されます。"
+msgstr ""
+"Có thể thiết lập email dùng cho việc nhận đặt trước. Trong trường hợp không "
+"chỉ định, chúng tôi sẽ sử dụng địa chỉ mail đăng nhập"
+
+#: View/Admin/Pages/Shop/profile.ctp:3
+msgid "お店の写真の登録・変更"
+msgstr "Đăng ký, thay đổi ảnh của cửa hàng"
+
+#: View/Admin/Pages/Shop/profile.ctp:11 View/Admin/Pages/Shop/profile.ctp:26
+msgid "ショップ画像"
+msgstr "Hình ảnh cửa hiệu"
+
+#: View/Admin/Pages/Shop/profile.ctp:36
+msgid ""
+"ファイルサイズ：3MBまで<br />640px&nbsp;×&nbsp;420px&nbsp;以上の大きさを推奨"
+msgstr ""
+"Kích thước tập tin ：không vượt quá 3MB<br />Khuyến nghị sử dụng ảnh có kích "
+"thước lớn hơn hoặc bằng 640px&nbsp;×&nbsp;420px&nbsp;"
+
+#: View/Admin/Pages/Shop/profile.ctp:52
+msgid "お店の情報の登録・変更"
+msgstr "Đăng ký, thay đổi thông tin cửa hàng"
+
+#: View/Admin/Pages/Shop/profile.ctp:57 View/Admin/Pages/Shop/profile.ctp:198
+msgid "お店の名前"
+msgstr "Tên cửa hàng"
+
+#: View/Admin/Pages/Shop/profile.ctp:67 View/Admin/Pages/Shop/profile.ctp:209
+msgid "郵便番号"
+msgstr "Mã bưu chính"
+
+#: View/Admin/Pages/Shop/profile.ctp:75 View/Admin/Pages/Shop/profile.ctp:235
+#: View/Preview/Pages/ShopPreview/profile.ctp:20
+msgid "住所"
+msgstr "Địa chỉ"
+
+#: View/Admin/Pages/Shop/profile.ctp:94 View/Admin/Pages/Shop/profile.ctp:218
+msgid "都道府県"
+msgstr "Quận / Huyện"
+
+#: View/Admin/Pages/Shop/profile.ctp:101 View/Admin/Pages/Shop/profile.ctp:230
+msgid "市区町村"
+msgstr "thành phố"
+
+#: View/Admin/Pages/Shop/profile.ctp:108 View/Admin/Pages/Shop/profile.ctp:241
+msgid "住所（番地）"
+msgstr "Địa chỉ (địa chỉ)"
+
+#: View/Admin/Pages/Shop/profile.ctp:115 View/Admin/Pages/Shop/profile.ctp:247
+msgid "住所（建物）"
+msgstr "Địa chỉ (tòa nhà)"
+
+#: View/Admin/Pages/Shop/profile.ctp:133 View/Admin/Pages/Shop/profile.ctp:265
+#: View/Preview/Pages/ShopPreview/profile.ctp:43
+msgid "FAX"
+msgstr "FAX"
+
+#: View/Admin/Pages/Shop/profile.ctp:153 View/Admin/Pages/Shop/profile.ctp:285
+msgid "ホームページアドレス"
+msgstr "Địa chỉ website"
+
+#: View/Admin/Pages/Shop/profile.ctp:161 View/Admin/Pages/Shop/profile.ctp:292
+#: View/Preview/Pages/ShopPreview/profile.ctp:71
+msgid "オンラインショップ"
+msgstr "Cửa hàng trực tuyến"
+
+#: View/Admin/Pages/Shop/profile.ctp:172 View/Admin/Pages/Shop/profile.ctp:302
+#: View/Preview/Pages/ShopPreview/profile.ctp:79
+msgid "営業時間"
+msgstr "Thời gian kinh doanh"
+
+#: View/Admin/Pages/Shop/profile.ctp:180 View/Admin/Pages/Shop/profile.ctp:310
+#: View/Preview/Pages/ShopPreview/profile.ctp:86
+msgid "定休日"
+msgstr "Kỳ nghỉ lễ thường niên"
+
+#: View/Admin/Pages/Shop/profile.ctp:199
+msgid "お店の名前を入力"
+msgstr "Nhập tên cửa hàng"
+
+#: View/Admin/Pages/Shop/profile.ctp:201
+msgid "お店の名前を入力してください"
+msgstr "Vui lòng nhập tên của cửa hàng"
+
+#: View/Admin/Pages/Shop/profile.ctp:202
+msgid "お店の名前が必要になります。"
+msgstr "Cần thiết nhập tên cửa hàng."
+
+#: View/Admin/Pages/Shop/profile.ctp:210
+msgid "上3桁"
+msgstr "3 số đầu"
+
+#: View/Admin/Pages/Shop/profile.ctp:212 View/Admin/Pages/Shop/profile.ctp:259
+#: View/Admin/Pages/Shop/profile.ctp:268
+msgid "下4桁"
+msgstr " 4 chữ số cuối"
+
+#: View/Admin/Pages/Shop/profile.ctp:231
+msgid "市区町村を入力"
+msgstr "Nhập thành phố"
+
+#: View/Admin/Pages/Shop/profile.ctp:236
+msgid "東京都渋谷区"
+msgstr "Quận Shibuya, Thành phố Tokyo"
+
+#: View/Admin/Pages/Shop/profile.ctp:242
+msgid "住所（番地）を入力"
+msgstr "Nhập địa chỉ (địa chỉ)"
+
+#: View/Admin/Pages/Shop/profile.ctp:248
+msgid "住所（建物）を入力"
+msgstr "Nhập địa chỉ (tòa nhà)"
+
+#: View/Admin/Pages/Shop/profile.ctp:258 View/Admin/Pages/Shop/profile.ctp:267
+msgid "上4桁"
+msgstr "4 số đầu"
+
+#: View/Admin/Pages/Shop/profile.ctp:286
+msgid "ホームページアドレスを入力"
+msgstr "Nhập địa chỉ website "
+
+#: View/Admin/Pages/Shop/profile.ctp:293
+msgid "オンラインショップURLを入力"
+msgstr "Nhập URL của cửa hàng trực tuyến"
+
+#: View/Admin/Pages/Shop/profile.ctp:303
+msgid "営業時間を入力"
+msgstr "Nhập thời gian kinh doanh"
+
+#: View/Admin/Pages/Shop/profile.ctp:311
+msgid "定休日を入力"
+msgstr "Nhập các kỳ nghỉ lễ  thường niên"
+
+#: View/Admin/Pages/Shop/profile.ctp:375
+msgid "お店の写真を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký ảnh cho cửa hàng. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Shop/profile.ctp:382
+msgid "店舗情報を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký thông tin quầy hàng, Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Splash/index.ctp:3
+msgid "アプリ起動時画像の設定"
+msgstr "Cài đặt hình ảnh khi khởi động ứng dụng"
+
+#: View/Admin/Pages/Splash/index.ctp:11 View/Admin/Pages/Splash/index.ctp:26
+msgid "スプラッシュ画像"
+msgstr "Hình ảnh chờ"
+
+#: View/Admin/Pages/Splash/index.ctp:37
+msgid "ファイルサイズ：3MBまで<br>640×1136pxの大きさを推奨"
+msgstr ""
+"Kích thước tập tin: không quá 3 MB<br>Khuyến nghị sử dụng ảnh có kích thước "
+"640×1136px"
+
+#: View/Admin/Pages/Splash/index.ctp:51
+msgid "アプリ起動時動画の設定"
+msgstr "Cài đặt video khi khởi động ứng dụng"
+
+#: View/Admin/Pages/Splash/index.ctp:57 View/Admin/Pages/Splash/index.ctp:75
+#: View/Preview/Pages/SplashPreview/index.ctp:8
+msgid "動画を再生するにはvideoタグをサポートしたブラウザが必要です。"
+msgstr "Để phát một video đòi hỏi một trình duyệt có hỗ trợ thẻ video."
+
+#: View/Admin/Pages/Splash/index.ctp:86
+msgid ""
+"ファイル形式：H.264&nbsp;/&nbsp;MPEG-4<br>解像度：640px x 1136px サイズを推奨"
+"<br>ファイルサイズ：1MBまで"
+msgstr ""
+"Định dạng file: H.264 / MPEG-4<br>Độ phân giải : Khuyến nghị sử dụng kích cỡ "
+"640px x 1136px<br>Kích thước tập tin: không quá 1MB"
+
+#: View/Admin/Pages/Splash/index.ctp:142
+msgid "ファイル形式が異なっております"
+msgstr "Định dạng file không đúng"
+
+#: View/Admin/Pages/Splash/index.ctp:179
+msgid "スプラッシュ画像を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký hình ảnh chờ cửa ứng dụng. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Splash/index.ctp:186
+msgid "スプラッシュ動画を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký video chờ cửa ứng dụng. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Support/manual.ctp:5 View/Layouts/admin/default.ctp:84
+#: View/Layouts/admin/default.ctp:101
+msgid "マニュアル"
+msgstr "Hướng dẫn sử dụng"
+
+#: View/Admin/Pages/Support/manual.ctp:7
+msgid "アプリ制作や管理画面についてのマニュアルをダウンロードいただけます。"
+msgstr "Bạn có thể tải hướng dẫn màn hình quản lý và tạo ứng dụng."
+
+#: View/Admin/Pages/Support/manual.ctp:11
+#: View/Admin/Pages/Support/manual.ctp:15
+msgid "マニュアルのダウンロード"
+msgstr "Tải hướng dẫn sử dụng"
+
+#: View/Admin/Pages/Support/manual.ctp:18
+msgid "※pdfファイルとなっています。"
+msgstr "※ file PDF."
+
+#: View/Admin/Pages/Top/index.ctp:10
+msgid "Start!"
+msgstr ""
+
+#: View/Admin/Pages/Top/index.ctp:12
+msgid "最新プッシュ日時:"
+msgstr "Ngày đẩy lên mới nhất:"
+
+#: View/Admin/Pages/Top/index.ctp:13
+msgid "ニュース配信は、アプリ公開後に行えます。"
+msgstr "Có thể gửi tin tức ngay sau khi công bố ứng dụng"
+
+#: View/Admin/Pages/Web/index.ctp:15 View/Admin/Pages/Web/index.ctp:87
+msgid "更新"
+msgstr "Cập  nhật"
+
+#: View/Admin/Pages/Web/index.ctp:24
+msgid "画像を選択"
+msgstr "Lựa chọn ảnh"
+
+#: View/Admin/Pages/Web/index.ctp:33
+msgid "画像"
+msgstr "Ảnh"
+
+#: View/Admin/Pages/Web/index.ctp:41
+msgid "ファイルサイズ：3MBまで<br />htmlに表示させる画像を登録してください。"
+msgstr ""
+"Kích thước tập tin：không quá 3MB<br>hãy đăng ký ảnh hiển thị trên html."
+
+#: View/Admin/Pages/Web/index.ctp:52
+msgid "画像が登録されていません。"
+msgstr "Chưa đăng ký ảnh."
+
+#: View/Admin/Pages/Web/index.ctp:110
+msgid "HTMLを登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký HTML. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Web/index.ctp:117
+msgid "画像を登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký ảnh. Bạn có đồng ý không?"
+
+#: View/Admin/Pages/Web/index.ctp:124
+msgid "画像を削除します。よろしいですか"
+msgstr "Bạn có chắc muốn xóa ảnh này đi?"
+
+#: View/Admin/Pages/Web/index.ctp:131
+msgid "CSSを登録します。よろしいですか"
+msgstr "Chúng tôi sẽ đăng ký CSS. Bạn có đồng ý không"
+
+#: View/Elements/block/cms.ctp:5
+msgid "HTMLビューブロック"
+msgstr "Khối xem HTML"
+
+#: View/Elements/block/cms.ctp:15 View/Elements/block/coupon.ctp:14
+#: View/Elements/block/image.ctp:14 View/Elements/block/map.ctp:15
+#: View/Elements/block/menu.ctp:14 View/Elements/block/news.ctp:13
+#: View/Elements/block/sns.ctp:14 View/Elements/block/tel.ctp:13
+#: View/Elements/block/topic.ctp:14 View/Elements/block/webview.ctp:17
+#: View/Elements/sidemenu/coupon.ctp:13 View/Elements/sidemenu/mail.ctp:13
+#: View/Elements/sidemenu/map.ctp:13 View/Elements/sidemenu/menu.ctp:13
+#: View/Elements/sidemenu/news.ctp:13 View/Elements/sidemenu/setting.ctp:13
+#: View/Elements/sidemenu/shopprofile.ctp:13 View/Elements/sidemenu/tel.ctp:13
+#: View/Elements/sidemenu/top.ctp:13
+msgid "お客様に見せるかどうかを選ぶことができます。"
+msgstr ""
+"Có thể lựa chọn xem có cho phép người dùng nhìn thấy nội dung này hay không."
+
+#: View/Elements/block/cms.ctp:27
+msgid "ボックス高さ(px)"
+msgstr "Chiều cao hộp (px)"
+
+#: View/Elements/block/cms.ctp:28
+msgid "数値を入力"
+msgstr "Nhập giá trị số"
+
+#: View/Elements/block/cms.ctp:32
+msgid ""
+"端末によって表示に差異がございますので、おおよそのpx指定になっております。"
+"<br>最大1200pxまでになっています。ご注意ください。"
+msgstr ""
+"Xin lưu ý, tùy vào thiết bị đầu cuối máy tính mà hiển thị sẽ có sự sai khác. "
+"Vì thế kích thước px chỉ định sẽ chỉ mang tính tương đối. <br>Kích thước lớn "
+"nhất không vượt quá 1200px"
+
+#: View/Elements/block/cms.ctp:42
+msgid "編集画面へ移動"
+msgstr "Tới màn hình chỉnh sửa"
+
+#: View/Elements/block/cms.ctp:44
+msgid "上記、リンク先からでもHTMLの編集画面へ移動できます。"
+msgstr ""
+"Trên đây, có thể di chuyển tới màn hình chỉnh sửa HTML ngay từ địa chỉ liên "
+"kết."
+
+#: View/Elements/block/coupon.ctp:4
+msgid "クーポンブロック"
+msgstr "Khối phiếu giảm giá"
+
+#: View/Elements/block/image.ctp:5
+msgid "イメージリストブロック"
+msgstr "Khối danh sách hình ảnh"
+
+#: View/Elements/block/image.ctp:38
+msgid "Youtubeへリンクされています。"
+msgstr "Liên kết đến Yourtube"
+
+#: View/Elements/block/image.ctp:49
+#: View/Preview/Pages/ReservePreview/calendar.ctp:292
+msgid "年"
+msgstr "Năm"
+
+#: View/Elements/block/image.ctp:50
+#: View/Preview/Pages/ReservePreview/calendar.ctp:293
+msgid "月"
+msgstr "Tháng"
+
+#: View/Elements/block/image.ctp:51
+#: View/Preview/Pages/ReservePreview/calendar.ctp:294
+msgid "日"
+msgstr "Ngày"
+
+#: View/Elements/block/image.ctp:119
+msgid ""
+"ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;350px&nbsp;以上の大きさを推奨"
+msgstr ""
+"Kích thước tập tin：Không quá 3MB<br>Khuyến nghị sử dụng ảnh có kích thước "
+"lớn hơn hoặc bằng 640px&nbsp;×&nbsp;350px&nbsp;"
+
+#: View/Elements/block/image.ctp:121
+msgid ""
+"お好きなURL、もしくはアプリ内の他ページへのリンクを任意で設定することが出来ま"
+"す。"
+msgstr ""
+"Có thể tùy ý thiết lập liên kết đến các URL hay các trang khác trong ứng "
+"dụng."
+
+#: View/Elements/block/image.ctp:128
+msgid "設定しない"
+msgstr "Không thiết lập"
+
+#: View/Elements/block/image.ctp:129
+msgid "URLを設定する"
+msgstr "Thiết lập URL"
+
+#: View/Elements/block/image.ctp:130
+msgid "アプリ内リンクを設定する"
+msgstr "Thiết lập liên kết trong ứng dụng"
+
+#: View/Elements/block/image.ctp:138
+msgid "リンク設定：なし"
+msgstr "Thiết lập đường dẫn: Không có"
+
+#: View/Elements/block/image.ctp:148
+msgid "例：http://www.hiropro.co.jp/"
+msgstr "Ví dụ：http://www.hanelsoft.vn/"
+
+#: View/Elements/block/image.ctp:157
+msgid "アプリ内リンク"
+msgstr "Liên kết trong ứng dụng"
+
+#: View/Elements/block/map.ctp:5
+msgid "マップブロック"
+msgstr "Khối bản đồ"
+
+#: View/Elements/block/menu.ctp:4
+msgid "おすすめメニューブロック"
+msgstr "Khối menu đề xuất sản phẩm"
+
+#: View/Elements/block/menu.ctp:29
+msgid "おすすめメニュー"
+msgstr "Menu hiển thị sản phẩm đề xuất"
+
+#: View/Elements/block/news.ctp:4
+msgid "ニュースブロック"
+msgstr "Khối menu"
+
+#: View/Elements/block/sns.ctp:4
+msgid "SNSブロック"
+msgstr "Khối SNS"
+
+#: View/Elements/block/tel.ctp:4
+msgid "TEL/MAILブロック"
+msgstr "Khối TEL / MAIL"
+
+#: View/Elements/block/topic.ctp:4
+msgid "トピックメッセージブロック"
+msgstr "Khối tin nhắn chủ đề"
+
+#: View/Elements/block/topic.ctp:25
+msgid "メッセージ"
+msgstr "Tin nhắn"
+
+#: View/Elements/block/topic.ctp:26
+msgid "メッセージを入力してください"
+msgstr "Hãy nhập tin nhắn"
+
+#: View/Elements/block/webview.ctp:4
+msgid "ウェブビューブロック"
+msgstr "Khối webview"
+
+#: View/Elements/block/webview.ctp:27
+msgid "例：http://www.google.co.jp"
+msgstr "Ví dụ：http://www.google.co.jp"
+
+#: View/Elements/paginator.ctp:14
+msgid "＜＜"
+msgstr "＜＜"
+
+#: View/Elements/paginator.ctp:16
+msgid "＞＞"
+msgstr "＞＞"
+
+#: View/Elements/paginator.ctp:21
+msgid "全{:count}件中　{:page}/{:pages}ページを表示"
+msgstr "Tổng cộng{:count}lượt　Hiển thị trang{:page}/ {:pages}"
+
+#: View/Elements/preview/block/coupon.ctp:3
+msgid "お得なクーポン情報！"
+msgstr "Thông tin phiếu giảm giá đặc biệt!"
+
+#: View/Elements/preview/block/coupon.ctp:4
+#: View/Elements/preview/block/menu.ctp:6
+#: View/Elements/preview/block/menu.ctp:8
+#: View/Elements/preview/block/news.ctp:5
+msgid "もっと見る"
+msgstr "Hiển thị thêm"
+
+#: View/Elements/preview/block/coupon.ctp:20
+#: View/Preview/Pages/CouponPreview/index.ctp:43
+#: View/Preview/Pages/CouponPreview/index.ctp:45
+#: View/Preview/Pages/CouponPreview/index.ctp:48
+msgid "有効期限"
+msgstr "Hạn sử dụng"
+
+#: View/Elements/preview/block/coupon.ctp:22
+#: View/Elements/preview/block/news.ctp:13
+#: View/Preview/Pages/CouponPreview/index.ctp:43
+#: View/Preview/Pages/NewsPreview/index.ctp:27
+msgid "Y-m-d"
+msgstr ""
+
+#: View/Elements/preview/block/coupon.ctp:24
+#: View/Elements/preview/block/news.ctp:15
+#: View/Preview/Pages/CouponPreview/index.ctp:45
+#: View/Preview/Pages/NewsPreview/index.ctp:29
+msgid "Y年m月d日"
+msgstr "Năm Y Tháng m Ngày d"
+
+#: View/Elements/preview/block/map.ctp:3
+msgid "お店までのMAP"
+msgstr "Bản đồ dẫn đến cửa hàng"
+
+#: View/Elements/preview/block/menu.ctp:3
+msgid "当店のおすすめメニュー"
+msgstr "Menu hiển thị sản phẩm do cửa hàng đề xuất"
+
+#: View/Elements/preview/block/news.ctp:4
+msgid "当店のインフォメーション"
+msgstr "Thông tin từ cửa hàng"
+
+#: View/Elements/preview/block/tel.ctp:5
+msgid "電話をかける"
+msgstr "Gọi điện"
+
+#: View/Elements/preview/block/tel.ctp:5
+#: View/Preview/Pages/ShopPreview/profile.ctp:36
+msgid "TEL"
+msgstr "TEL"
+
+#: View/Elements/preview/block/tel.ctp:8
+msgid "メールを送る"
+msgstr "Gửi mail"
+
+#: View/Elements/preview/block/tel.ctp:8
+msgid "MAIL"
+msgstr "MAIL"
+
+#: View/Elements/preview/block/webview.ctp:4
+#: View/Layouts/admin/default.ctp:148
+#: View/Preview/Pages/HtmlPreview/index.ctp:2
+#: View/Preview/Pages/ReservePreview/index.ctp:3
+msgid "この部分はインラインフレームを使用しています。"
+msgstr "Phần này đang sử dụng khung nội tuyến"
+
+#: View/Elements/preview/top.ctp:9
+msgid "アプリケーション名"
+msgstr "Tên ứng dụng"
+
+#: View/Elements/sidemenu/coupon.ctp:21 View/Elements/sidemenu/mail.ctp:22
+#: View/Elements/sidemenu/map.ctp:22 View/Elements/sidemenu/menu.ctp:22
+#: View/Elements/sidemenu/news.ctp:22 View/Elements/sidemenu/setting.ctp:22
+#: View/Elements/sidemenu/shopprofile.ctp:22 View/Elements/sidemenu/tel.ctp:22
+#: View/Elements/sidemenu/top.ctp:22
+msgid "メニュー名"
+msgstr "Tên menu"
+
+#: View/Elements/sidemenu/coupon.ctp:22 View/Elements/sidemenu/mail.ctp:23
+#: View/Elements/sidemenu/map.ctp:23 View/Elements/sidemenu/menu.ctp:23
+#: View/Elements/sidemenu/news.ctp:23 View/Elements/sidemenu/setting.ctp:23
+#: View/Elements/sidemenu/shopprofile.ctp:23 View/Elements/sidemenu/tel.ctp:23
+#: View/Elements/sidemenu/top.ctp:23
+msgid "メニュー名の入力"
+msgstr "Nhập tên menu"
+
+#: View/Errors/error400.ctp:34
+msgid "400 Bad Request Error!"
+msgstr ""
+
+#: View/Errors/error500.ctp:31
+msgid "500 Internal Server Error!"
+msgstr ""
+
+#: View/Layouts/admin/default.ctp:65
+msgid "アプリ制作を申請します。よろしいですか？"
+msgstr "Chúng tôi sẽ áp dụng cho một ứng dụng sản xuất. Bạn có chắc không?"
+
+#: View/Layouts/admin/default.ctp:124
+msgid "お疲れ様でした！"
+msgstr "Cảm ơn ! "
+
+#: View/Layouts/admin/default.ctp:126
+msgid ""
+"アプリの準備が整いました！！<br>審査申請ボタンを押してください。なお、申請中"
+"は管理画面のすべての機能が一時的にご利用できなくなります。申請が完了するまで"
+"今しばらくお待ちください。"
+msgstr ""
+"App sẵn sàng cho sử dụng! ! Xin vui lòng nhấn vào nút kiểm tra ứng dụng"
+
+#: View/Layouts/admin/default.ctp:130
+msgid "確認する"
+msgstr "Kiểm tra"
+
+#: View/Layouts/admin/default.ctp:136
+msgid "アプリ申請"
+msgstr "Ứng dụng App"
+
+#: View/Layouts/admin/default.ctp:138
+msgid ""
+"トップ、メニュー、店舗情報など、必要な情報の入力が完了したら、アプリの仮申請"
+"をしましょう"
+msgstr ""
+"Top, menu, chẳng hạn như lưu trữ thông tin, bạn đã hoàn thành đầu vào của "
+"các thông tin cần thiết, và để cho các ứng dụng tạm thời của các ứng dụng"
+
+#: View/Layouts/admin/default.ctp:141
+msgid "仮申請"
+msgstr "Áp dụng tạm thời"
+
+#: View/Layouts/admin/default.ctp:220
+msgid "スプラッシュ"
+msgstr "Màn hình chờ"
+
+#: View/Layouts/admin/default.ctp:229
+msgid "ヘッダー"
+msgstr "Tiêu đề"
+
+#: View/Layouts/admin/default.ctp:238
+msgid "背景"
+msgstr "Nền"
+
+#: View/Layouts/admin/default.ctp:247
+msgid "フッター"
+msgstr "Cuối trang "
+
+#: View/Layouts/admin/default.ctp:257
+msgid "サイドメニュー"
+msgstr "Menu bên"
+
+#: View/Layouts/admin/default.ctp:287
+#: View/Preview/Pages/ReservePreview/calendar.ctp:141
+msgid "予約カレンダー"
+msgstr "Đặt Lịch"
+
+#: View/Layouts/admin/default.ctp:296
+msgid "ストア情報"
+msgstr "Thông tin cửa hàng"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:38
+msgid "無料"
+msgstr "Miễn phí"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:46
+msgid "詳細"
+msgstr "Chi tiết"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:47
+msgid "レビュー"
+msgstr "Xem lại"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:48
+msgid "関連"
+msgstr "Liên kết"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:79
+msgid "説明"
+msgstr "Mô tả"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:88
+msgid "情報"
+msgstr "Thông tin"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:90
+msgid "販売元"
+msgstr "Nguồn phân phối"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:91
+msgid "デベロッパ"
+msgstr "Nhà phát triển"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:92
+msgid "カテゴリ"
+msgstr "Danh mục"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:93
+msgid "バージョン"
+msgstr "phiên bản"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:94
+msgid "サイズ"
+msgstr "Kích thước"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:95
+msgid "レート"
+msgstr "Tỉ lệ"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:96
+msgid "互換性"
+msgstr "Khả năng tương thích"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:96
+msgid ""
+"iOS 6.1 以降。iPhone、iPad および iPod touch 対応。iPhone 5 用に最適化済み"
+msgstr ""
+"Khả năng tương thích iOS 6.1 hoặc mới hơn. Hỗ trợ IPhone, iPad và iPod "
+"touch. Tối ưu hóa cho iPhone 5"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:105
+msgid "バージョン履歴"
+msgstr "Dữ kiện phiên bản"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:113
+msgid "デベロッパApp"
+msgstr "Nhà phát triển ứng dụng"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:121
+msgid "デベロッパWebサイト"
+msgstr "Nhà phát triển trang Web"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:129
+msgid "プライバシーポリシー"
+msgstr "Chính sách bảo mật"
+
+#: View/Preview/Pages/CouponPreview/index.ctp:37
+msgid "ご注意事項"
+msgstr "Lưu ý"
+
+#: View/Preview/Pages/CouponPreview/index.ctp:48
+msgid "なし"
+msgstr "không có"
+
+#: View/Preview/Pages/NewsPreview/index.ctp:47
+msgid "いいね！"
+msgstr "Thích!"
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:296
+msgid "下記の日付にて予約メールを送信いたしますか？"
+msgstr "Chúng tôi sẽ gửi mail đặt chỗ này sử dụng thời gian dưới đây."
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:299
+msgid "メーラーが起動します。"
+msgstr "Bắt đầu gửi mail."
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:302
+msgid "【重要】予約希望メール"
+msgstr "【Quan trọng】Mail đặt chỗ"
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:313
+msgid "■予約希望日%0D%0A"
+msgstr "Ngày có nhu cầu đặt chỗ %0D%0A"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:4
+msgid "PUSH通知設定"
+msgstr "Các thiết lập thông báo PUSH"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:6
+msgid "アプリからのお知らせ"
+msgstr "Tin tức từ các ứng dụng"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:10
+msgid "会社情報"
+msgstr "Về chúng tôi"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:16
+msgid "お問い合わせ"
+msgstr "Liên hệ với chúng tôi"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:19
+msgid "その他"
+msgstr "Khác"
+
+#: View/Preview/Pages/SettingPreview/index.ctp:21
+msgid "このアプリについて"
+msgstr "Giới thiệu ứng dụng"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:23
+msgid "〒"
+msgstr "〒"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:50
+#: View/Preview/Pages/ShopPreview/profile.ctp:57
+msgid "Email"
+msgstr "Email"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:64
+msgid "URL"
+msgstr "URL"
+
+#: View/Preview/Pages/TelPreview/index.ctp:8
+msgid "この画面は、プレビューでは表示されません。"
+msgstr "Màn hình này không được hiển thị trong chế độ xem trước."
+
+#~ msgid "<i class=\"fa fa-trash-o mg-r-xs\"></i>削除"
+#~ msgstr "<i class=\"fa fa-trash-o mg-r-xs\"></i>&nbsp;Xóa bỏ"
+
+#~ msgid "タイトルが未入力です"
+#~ msgstr "Chưa nhập tiêu đề"
+
+#~ msgid "ニュースの新規登録に失敗しました。"
+#~ msgstr "Đăng ký tin mới thất bại"
+
+#~ msgid "枚目"
+#~ msgstr "Số phiếu"
+
+#~ msgid "金"
+#~ msgstr "Năm"
+
+#~ msgid "Preview"
+#~ msgstr "Preview"
+
+#~ msgid "<i class=\"a fa-trash mg-l-xs\"></i>削除"
+#~ msgstr "<i class=\"a fa-trash mg-l-xs\"></i> Xóa"
+
+#~ msgid "<i class=\"a fa-trash-o mg-l-xs\"></i>削除"
+#~ msgstr "<i class=\"a fa-trash-o mg-l-xs\"></i>Xóa"
+
+#~ msgid "IDとパスワードを入力してください。"
+#~ msgstr "Hãy nhập ID và mật khẩu"
+
+#~ msgid "ログインが無効になりました。"
+#~ msgstr "Đăng nhập đã bị vô hiệu hóa"
+
+#~ msgid "起動画面用の画像の登録"
+#~ msgstr "Đăng kí hình ảnh từ màn hình start-up"
+
+#~ msgid "アプリケーション起動時の画像の設定になります。"
+#~ msgstr ""
+#~ "Nó trở thành cài đặt của các hình ảnh giật gân khi khởi động ứng dụng"
+
+#~ msgid "最大全角６文字分 (半角12文字分)"
+#~ msgstr "6 ký tự tối đa chiều rộng (nửa chiều rộng 12 kí tự)"
+
+#~ msgid "最大全角112文字／推奨全角9文字以内"
+#~ msgstr "Thời hạn tối đa là 112 ký tự  / 9 kí tự được quy định"
+
+#~ msgid "配信済み"
+#~ msgstr "Giao hàng"

@@ -1,0 +1,10 @@
+*/config/app.php
+*/tmp/*
+*/logs/*
+
+*/Config/core.php
+*/Config/database.php
+*/vendors/*
+
+
+sftp-config.json

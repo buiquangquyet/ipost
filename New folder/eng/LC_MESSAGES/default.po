@@ -1,0 +1,2460 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-03 15:03+0700\n"
+"PO-Revision-Date: 2015-06-03 17:28+0700\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\\..\\..\\\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: Locale\\eng\\LC_MESSAGES\n"
+
+#: webroot/js/jquery-ui.min.js:6
+msgid "'"
+msgstr ""
+
+#: Config/ipost.php:27 Config/ipost.php:211
+msgid "未使用"
+msgstr "Unused"
+
+#: Config/ipost.php:28 Config/ipost.php:41 Config/ipost.php:212
+#: Config/ipost.php:286 Config/ipost.php:382 View/Elements/sidemenu/top.ctp:4
+#: View/Layouts/admin/default.ctp:148
+msgid "トップ"
+msgstr "Top"
+
+#: Config/ipost.php:29 Config/ipost.php:52 Config/ipost.php:122
+#: Config/ipost.php:213 Config/ipost.php:287 Config/ipost.php:383
+#: Config/ipost.php:623 View/Elements/sidemenu/news.ctp:4
+#: View/Layouts/admin/default.ctp:157
+msgid "ニュース"
+msgstr "News"
+
+#: Config/ipost.php:30 Config/ipost.php:47 Config/ipost.php:120
+#: Config/ipost.php:288 Config/ipost.php:384 View/Elements/sidemenu/menu.ctp:4
+#: View/Layouts/admin/default.ctp:166
+msgid "メニュー"
+msgstr "Menu"
+
+#: Config/ipost.php:31 Config/ipost.php:44 Config/ipost.php:121
+#: Config/ipost.php:289 Config/ipost.php:385
+#: View/Elements/sidemenu/coupon.ctp:4 View/Layouts/admin/default.ctp:175
+msgid "クーポン"
+msgstr "Coupon"
+
+#: Config/ipost.php:32
+msgid "設定"
+msgstr "Setting"
+
+#: Config/ipost.php:33 Config/ipost.php:50
+msgid "電話"
+msgstr "Phone"
+
+#: Config/ipost.php:34 Config/ipost.php:55
+msgid "メール"
+msgstr "Email"
+
+#: Config/ipost.php:35
+msgid "地図"
+msgstr "Map"
+
+#: Config/ipost.php:36 Config/ipost.php:290 Config/ipost.php:386
+#: View/Elements/sidemenu/shopprofile.ctp:4 View/Layouts/admin/default.ctp:231
+msgid "店舗情報"
+msgstr "Store information"
+
+#: Config/ipost.php:42 Config/ipost.php:291 Config/ipost.php:387
+#: View/Elements/sidemenu/setting.ctp:4
+msgid "セッティング"
+msgstr "Setting"
+
+#: Config/ipost.php:43 View/Layouts/admin/default.ctp:241
+msgid "HTML"
+msgstr "HTML"
+
+#: Config/ipost.php:45 Config/ipost.php:57
+msgid "通知"
+msgstr "Notifications"
+
+#: Config/ipost.php:46 Config/ipost.php:294 Config/ipost.php:390
+#: View/Elements/sidemenu/map.ctp:4
+msgid "マップ"
+msgstr "Map"
+
+#: Config/ipost.php:48
+msgid "カート"
+msgstr "Cart"
+
+#: Config/ipost.php:49
+msgid "ショップ"
+msgstr "Shop"
+
+#: Config/ipost.php:51
+msgid "コイン"
+msgstr "Coin"
+
+#: Config/ipost.php:53
+msgid "ギャラリー"
+msgstr "Galleries"
+
+#: Config/ipost.php:54
+msgid "ユーザー"
+msgstr "User"
+
+#: Config/ipost.php:56
+msgid "シェア"
+msgstr "Share"
+
+#: Config/ipost.php:58
+msgid "スマホ"
+msgstr "Smartphone"
+
+#: Config/ipost.php:83 Config/ipost.php:99 Config/ipost.php:114
+#: Config/ipost.php:142 View/Admin/Pages/Menu/advance.ctp:155
+#: View/Admin/Pages/Menu/advance.ctp:318 View/Admin/Pages/Menu/advance.ctp:485
+#: View/Admin/Pages/Menu/advance.ctp:602 View/Admin/Pages/Menu/easy.ctp:186
+#: View/Admin/Pages/Menu/easy.ctp:383 View/Admin/Pages/Menu/index.ctp:136
+#: View/Admin/Pages/Menu/index.ctp:270 View/Admin/Pages/Menu/index.ctp:394
+#: View/Elements/block/cms.ctp:11 View/Elements/block/coupon.ctp:10
+#: View/Elements/block/image.ctp:10 View/Elements/block/map.ctp:11
+#: View/Elements/block/menu.ctp:10 View/Elements/block/news.ctp:9
+#: View/Elements/block/sns.ctp:10 View/Elements/block/tel.ctp:9
+#: View/Elements/block/topic.ctp:10 View/Elements/block/webview.ctp:11
+#: View/Elements/sidemenu/coupon.ctp:9 View/Elements/sidemenu/mail.ctp:9
+#: View/Elements/sidemenu/map.ctp:9 View/Elements/sidemenu/menu.ctp:9
+#: View/Elements/sidemenu/news.ctp:9 View/Elements/sidemenu/setting.ctp:9
+#: View/Elements/sidemenu/shopprofile.ctp:9 View/Elements/sidemenu/tel.ctp:9
+#: View/Elements/sidemenu/top.ctp:9
+msgid "表示"
+msgstr "Show"
+
+#: Config/ipost.php:84 Config/ipost.php:100 Config/ipost.php:115
+#: Config/ipost.php:143
+msgid "非表示"
+msgstr "Hide"
+
+#: Config/ipost.php:92
+msgid "通常クーポン"
+msgstr "Normal coupon"
+
+#: Config/ipost.php:93
+msgid "期間限定クーポン"
+msgstr "Limited coupon"
+
+#: Config/ipost.php:94
+msgid "使いきりクーポン"
+msgstr "Single Use coupon"
+
+#: Config/ipost.php:105 Config/ipost.php:555
+msgid "する"
+msgstr "Do"
+
+#: Config/ipost.php:106 Config/ipost.php:556
+msgid "しない"
+msgstr "Cancel"
+
+#: Config/ipost.php:133
+msgid "狭い"
+msgstr "Narrow"
+
+#: Config/ipost.php:134
+msgid "普通"
+msgstr "Normal "
+
+#: Config/ipost.php:135
+msgid "広い"
+msgstr "Wide"
+
+#: Config/ipost.php:156
+msgid "都道府県を選択"
+msgstr "Choose State"
+
+#: Config/ipost.php:157
+msgid "北海道"
+msgstr "Hokkaido"
+
+#: Config/ipost.php:158
+msgid "青森県"
+msgstr "Aomori Prefecture"
+
+#: Config/ipost.php:159
+msgid "岩手県"
+msgstr "Iwate Prefecture"
+
+#: Config/ipost.php:160
+msgid "宮城県"
+msgstr "Miyagi Prefecture"
+
+#: Config/ipost.php:161
+msgid "秋田県"
+msgstr "Akita Prefecture"
+
+#: Config/ipost.php:162
+msgid "山形県"
+msgstr "Yamagata Prefecture"
+
+#: Config/ipost.php:163
+msgid "福島県"
+msgstr "Fukushima Prefecture"
+
+#: Config/ipost.php:164
+msgid "茨城県"
+msgstr "Ibaraki Prefecture"
+
+#: Config/ipost.php:165
+msgid "栃木県"
+msgstr "Tochigi Prefecture"
+
+#: Config/ipost.php:166
+msgid "群馬県"
+msgstr "Gunma Prefecture"
+
+#: Config/ipost.php:167
+msgid "埼玉県"
+msgstr "Saitama Prefecture"
+
+#: Config/ipost.php:168
+msgid "千葉県"
+msgstr "Chiba Prefecture"
+
+#: Config/ipost.php:169
+msgid "東京都"
+msgstr "Tokyo Metropolitan area"
+
+#: Config/ipost.php:170
+msgid "神奈川県"
+msgstr "Kanagawa Prefecture"
+
+#: Config/ipost.php:171
+msgid "新潟県"
+msgstr "Niigata Prefecture"
+
+#: Config/ipost.php:172
+msgid "富山県"
+msgstr "Toyama Prefecture"
+
+#: Config/ipost.php:173
+msgid "石川県"
+msgstr "Kanagawa Prefecture"
+
+#: Config/ipost.php:174
+msgid "福井県"
+msgstr "Fukui Prefecture"
+
+#: Config/ipost.php:175
+msgid "山梨県"
+msgstr "Toyama Prefecture"
+
+#: Config/ipost.php:176
+msgid "長野県"
+msgstr "Nagano Prefecture"
+
+#: Config/ipost.php:177
+msgid "岐阜県"
+msgstr "Gifu Prefecture"
+
+#: Config/ipost.php:178
+msgid "静岡県"
+msgstr "Shizuoka Prefecture"
+
+#: Config/ipost.php:179
+msgid "愛知県"
+msgstr "Aichi Prefecture"
+
+#: Config/ipost.php:180
+msgid "三重県"
+msgstr "Mie Prefecture"
+
+#: Config/ipost.php:181
+msgid "滋賀県"
+msgstr "Shiga Prefecture"
+
+#: Config/ipost.php:182
+msgid "京都府"
+msgstr "Kyoto Prefecture"
+
+#: Config/ipost.php:183
+msgid "大阪府"
+msgstr "Osaka prefecture"
+
+#: Config/ipost.php:184
+msgid "兵庫県"
+msgstr "Hyogo Prefecture"
+
+#: Config/ipost.php:185
+msgid "奈良県"
+msgstr "Nara Prefecture"
+
+#: Config/ipost.php:186
+msgid "和歌山県"
+msgstr "Wakayama Prefecture"
+
+#: Config/ipost.php:187
+msgid "鳥取県"
+msgstr "Tottori Prefecture"
+
+#: Config/ipost.php:188
+msgid "島根県"
+msgstr "Shimane Prefecture"
+
+#: Config/ipost.php:189
+msgid "岡山県"
+msgstr "Okayama Prefecture"
+
+#: Config/ipost.php:190
+msgid "広島県"
+msgstr "Hiroshima Prefecture"
+
+#: Config/ipost.php:191
+msgid "山口県"
+msgstr "Yamaguchi Prefecture"
+
+#: Config/ipost.php:192
+msgid "徳島県"
+msgstr "Tokushima Prefecture"
+
+#: Config/ipost.php:193
+msgid "香川県"
+msgstr "Kagawa Prefecture"
+
+#: Config/ipost.php:194
+msgid "愛媛県"
+msgstr "Ehime Prefecture"
+
+#: Config/ipost.php:195
+msgid "高知県"
+msgstr "Kochi Prefecture"
+
+#: Config/ipost.php:196
+msgid "福岡県"
+msgstr "Fukuoka Prefecture"
+
+#: Config/ipost.php:197
+msgid "佐賀県"
+msgstr "Saga Prefecture"
+
+#: Config/ipost.php:198
+msgid "長崎県"
+msgstr "Nagasaki Prefecture"
+
+#: Config/ipost.php:199
+msgid "熊本県"
+msgstr "Kumamoto Prefecture"
+
+#: Config/ipost.php:200
+msgid "大分県"
+msgstr "Oita Prefecture"
+
+#: Config/ipost.php:201
+msgid "宮崎県"
+msgstr "Miyazaki Prefecture"
+
+#: Config/ipost.php:202
+msgid "鹿児島県"
+msgstr "Kagoshima Prefecture"
+
+#: Config/ipost.php:203
+msgid "沖縄県"
+msgstr "Okinawa Prefecture"
+
+#: Config/ipost.php:292 Config/ipost.php:388 View/Elements/sidemenu/tel.ctp:4
+msgid "電話する"
+msgstr "Call"
+
+#: Config/ipost.php:293 Config/ipost.php:389 View/Elements/sidemenu/mail.ctp:4
+msgid "メールする"
+msgstr "E-mail"
+
+#: Config/ipost.php:418 Config/ipost.php:419 Config/ipost.php:420
+msgid "未選択"
+msgstr "Unselected"
+
+#: Config/ipost.php:516
+msgid "時の選択"
+msgstr "Select hour"
+
+#: Config/ipost.php:543
+msgid "分の選択"
+msgstr "Select Minute"
+
+#: Config/ipost.php:611 Config/ipost.php:638
+msgid "--- カテゴリー選択 ---"
+msgstr "--- Select category---"
+
+#: Config/ipost.php:612
+msgid "エンターテイメント"
+msgstr "Entertainment"
+
+#: Config/ipost.php:613
+msgid "カタログ"
+msgstr "Catalogue"
+
+#: Config/ipost.php:614 Config/ipost.php:654
+msgid "教育"
+msgstr "Education"
+
+#: Config/ipost.php:615
+msgid "ゲーム"
+msgstr "Game"
+
+#: Config/ipost.php:616 Config/ipost.php:657
+msgid "仕事効率化"
+msgstr "Productivity"
+
+#: Config/ipost.php:617
+msgid "辞書／辞典／その他"
+msgstr "Dictionary / Thesaurus / Other"
+
+#: Config/ipost.php:618
+msgid "写真／ビデオ"
+msgstr "Photo/ Video"
+
+#: Config/ipost.php:619 Config/ipost.php:643
+msgid "スポーツ"
+msgstr "Sport"
+
+#: Config/ipost.php:620
+msgid "ソーシャルネットワーキング"
+msgstr "Social Network"
+
+#: Config/ipost.php:621 Config/ipost.php:661
+msgid "天気"
+msgstr "Weather"
+
+#: Config/ipost.php:622 View/Elements/preview/top.ctp:17
+msgid "ナビゲーション"
+msgstr "Navigation"
+
+#: Config/ipost.php:624 Config/ipost.php:647
+msgid "ビジネス"
+msgstr "Business"
+
+#: Config/ipost.php:625 Config/ipost.php:648
+msgid "ファイナンス"
+msgstr "Finance"
+
+#: Config/ipost.php:626
+msgid "BOOK"
+msgstr "BOOK"
+
+#: Config/ipost.php:627
+msgid "ヘルスケア／フィットネス"
+msgstr "Health care / Fitness"
+
+#: Config/ipost.php:628
+msgid "ミュージック"
+msgstr "Music"
+
+#: Config/ipost.php:629
+msgid "メディカル"
+msgstr "Medical"
+
+#: Config/ipost.php:630
+msgid "ユーティリティ"
+msgstr "Utility"
+
+#: Config/ipost.php:631 Config/ipost.php:650
+msgid "ライフスタイル"
+msgstr "Lifestyle"
+
+#: Config/ipost.php:632
+msgid "旅行"
+msgstr "Travel"
+
+#: Config/ipost.php:633
+msgid "フード／ドリンク"
+msgstr "Food/ Drink"
+
+#: Config/ipost.php:639
+msgid "エンタテイメント"
+msgstr "Entertainment"
+
+#: Config/ipost.php:640
+msgid "カスタマイズ"
+msgstr "Customize"
+
+#: Config/ipost.php:641
+msgid "コミック"
+msgstr "Comic"
+
+#: Config/ipost.php:642
+msgid "ショッピング"
+msgstr "Shopping"
+
+#: Config/ipost.php:644
+msgid "ソーシャル"
+msgstr "Social"
+
+#: Config/ipost.php:645
+msgid "ツール"
+msgstr "Tool"
+
+#: Config/ipost.php:646
+msgid "ニュース＆雑誌"
+msgstr "News& Magazine"
+
+#: Config/ipost.php:649
+msgid "メディア＆動画"
+msgstr "Media & Video"
+
+#: Config/ipost.php:651
+msgid "ライブラリ＆デモ"
+msgstr "Libraries & Demo"
+
+#: Config/ipost.php:652
+msgid "医療"
+msgstr "Medical care"
+
+#: Config/ipost.php:653
+msgid "音楽＆オーディオ"
+msgstr "Music & Audio"
+
+#: Config/ipost.php:655
+msgid "健康＆フィットネス"
+msgstr "Health & Fitness"
+
+#: Config/ipost.php:656
+msgid "交通"
+msgstr "Traffic"
+
+#: Config/ipost.php:658
+msgid "写真"
+msgstr "Photo"
+
+#: Config/ipost.php:659
+msgid "書籍＆文献"
+msgstr "Books & Reference"
+
+#: Config/ipost.php:660
+msgid "通信"
+msgstr "Communication"
+
+#: Config/ipost.php:662
+msgid "旅行＆地域"
+msgstr "Travel & Local"
+
+#: Controller/Admin/AppAdminController.php:58
+#: Controller/Preview/AppPreviewController.php:64
+msgid "ユーザが削除されております。"
+msgstr "Users has been removed this content"
+
+#: Controller/Admin/AuthController.php:26
+#: Controller/Admin/AuthController.php:27
+msgid "  ログインPOSTされました"
+msgstr "Login POST"
+
+#: Controller/Admin/AuthController.php:42
+msgid "ログイン失敗"
+msgstr "Login failures"
+
+#: Controller/Admin/AuthController.php:45
+msgid "ログインID or パスワードが間違っています"
+msgstr "The log in ID or password you entered don't match. "
+
+#: Controller/Admin/AuthController.php:57
+msgid "ログアウトしました"
+msgstr "Logged out"
+
+#: Controller/Admin/Pages/BlockController.php:26
+msgid "選択なし"
+msgstr "No selection"
+
+#: Controller/Preview/AppPreviewController.php:49
+msgid "ユーザIDが指定されていません。"
+msgstr "User ID has not been specified"
+
+#: View/Admin/Auth/login.ctp:13 View/Admin/Auth/login.ctp:14
+#: View/Admin/Pages/Reserve/index.ctp:95 View/Admin/Pages/Shop/profile.ctp:103
+#: View/Admin/Pages/Shop/profile.ctp:206
+msgid "メールアドレス"
+msgstr "E-mail address"
+
+#: View/Admin/Auth/login.ctp:16 View/Admin/Auth/login.ctp:17
+msgid "パスワード"
+msgstr "Password"
+
+#: View/Admin/Auth/login.ctp:25
+msgid "ログイン"
+msgstr "Log in"
+
+#: View/Admin/Pages/Apply/index.ctp:4
+msgid "アイコン画像の登録"
+msgstr "Registration icon image"
+
+#: View/Admin/Pages/Apply/index.ctp:4 View/Admin/Pages/Apply/index.ctp:54
+#: View/Admin/Pages/Apply/index.ctp:88 View/Admin/Pages/Apply/index.ctp:141
+#: View/Admin/Pages/Apply/index.ctp:173 View/Admin/Pages/Apply/index.ctp:216
+#: View/Admin/Pages/Apply/index.ctp:223 View/Admin/Pages/Apply/index.ctp:231
+#: View/Admin/Pages/Apply/index.ctp:271 View/Admin/Pages/Apply/index.ctp:316
+#: View/Admin/Pages/Apply/index.ctp:335 View/Admin/Pages/Apply/index.ctp:488
+#: View/Admin/Pages/Apply/index.ctp:584 View/Admin/Pages/Coupon/index.ctp:149
+#: View/Admin/Pages/Coupon/index.ctp:158 View/Admin/Pages/Coupon/index.ctp:165
+#: View/Admin/Pages/Coupon/index.ctp:229 View/Admin/Pages/Menu/advance.ctp:136
+#: View/Admin/Pages/Menu/advance.ctp:297 View/Admin/Pages/Menu/advance.ctp:446
+#: View/Admin/Pages/Menu/advance.ctp:477 View/Admin/Pages/Menu/advance.ctp:564
+#: View/Admin/Pages/Menu/advance.ctp:594 View/Admin/Pages/Menu/easy.ctp:145
+#: View/Admin/Pages/Menu/easy.ctp:178 View/Admin/Pages/Menu/easy.ctp:338
+#: View/Admin/Pages/Menu/easy.ctp:375 View/Admin/Pages/Menu/index.ctp:108
+#: View/Admin/Pages/Menu/index.ctp:129 View/Admin/Pages/Menu/index.ctp:242
+#: View/Admin/Pages/Menu/index.ctp:263 View/Admin/Pages/Menu/index.ctp:366
+#: View/Admin/Pages/Menu/index.ctp:387 View/Admin/Pages/News/index.ctp:59
+#: View/Admin/Pages/News/index.ctp:68 View/Admin/Pages/News/index.ctp:190
+#: View/Admin/Pages/News/index.ctp:197 View/Admin/Pages/Shop/profile.ctp:158
+msgid "必須"
+msgstr "Require"
+
+#: View/Admin/Pages/Apply/index.ctp:8
+msgid "アプリケーションのアイコン画像の設定になります。"
+msgstr "These will be the setting icon imagine for application"
+
+#: View/Admin/Pages/Apply/index.ctp:9
+msgid "推奨サイズは、1024px × 1024pxサイズになります。"
+msgstr "Recommended size: 1024px x 1024px"
+
+#: View/Admin/Pages/Apply/index.ctp:10 View/Admin/Pages/Apply/index.ctp:62
+#: View/Admin/Pages/Apply/index.ctp:436 View/Admin/Pages/Apply/index.ctp:497
+#: View/Admin/Pages/Apply/index.ctp:526 View/Admin/Pages/Apply/index.ctp:593
+msgid "透過指定されていますと、透過部分が黒くなりますのでご注意下さい。"
+msgstr ""
+"Please note that when you specify transparently, specified parts will become "
+"black."
+
+#: View/Admin/Pages/Apply/index.ctp:11 View/Admin/Pages/Apply/index.ctp:63
+#: View/Admin/Pages/Apply/index.ctp:96 View/Admin/Pages/Apply/index.ctp:149
+#: View/Admin/Pages/Apply/index.ctp:178 View/Admin/Pages/Apply/index.ctp:252
+#: View/Admin/Pages/Apply/index.ctp:274 View/Admin/Pages/Apply/index.ctp:347
+#: View/Admin/Pages/Apply/index.ctp:378 View/Admin/Pages/Apply/index.ctp:410
+#: View/Admin/Pages/Apply/index.ctp:442 View/Admin/Pages/Apply/index.ctp:531
+msgid "※1度審査申請されますと変更することができませんのでご注意下さい。"
+msgstr ""
+"※Please not that once you request examination for application, you can not "
+"change icon imagine。"
+
+#: View/Admin/Pages/Apply/index.ctp:18 View/Admin/Pages/Apply/index.ctp:20
+#: View/Admin/Pages/Apply/index.ctp:44 View/Admin/Pages/Apply/index.ctp:46
+msgid "アイコン画像"
+msgstr "Icon imagine"
+
+#: View/Admin/Pages/Apply/index.ctp:28 View/Admin/Pages/Apply/index.ctp:113
+#: View/Admin/Pages/Apply/index.ctp:201 View/Admin/Pages/Apply/index.ctp:297
+#: View/Admin/Pages/Apply/index.ctp:387 View/Admin/Pages/Apply/index.ctp:466
+#: View/Admin/Pages/Apply/index.ctp:559 View/Admin/Pages/Block/index.ctp:17
+#: View/Admin/Pages/News/index.ctp:100 View/Elements/block/cms.ctp:30
+#: View/Elements/block/image.ctp:55 View/Elements/block/image.ctp:159
+#: View/Elements/block/menu.ctp:41 View/Elements/block/sns.ctp:56
+#: View/Elements/block/topic.ctp:29 View/Elements/block/webview.ctp:30
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>登録"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Register"
+
+#: View/Admin/Pages/Apply/index.ctp:54 View/Admin/Pages/Apply/index.ctp:141
+#: View/Admin/Pages/Apply/index.ctp:488 View/Admin/Pages/Apply/index.ctp:584
+#: View/Admin/Pages/Background/index.ctp:33
+#: View/Admin/Pages/Header/index.ctp:38 View/Admin/Pages/Html/index.ctp:21
+#: View/Admin/Pages/Menu/advance.ctp:54 View/Admin/Pages/Menu/advance.ctp:122
+#: View/Admin/Pages/Menu/advance.ctp:276 View/Admin/Pages/Menu/advance.ctp:424
+#: View/Admin/Pages/Menu/advance.ctp:550 View/Admin/Pages/Menu/easy.ctp:54
+#: View/Admin/Pages/Menu/easy.ctp:122 View/Admin/Pages/Menu/easy.ctp:316
+#: View/Admin/Pages/Menu/index.ctp:41 View/Admin/Pages/Menu/index.ctp:93
+#: View/Admin/Pages/Menu/index.ctp:227 View/Admin/Pages/Menu/index.ctp:351
+#: View/Admin/Pages/News/index.ctp:37 View/Admin/Pages/News/index.ctp:171
+#: View/Admin/Pages/Shop/profile.ctp:33 View/Admin/Pages/Splash/index.ctp:33
+#: View/Admin/Pages/Splash/index.ctp:83 View/Admin/Pages/Web/index.ctp:39
+#: View/Elements/block/image.ctp:106
+msgid "画像の選択"
+msgstr "Choose imagine"
+
+#: View/Admin/Pages/Apply/index.ctp:56 View/Admin/Pages/Apply/index.ctp:143
+#: View/Admin/Pages/Apply/index.ctp:490 View/Admin/Pages/Apply/index.ctp:586
+#: View/Admin/Pages/Html/index.ctp:23
+msgid "ファイルを選択"
+msgstr "Select file"
+
+#: View/Admin/Pages/Apply/index.ctp:60 View/Admin/Pages/Apply/index.ctp:147
+#: View/Admin/Pages/Apply/index.ctp:495 View/Admin/Pages/Apply/index.ctp:591
+#: View/Admin/Pages/Menu/advance.ctp:64 View/Admin/Pages/Menu/advance.ctp:128
+#: View/Admin/Pages/Menu/advance.ctp:280 View/Admin/Pages/Menu/advance.ctp:428
+#: View/Admin/Pages/Menu/advance.ctp:556 View/Admin/Pages/Menu/easy.ctp:64
+#: View/Admin/Pages/Menu/easy.ctp:131 View/Admin/Pages/Menu/easy.ctp:320
+#: View/Admin/Pages/Menu/index.ctp:43 View/Admin/Pages/Menu/index.ctp:95
+#: View/Admin/Pages/Menu/index.ctp:229 View/Admin/Pages/Menu/index.ctp:353
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:174
+msgid "ファイルサイズ：3MBまで"
+msgstr "Filesize: up to 3MB"
+
+#: View/Admin/Pages/Apply/index.ctp:61
+msgid "1024px x 1024px 以上の大きさを推奨"
+msgstr "Recommended size: more than 1024px x 1024px "
+
+#: View/Admin/Pages/Apply/index.ctp:70 View/Admin/Pages/Apply/index.ctp:157
+#: View/Admin/Pages/Apply/index.ctp:259 View/Admin/Pages/Apply/index.ctp:354
+#: View/Admin/Pages/Apply/index.ctp:419 View/Admin/Pages/Apply/index.ctp:504
+#: View/Admin/Pages/Apply/index.ctp:600 View/Admin/Pages/News/index.ctp:99
+#: View/Admin/Pages/News/index.ctp:244 View/Elements/block/image.ctp:158
+msgid "<i class=\"fa fa-mail-reply mg-r-xs\"></i>戻る"
+msgstr "<i class=\"fa fa-mail-reply mg-r-xs\"></i>Back"
+
+#: View/Admin/Pages/Apply/index.ctp:71 View/Admin/Pages/Apply/index.ctp:158
+#: View/Admin/Pages/Apply/index.ctp:260 View/Admin/Pages/Apply/index.ctp:355
+#: View/Admin/Pages/Apply/index.ctp:420 View/Admin/Pages/Apply/index.ctp:505
+#: View/Admin/Pages/Apply/index.ctp:601
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>確認"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Confirm "
+
+#: View/Admin/Pages/Apply/index.ctp:88
+msgid "宣伝用画像の登録"
+msgstr "Registration of promotional image"
+
+#: View/Admin/Pages/Apply/index.ctp:93
+msgid "Google Play (Android用アプリストア)掲載時の宣伝用画像の設定になります。"
+msgstr ""
+"This is the setting for promotional imagine that will be displayed  on "
+"Google Play (AppStore of Android)"
+
+#: View/Admin/Pages/Apply/index.ctp:94
+msgid "推奨サイズは、1024px × 500pxサイズになります。"
+msgstr "Recommended size: 1024px × 500px"
+
+#: View/Admin/Pages/Apply/index.ctp:95
+msgid "透過指定できませんのでご注意下さい。"
+msgstr "Please not that you can't setting transparency for promotional imagine"
+
+#: View/Admin/Pages/Apply/index.ctp:103 View/Admin/Pages/Apply/index.ctp:105
+msgid "宣伝用画像"
+msgstr "Promotional imagine"
+
+#: View/Admin/Pages/Apply/index.ctp:130 View/Admin/Pages/Apply/index.ctp:132
+msgid "起動画面用の画像"
+msgstr "Imagine of start-up screen"
+
+#: View/Admin/Pages/Apply/index.ctp:148
+msgid "1024px x 500px 以上の大きさを推奨"
+msgstr "Recommended to use imagine's size that is more than 1024px x 500px"
+
+#: View/Admin/Pages/Apply/index.ctp:173
+msgid "アプリストア(App Store/Google Play)表示項目の登録"
+msgstr ""
+"Register items that wil be displayed on AppStore (App Store/ Google Play)"
+
+#: View/Admin/Pages/Apply/index.ctp:175
+msgid "アプリケーションの名前、および、ストア掲載時の説明文の設定になります。"
+msgstr ""
+"This is the setting for Application name and discription when pubishing on "
+"store"
+
+#: View/Admin/Pages/Apply/index.ctp:176
+msgid ""
+"アプリ表示名&nbsp;&nbsp;:&nbsp;ホーム画面/ランチャー画面時のアイコン下に表示"
+"されるアプリ名になります。"
+msgstr ""
+"&nbsp;&nbsp;:&nbsp;App display name will be the App name that will be "
+"displayed under the icon in Home screen/ Luncher screen."
+
+#: View/Admin/Pages/Apply/index.ctp:177
+msgid "ストア表示名&nbsp;:&nbsp;アプリストア掲載時のアプリ名になります。"
+msgstr ""
+"Store display name &nbsp;:&nbsp; will be the App name that display when "
+"publishing app."
+
+#: View/Admin/Pages/Apply/index.ctp:183 View/Admin/Pages/Apply/index.ctp:216
+msgid "アプリ表示名"
+msgstr "App display name"
+
+#: View/Admin/Pages/Apply/index.ctp:189 View/Admin/Pages/Apply/index.ctp:223
+msgid "ストア表示名"
+msgstr "Store display name"
+
+#: View/Admin/Pages/Apply/index.ctp:195 View/Admin/Pages/Apply/index.ctp:231
+msgid "説明文"
+msgstr "Description "
+
+#: View/Admin/Pages/Apply/index.ctp:218
+msgid "最大全角6文字分 (半角12文字分)"
+msgstr "Maximum letters: 6 full-width letters (12 half- width letters)"
+
+#: View/Admin/Pages/Apply/index.ctp:225
+msgid "最大全角12文字／推奨全角9文字以内"
+msgstr ""
+"Maximum letters is 12 full-width letters/ Recommend letters: not over 9 full-"
+"width letters"
+
+#: View/Admin/Pages/Apply/index.ctp:233
+msgid "全角100 〜 2,000文字"
+msgstr "100 〜 2,000 full-width letters"
+
+#: View/Admin/Pages/Apply/index.ctp:241
+msgid "審査に通過しやすい説明文"
+msgstr "How to pass Appstore examination easily Explanation"
+
+#: View/Admin/Pages/Apply/index.ctp:242
+msgid "例文："
+msgstr "Example sentences:"
+
+#: View/Admin/Pages/Apply/index.ctp:243
+msgid "みつの里の公式アプリです。"
+msgstr "This is the offical app of Mitsu no Sato"
+
+#: View/Admin/Pages/Apply/index.ctp:244
+msgid ""
+"このアプリでは、アプリユーザー限定の様々なサービスを受けることができます。"
+msgstr "In this app, you can receive a variety of user limit services "
+
+#: View/Admin/Pages/Apply/index.ctp:245
+msgid "例えば…"
+msgstr "Example…"
+
+#: View/Admin/Pages/Apply/index.ctp:246
+msgid "・お店情報や最新の商品情報を入手することができます。"
+msgstr "・Can get shop's information and the latest information about goods."
+
+#: View/Admin/Pages/Apply/index.ctp:247
+msgid "・標準アプリのマップを起動させてお店の位置を確認することができます。"
+msgstr ""
+"・Can confirm shop's position by  starting map of the standard application"
+
+#: View/Admin/Pages/Apply/index.ctp:248
+msgid "・お店から最新情報やお得なクーポンなどを受け取ることができます。"
+msgstr ""
+"・Can receive the latest information or an advantageous coupon from the "
+"store."
+
+#: View/Admin/Pages/Apply/index.ctp:249
+msgid "・オンラインショップや公式ホームページなどもすぐにチェックできます。"
+msgstr "・Can check online shop or the official homepage immediately."
+
+#: View/Admin/Pages/Apply/index.ctp:250
+msgid ""
+"・オーダーエントリーがお使いのスマートフォンからできるようになります。（導入"
+"店に限る）"
+msgstr "・Can receive order from smartphone. (Limited to introduction store)"
+
+#: View/Admin/Pages/Apply/index.ctp:251
+msgid ""
+"このようにアプリで実際に提供できる内容を記載すると、審査に通過しやすいポイン"
+"トになります。"
+msgstr ""
+"Decribing the contents that will be provided by the app in fact like this "
+"way will be the point to pass AppStore's examination easily."
+
+#: View/Admin/Pages/Apply/index.ctp:271
+msgid "アプリストア(App Store/Google Play)カテゴリーの登録"
+msgstr "Registration of the application store (App Store/Google Play) category"
+
+#: View/Admin/Pages/Apply/index.ctp:273
+msgid "アプリストア掲載時のカテゴリーの設定になります。"
+msgstr "This is the setting of categories when publication on AppStore."
+
+#: View/Admin/Pages/Apply/index.ctp:279
+msgid "iPhone1"
+msgstr "iPhone1"
+
+#: View/Admin/Pages/Apply/index.ctp:285
+msgid "iPhone2"
+msgstr "iPhone2"
+
+#: View/Admin/Pages/Apply/index.ctp:291
+msgid "Android"
+msgstr "Android"
+
+#: View/Admin/Pages/Apply/index.ctp:320
+msgid "AppStoreでのメインカテゴリーを選択して下さい。"
+msgstr "Please select main category on AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:325 View/Admin/Pages/Apply/index.ctp:368
+#: View/Admin/Pages/Apply/index.ctp:402 View/Admin/Pages/Apply/index.ctp:432
+#: View/Admin/Pages/Apply/index.ctp:522
+#: View/Admin/Pages/Background/index.ctp:33
+#: View/Admin/Pages/Coupon/index.ctp:122 View/Admin/Pages/Coupon/index.ctp:134
+#: View/Admin/Pages/Coupon/index.ctp:174 View/Admin/Pages/Coupon/index.ctp:183
+#: View/Admin/Pages/Coupon/index.ctp:195 View/Admin/Pages/Header/index.ctp:38
+#: View/Admin/Pages/Menu/advance.ctp:123 View/Admin/Pages/Menu/advance.ctp:146
+#: View/Admin/Pages/Menu/advance.ctp:156 View/Admin/Pages/Menu/advance.ctp:276
+#: View/Admin/Pages/Menu/advance.ctp:307 View/Admin/Pages/Menu/advance.ctp:318
+#: View/Admin/Pages/Menu/advance.ctp:424 View/Admin/Pages/Menu/advance.ctp:455
+#: View/Admin/Pages/Menu/advance.ctp:465 View/Admin/Pages/Menu/advance.ctp:485
+#: View/Admin/Pages/Menu/advance.ctp:551 View/Admin/Pages/Menu/advance.ctp:574
+#: View/Admin/Pages/Menu/advance.ctp:584 View/Admin/Pages/Menu/advance.ctp:603
+#: View/Admin/Pages/Menu/easy.ctp:123 View/Admin/Pages/Menu/easy.ctp:155
+#: View/Admin/Pages/Menu/easy.ctp:168 View/Admin/Pages/Menu/easy.ctp:187
+#: View/Admin/Pages/Menu/easy.ctp:316 View/Admin/Pages/Menu/easy.ctp:347
+#: View/Admin/Pages/Menu/easy.ctp:363 View/Admin/Pages/Menu/easy.ctp:383
+#: View/Admin/Pages/Menu/index.ctp:93 View/Admin/Pages/Menu/index.ctp:115
+#: View/Admin/Pages/Menu/index.ctp:122 View/Admin/Pages/Menu/index.ctp:136
+#: View/Admin/Pages/Menu/index.ctp:227 View/Admin/Pages/Menu/index.ctp:249
+#: View/Admin/Pages/Menu/index.ctp:256 View/Admin/Pages/Menu/index.ctp:270
+#: View/Admin/Pages/Menu/index.ctp:351 View/Admin/Pages/Menu/index.ctp:373
+#: View/Admin/Pages/Menu/index.ctp:380 View/Admin/Pages/Menu/index.ctp:394
+#: View/Admin/Pages/News/index.ctp:38 View/Admin/Pages/News/index.ctp:49
+#: View/Admin/Pages/News/index.ctp:75 View/Admin/Pages/News/index.ctp:85
+#: View/Admin/Pages/News/index.ctp:171 View/Admin/Pages/News/index.ctp:180
+#: View/Admin/Pages/News/index.ctp:205 View/Admin/Pages/News/index.ctp:216
+#: View/Admin/Pages/Reserve/index.ctp:33 View/Admin/Pages/Reserve/index.ctp:58
+#: View/Admin/Pages/Reserve/index.ctp:84 View/Admin/Pages/Reserve/index.ctp:95
+#: View/Admin/Pages/Shop/profile.ctp:33 View/Admin/Pages/Shop/profile.ctp:168
+#: View/Admin/Pages/Shop/profile.ctp:177 View/Admin/Pages/Shop/profile.ctp:186
+#: View/Admin/Pages/Shop/profile.ctp:195 View/Admin/Pages/Shop/profile.ctp:206
+#: View/Admin/Pages/Shop/profile.ctp:215 View/Admin/Pages/Shop/profile.ctp:222
+#: View/Admin/Pages/Shop/profile.ctp:232 View/Admin/Pages/Shop/profile.ctp:240
+#: View/Admin/Pages/Splash/index.ctp:33 View/Admin/Pages/Splash/index.ctp:83
+#: View/Admin/Pages/Web/index.ctp:39 View/Elements/block/image.ctp:81
+#: View/Elements/block/image.ctp:106 View/Elements/block/menu.ctp:29
+#: View/Elements/block/sns.ctp:24 View/Elements/block/sns.ctp:29
+#: View/Elements/block/sns.ctp:34 View/Elements/block/sns.ctp:39
+#: View/Elements/block/sns.ctp:44 View/Elements/block/sns.ctp:49
+#: View/Elements/block/topic.ctp:25
+msgid "任意"
+msgstr "option"
+
+#: View/Admin/Pages/Apply/index.ctp:329
+msgid "AppStoreでのサブカテゴリーを選択して下さい。"
+msgstr "Please select sub category on AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:330
+msgid "ない場合は、メインカテゴリーと同じものを選択して下さい。"
+msgstr "If not, please choose a thing same as a main category."
+
+#: View/Admin/Pages/Apply/index.ctp:339
+msgid "GooglePlayでのカテゴリーを選択して下さい。"
+msgstr "Please select categories that will be displayed on GooglePlay "
+
+#: View/Admin/Pages/Apply/index.ctp:368
+msgid "検索キーワードの登録"
+msgstr "Registration search keyword"
+
+#: View/Admin/Pages/Apply/index.ctp:373
+msgid "App Store (iOSアプリストア)での、検索キーワードになります。"
+msgstr "These will be keywords to search app on App Store (iOS's Store)"
+
+#: View/Admin/Pages/Apply/index.ctp:375 View/Admin/Pages/Apply/index.ctp:408
+msgid "半角カンマ「,」区切りで、複数指定が可能です。"
+msgstr "Can specify plural by puting a half-width comma 「,」at end."
+
+#: View/Admin/Pages/Apply/index.ctp:377 View/Admin/Pages/Apply/index.ctp:409
+msgid ""
+"アプリと関係無いキーワードを設定されますと、審査を通らないことがございますの"
+"でご注意下さい。"
+msgstr ""
+"Please note that you can fail on AppStore's Examination when setting the "
+"word that unrelated to app for keyword."
+
+#: View/Admin/Pages/Apply/index.ctp:382
+msgid "検索キーワード"
+msgstr "Search keyword"
+
+#: View/Admin/Pages/Apply/index.ctp:402
+msgid "キーワード"
+msgstr "Keyword"
+
+#: View/Admin/Pages/Apply/index.ctp:407
+msgid "AppStoreでの、検索キーワードになります。"
+msgstr "It will be the search keyword on AppStore"
+
+#: View/Admin/Pages/Apply/index.ctp:432
+msgid "スクリーンショット１の登録"
+msgstr "Registration Screenshot 1"
+
+#: View/Admin/Pages/Apply/index.ctp:434
+msgid "iPhone5/5S、および、Android用のスクリーンショットの設定になります。"
+msgstr "This is the setting for screenshot of iPhone 5/ 5S and Android"
+
+#: View/Admin/Pages/Apply/index.ctp:435
+msgid "推奨サイズは、640px × 1136pxサイズになります。"
+msgstr "Recommended size: 1024px x 1024px"
+
+#: View/Admin/Pages/Apply/index.ctp:438 View/Admin/Pages/Apply/index.ctp:528
+msgid "各コンテンツの左上部にありますプレビュー画面を活用して下さい。"
+msgstr "Please use Preview screen at the upper left corner of each content"
+
+#: View/Admin/Pages/Apply/index.ctp:439 View/Admin/Pages/Apply/index.ctp:529
+msgid ""
+"アプリと関係無い画像、アプリの画面が表示されていない画像を設定されますと"
+msgstr ""
+"Please note that setting imagine that don't relate to app or doesn't display "
+"on app's screen for screenshot"
+
+#: View/Admin/Pages/Apply/index.ctp:440 View/Admin/Pages/Apply/index.ctp:530
+msgid "審査を通らないことがございますのでご注意下さい。"
+msgstr "can make app fail on AppStore's examination."
+
+#: View/Admin/Pages/Apply/index.ctp:457 View/Admin/Pages/Apply/index.ctp:459
+#: View/Admin/Pages/Apply/index.ctp:549 View/Admin/Pages/Apply/index.ctp:551
+msgid "スクリーンショット２"
+msgstr "Screen shot ２"
+
+#: View/Admin/Pages/Apply/index.ctp:465 View/Admin/Pages/Apply/index.ctp:558
+msgid "<i class=\"fa fa-trash-o mg-r-xs\"></i>削除"
+msgstr "<i class=\"fa fa-trash-o mg-r-xs\"></i> Delete"
+
+#: View/Admin/Pages/Apply/index.ctp:496 View/Admin/Pages/Apply/index.ctp:592
+msgid "640px x 1136px 以上の大きさを推奨"
+msgstr "Recommended size: more than 640px x 1136px"
+
+#: View/Admin/Pages/Apply/index.ctp:522
+msgid "スクリーンショット２の登録"
+msgstr "Registration of screen shot 2"
+
+#: View/Admin/Pages/Apply/index.ctp:524
+msgid "iPhone4/4S用のスクリーンショットの設定になります。"
+msgstr "This will be the setting for screen shot "
+
+#: View/Admin/Pages/Apply/index.ctp:525
+msgid "推奨サイズは、640px × 960pxサイズになります。"
+msgstr "Recommended size:640px × 960px"
+
+#: View/Admin/Pages/Apply/index.ctp:636
+#: View/Admin/Pages/Background/index.ctp:98
+#: View/Admin/Pages/Coupon/index.ctp:323 View/Admin/Pages/Menu/advance.ctp:895
+#: View/Admin/Pages/Menu/easy.ctp:598 View/Admin/Pages/News/index.ctp:311
+#: View/Admin/Pages/Splash/index.ctp:114 View/Elements/block/image.ctp:206
+msgid "画像を選択してください"
+msgstr "Please select imagine"
+
+#: View/Admin/Pages/Apply/index.ctp:641
+#: View/Admin/Pages/Background/index.ctp:103
+#: View/Admin/Pages/Coupon/index.ctp:328 View/Admin/Pages/Menu/advance.ctp:900
+#: View/Admin/Pages/Menu/easy.ctp:603 View/Admin/Pages/News/index.ctp:316
+#: View/Admin/Pages/Splash/index.ctp:119 View/Admin/Pages/Splash/index.ctp:147
+#: View/Elements/block/image.ctp:211
+msgid "サイズが大きすぎます"
+msgstr "Size is too large"
+
+#: View/Admin/Pages/Background/index.ctp:2
+msgid "背景画像の設定"
+msgstr "Setting the background image"
+
+#: View/Admin/Pages/Background/index.ctp:10
+#: View/Admin/Pages/Background/index.ctp:26
+msgid "背景画像"
+msgstr "Background image"
+
+#: View/Admin/Pages/Background/index.ctp:14
+#: View/Admin/Pages/Background/index.ctp:48
+#: View/Admin/Pages/Coupon/index.ctp:248 View/Admin/Pages/Footer/index.ctp:22
+#: View/Admin/Pages/Header/index.ctp:19 View/Admin/Pages/Header/index.ctp:52
+#: View/Admin/Pages/Menu/advance.ctp:26 View/Admin/Pages/Menu/advance.ctp:80
+#: View/Admin/Pages/Menu/advance.ctp:174 View/Admin/Pages/Menu/advance.ctp:623
+#: View/Admin/Pages/Menu/easy.ctp:26 View/Admin/Pages/Menu/easy.ctp:80
+#: View/Admin/Pages/Menu/easy.ctp:205 View/Admin/Pages/Menu/index.ctp:21
+#: View/Admin/Pages/Menu/index.ctp:55 View/Admin/Pages/Menu/index.ctp:150
+#: View/Admin/Pages/Shop/profile.ctp:15 View/Admin/Pages/Shop/profile.ctp:45
+#: View/Admin/Pages/Shop/profile.ctp:150 View/Admin/Pages/Shop/profile.ctp:250
+#: View/Admin/Pages/Splash/index.ctp:15 View/Admin/Pages/Splash/index.ctp:46
+#: View/Admin/Pages/Splash/index.ctp:62 View/Admin/Pages/Splash/index.ctp:97
+#: View/Admin/Pages/Web/index.ctp:47
+msgid "登録"
+msgstr "Register"
+
+#: View/Admin/Pages/Background/index.ctp:15
+#: View/Admin/Pages/News/index.ctp:148 View/Elements/block/image.ctp:56
+msgid "<i class=\"fa fa-trash-o mg-l-xs\"></i>削除"
+msgstr "<i class=\"fa fa-trash-o mg-l-xs\"></i>Delete"
+
+#: View/Admin/Pages/Background/index.ctp:37
+msgid ""
+"アプリケーションは、白文字を使用しているため、<br>白色の多い画像は非推奨と"
+"なっております。<br>ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;1136px&nbsp;"
+"以上の大きさを推奨"
+msgstr ""
+"Because App's texts are white, <br>using imagine that has so much white is "
+"not recommended. <br>Filesize: up to 3MB<br>Recommended size: more than "
+"640px&nbsp;×&nbsp;1136px&nbsp;"
+
+#: View/Admin/Pages/Background/index.ctp:47
+#: View/Admin/Pages/Coupon/index.ctp:246 View/Admin/Pages/Header/index.ctp:51
+#: View/Admin/Pages/Menu/advance.ctp:78 View/Admin/Pages/Menu/advance.ctp:172
+#: View/Admin/Pages/Menu/advance.ctp:348 View/Admin/Pages/Menu/advance.ctp:515
+#: View/Admin/Pages/Menu/advance.ctp:621 View/Admin/Pages/Menu/easy.ctp:78
+#: View/Admin/Pages/Menu/easy.ctp:203 View/Admin/Pages/Menu/easy.ctp:413
+#: View/Admin/Pages/Menu/index.ctp:54 View/Admin/Pages/Menu/index.ctp:149
+#: View/Admin/Pages/Menu/index.ctp:283 View/Admin/Pages/Menu/index.ctp:407
+#: View/Admin/Pages/Shop/profile.ctp:44 View/Admin/Pages/Shop/profile.ctp:249
+#: View/Admin/Pages/Splash/index.ctp:45 View/Admin/Pages/Splash/index.ctp:96
+#: View/Admin/Pages/Web/index.ctp:46
+msgid "戻る"
+msgstr "Return"
+
+#: View/Admin/Pages/Background/index.ctp:55
+msgid "背景色の設定"
+msgstr "Setting the background image"
+
+#: View/Admin/Pages/Background/index.ctp:59
+#: View/Admin/Pages/Header/index.ctp:66
+msgid "背景色選択"
+msgstr "Select color for background"
+
+#: View/Admin/Pages/Background/index.ctp:64
+#: View/Admin/Pages/Header/index.ctp:71
+msgid "背景単色"
+msgstr "Background monochromatic"
+
+#: View/Admin/Pages/Background/index.ctp:71
+#: View/Admin/Pages/Header/index.ctp:78
+msgid "背景グラデーション"
+msgstr "Background gradient"
+
+#: View/Admin/Pages/Background/index.ctp:81
+#: View/Admin/Pages/Header/index.ctp:88
+msgid "背景色の変更"
+msgstr "Changing the background-color"
+
+#: View/Admin/Pages/Background/index.ctp:133
+msgid "背景画像を登録します。よろしいですか"
+msgstr "We will register background image. Will that be all right?"
+
+#: View/Admin/Pages/Background/index.ctp:140
+msgid "背景色を登録します。よろしいですか"
+msgstr "We will register background color. Will that be all right?"
+
+#: View/Admin/Pages/Block/index.ctp:6
+msgid "マージン設定"
+msgstr "Setting margine "
+
+#: View/Admin/Pages/Block/index.ctp:11
+msgid "マージン"
+msgstr "Margine "
+
+#: View/Admin/Pages/Coupon/index.ctp:11
+msgid "枚目"
+msgstr "Sheet"
+
+#: View/Admin/Pages/Coupon/index.ctp:21 View/Admin/Pages/Coupon/index.ctp:122
+#: View/Admin/Pages/Coupon/index.ctp:134
+msgid "クーポン画像"
+msgstr "Coupon imagine"
+
+#: View/Admin/Pages/Coupon/index.ctp:35 View/Admin/Pages/Coupon/index.ctp:149
+msgid "クーポンの表示"
+msgstr "Display of coupon"
+
+#: View/Admin/Pages/Coupon/index.ctp:43 View/Admin/Pages/Coupon/index.ctp:158
+#: View/Admin/Pages/News/index.ctp:59 View/Admin/Pages/News/index.ctp:61
+#: View/Admin/Pages/News/index.ctp:190 View/Admin/Pages/News/index.ctp:191
+msgid "タイトル"
+msgstr "Title"
+
+#: View/Admin/Pages/Coupon/index.ctp:51
+msgid "内容"
+msgstr "Content"
+
+#: View/Admin/Pages/Coupon/index.ctp:60 View/Admin/Pages/Coupon/index.ctp:174
+msgid "割引率"
+msgstr "Discount rate"
+
+#: View/Admin/Pages/Coupon/index.ctp:69
+msgid "クーポン種類"
+msgstr "Coupon's type"
+
+#: View/Admin/Pages/Coupon/index.ctp:80 View/Admin/Pages/Coupon/index.ctp:89
+msgid "期限"
+msgstr "Deadline"
+
+#: View/Admin/Pages/Coupon/index.ctp:91
+msgid "無期限"
+msgstr "Indefinite period"
+
+#: View/Admin/Pages/Coupon/index.ctp:102
+msgid "表示日数"
+msgstr "Display days"
+
+#: View/Admin/Pages/Coupon/index.ctp:104
+msgid "日間"
+msgstr "Display days"
+
+#: View/Admin/Pages/Coupon/index.ctp:112 View/Admin/Pages/Menu/advance.ctp:236
+#: View/Admin/Pages/Menu/advance.ctp:351 View/Admin/Pages/Menu/advance.ctp:390
+#: View/Admin/Pages/Menu/advance.ctp:518 View/Admin/Pages/Menu/easy.ctp:276
+#: View/Admin/Pages/Menu/easy.ctp:416 View/Admin/Pages/Menu/index.ctp:200
+#: View/Admin/Pages/Menu/index.ctp:284 View/Admin/Pages/Menu/index.ctp:324
+#: View/Admin/Pages/Menu/index.ctp:408
+msgid "変更"
+msgstr "Change"
+
+#: View/Admin/Pages/Coupon/index.ctp:138
+msgid ""
+"ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;814px&nbsp;以上の大きさを推奨"
+"<br />\n"
+"\t\t\t\t\t\t\t\tクーポンの種類を「使いきりクーポン」を選択時、クーポンを使用"
+"されますと、下部 178px 部分は切り取られます。<br>\n"
+"\t\t\t\t\t\t\t\tクーポン画像を設定しますと、タイトルや利用条件は表示されなく"
+"なります。"
+msgstr ""
+"Filesize：Up to 3MB<br>Recommended size: more than 640px&nbsp;"
+"×&nbsp;814px&nbsp;<br />\n"
+"\t\t\t\t\t\t\t\tIf selecting \"Single Use coupon\" 、when user use this "
+"coupon、 178px part of the lower part is cut。<br>\n"
+"\t\t\t\t\t\t\t\tTitle and term of using will be disapeared if you set "
+"imagine for coupon。"
+
+#: View/Admin/Pages/Coupon/index.ctp:152
+msgid "「非表示」に設定するとアプリ上のクーポンが非表示になります。"
+msgstr "Coupon "
+
+#: View/Admin/Pages/Coupon/index.ctp:159
+msgid "クーポン名を入力"
+msgstr "Enter coupon's name"
+
+#: View/Admin/Pages/Coupon/index.ctp:165
+msgid "利用条件"
+msgstr "Terms and Conditions of Use"
+
+#: View/Admin/Pages/Coupon/index.ctp:167
+msgid "利用規約を入力"
+msgstr "Enter the Terms of Use"
+
+#: View/Admin/Pages/Coupon/index.ctp:169
+msgid "実際のスマホアプリでは、クーポン画像をタップすると表示されます。"
+msgstr ""
+"Terms and Conditions of Use will be displayed when users tab a coupon "
+"imagine on smartphone"
+
+#: View/Admin/Pages/Coupon/index.ctp:176
+msgid "0 〜 100 を入力"
+msgstr "Input 0 〜 100"
+
+#: View/Admin/Pages/Coupon/index.ctp:183
+msgid "クーポンの種類"
+msgstr "Type of Coupon"
+
+#: View/Admin/Pages/Coupon/index.ctp:187
+msgid "クーポンの種類を選択することができます。"
+msgstr "You can select coupon's type."
+
+#: View/Admin/Pages/Coupon/index.ctp:195
+msgid "期間指定"
+msgstr "Designation of term"
+
+#: View/Admin/Pages/Coupon/index.ctp:199
+msgid "指定した期間のみクーポンの表示をすることができます。"
+msgstr ""
+"Having ability to only display the coupon that has been desiganated term."
+
+#: View/Admin/Pages/Coupon/index.ctp:208
+msgid "表示開始日"
+msgstr "The indication starting date"
+
+#: View/Admin/Pages/Coupon/index.ctp:210 View/Admin/Pages/Coupon/index.ctp:218
+msgid "日付を選択"
+msgstr "Select date"
+
+#: View/Admin/Pages/Coupon/index.ctp:216
+msgid "表示終了日"
+msgstr "Indication end day"
+
+#: View/Admin/Pages/Coupon/index.ctp:229
+msgid "掲載日数"
+msgstr "Publication days"
+
+#: View/Admin/Pages/Coupon/index.ctp:231
+msgid "1以上の数値を入力"
+msgstr "Enter numerical value more than 1"
+
+#: View/Admin/Pages/Coupon/index.ctp:233
+msgid "アプリインストール後、何日間クーポンを表示するか設定します"
+msgstr "Can set up display days for coupon after installation app."
+
+#: View/Admin/Pages/Coupon/index.ctp:247 View/Admin/Pages/Html/index.ctp:44
+#: View/Admin/Pages/Menu/advance.ctp:240 View/Admin/Pages/Menu/advance.ctp:391
+#: View/Admin/Pages/Menu/easy.ctp:280 View/Admin/Pages/Menu/index.ctp:201
+#: View/Admin/Pages/Menu/index.ctp:325 View/Admin/Pages/Splash/index.ctp:63
+#: View/Admin/Pages/Web/index.ctp:63
+msgid "削除"
+msgstr "Delete"
+
+#: View/Admin/Pages/Coupon/index.ctp:263
+msgid "クーポンを削除します。よろしいですか。"
+msgstr "Coupon will be delete. Will that be all right?"
+
+#: View/Admin/Pages/Coupon/index.ctp:272
+msgid "クーポンを登録します。よろしいですか。"
+msgstr "Coupon will be registered. Will that be all right?"
+
+#: View/Admin/Pages/Footer/index.ctp:3
+msgid "フッターの設定"
+msgstr "Setting footer."
+
+#: View/Admin/Pages/Footer/index.ctp:30
+msgid "フッターアイコン一覧"
+msgstr "List of footer icons"
+
+#: View/Admin/Pages/Footer/index.ctp:46
+msgid "フッターアイコンを変更します。よろしいですか"
+msgstr "Footer icon will be changed. Will that be all right?"
+
+#: View/Admin/Pages/Header/index.ctp:4
+msgid "ヘッダー画像の設定"
+msgstr "Setting of the header image"
+
+#: View/Admin/Pages/Header/index.ctp:15 View/Admin/Pages/Header/index.ctp:30
+msgid "ヘッダー画像"
+msgstr "Header image"
+
+#: View/Admin/Pages/Header/index.ctp:41
+msgid ""
+"ファイルサイズ：3MBまで<br>400px&nbsp;×&nbsp;88px&nbsp;以上の大きさを推奨<br>"
+"透過png対応しています。"
+msgstr ""
+"Filesize: up to 3MB<br>Recommended size: more than 400px&nbsp;"
+"×&nbsp;88px&nbsp;<br>Support transparency png"
+
+#: View/Admin/Pages/Header/index.ctp:62
+msgid "ヘッダー背景色の設定"
+msgstr "Setting the header background color"
+
+#: View/Admin/Pages/Header/index.ctp:106 View/Admin/Pages/Shop/profile.ctp:272
+msgid "画像を選択してください。"
+msgstr "Please choose an image."
+
+#: View/Admin/Pages/Header/index.ctp:111 View/Admin/Pages/Shop/profile.ctp:277
+msgid "サイズが大きすぎます。"
+msgstr "Size is too large"
+
+#: View/Admin/Pages/Header/index.ctp:141
+msgid "ヘッダー画像を登録します。よろしいですか"
+msgstr "Header imagine will be registered. Will that be alright?"
+
+#: View/Admin/Pages/Header/index.ctp:149
+msgid "ヘッダー背景色を登録します。よろしいですか"
+msgstr "Header's background color will be registered. Will that be alright?"
+
+#: View/Admin/Pages/Html/index.ctp:2 View/Admin/Pages/Web/index.ctp:6
+msgid "HTMLの編集"
+msgstr "Editing HTML"
+
+#: View/Admin/Pages/Html/index.ctp:8 View/Admin/Pages/Web/index.ctp:11
+msgid "HTML 入力エリア"
+msgstr "HTML input area"
+
+#: View/Admin/Pages/Html/index.ctp:13 View/Admin/Pages/Html/index.ctp:75
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>更新"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i>Update"
+
+#: View/Admin/Pages/Html/index.ctp:26
+msgid "ファイルサイズ：3MBまで<br>htmlに表示させる画像を登録してください。"
+msgstr ""
+"Filesize: up to 3MB<br>Please register imagine that will be displayed on html"
+
+#: View/Admin/Pages/Html/index.ctp:32 View/Admin/Pages/Web/index.ctp:51
+msgid "画像リスト"
+msgstr "List of images"
+
+#: View/Admin/Pages/Html/index.ctp:33 View/Admin/Pages/Web/index.ctp:53
+msgid "画像の&nbsp;img&nbsp;タグをコピー＆ペーストしてご利用ください。"
+msgstr "Please use &nbsp;img&nbsp imagine by copy and pasting tag."
+
+#: View/Admin/Pages/Html/index.ctp:58 View/Admin/Pages/Web/index.ctp:71
+msgid "CSSの編集"
+msgstr "Editting HSS"
+
+#: View/Admin/Pages/Html/index.ctp:65 View/Admin/Pages/Web/index.ctp:77
+msgid "CSS 入力エリア"
+msgstr "CSS input area"
+
+#: View/Admin/Pages/Html/index.ctp:66 View/Admin/Pages/Web/index.ctp:78
+msgid "CSS へのリンクタグは下記のものになります。"
+msgstr "Link tag to the CSS will be as below."
+
+#: View/Admin/Pages/Menu/advance.ctp:4 View/Admin/Pages/Menu/easy.ctp:4
+#: View/Admin/Pages/Menu/index.ctp:6
+msgid "メニュートップ画像の変更"
+msgstr "Changing the menu top image"
+
+#: View/Admin/Pages/Menu/advance.ctp:65 View/Admin/Pages/Menu/advance.ctp:128
+#: View/Admin/Pages/Menu/advance.ctp:280 View/Admin/Pages/Menu/advance.ctp:428
+#: View/Admin/Pages/Menu/advance.ctp:556 View/Admin/Pages/Menu/easy.ctp:65
+#: View/Admin/Pages/Menu/easy.ctp:131 View/Admin/Pages/Menu/easy.ctp:320
+#: View/Admin/Pages/Menu/index.ctp:43 View/Admin/Pages/Menu/index.ctp:95
+#: View/Admin/Pages/Menu/index.ctp:229 View/Admin/Pages/Menu/index.ctp:353
+msgid "640px&nbsp;×&nbsp;350px&nbsp;以上の大きさを推奨"
+msgstr "Recommended size: more than 640px&nbsp;×&nbsp;350px&nbsp;"
+
+#: View/Admin/Pages/Menu/advance.ctp:99 View/Admin/Pages/Menu/advance.ctp:105
+msgid "カテゴリーの新規登録"
+msgstr "Registration of new category"
+
+#: View/Admin/Pages/Menu/advance.ctp:135 View/Admin/Pages/Menu/advance.ctp:297
+msgid "項目名"
+msgstr "Item name"
+
+#: View/Admin/Pages/Menu/advance.ctp:138 View/Admin/Pages/Menu/advance.ctp:298
+#: View/Admin/Pages/Menu/advance.ctp:447 View/Admin/Pages/Menu/advance.ctp:566
+#: View/Admin/Pages/Menu/easy.ctp:147 View/Admin/Pages/Menu/easy.ctp:339
+#: View/Admin/Pages/Menu/index.ctp:109 View/Admin/Pages/Menu/index.ctp:243
+#: View/Admin/Pages/Menu/index.ctp:367
+msgid "商品名の入力"
+msgstr "Enter product name"
+
+#: View/Admin/Pages/Menu/advance.ctp:140 View/Admin/Pages/Menu/advance.ctp:150
+#: View/Admin/Pages/Menu/advance.ctp:301 View/Admin/Pages/Menu/advance.ctp:312
+#: View/Admin/Pages/Menu/advance.ctp:450 View/Admin/Pages/Menu/advance.ctp:470
+#: View/Admin/Pages/Menu/advance.ctp:568 View/Admin/Pages/Menu/advance.ctp:588
+#: View/Admin/Pages/Menu/easy.ctp:149 View/Admin/Pages/Menu/easy.ctp:172
+#: View/Admin/Pages/Menu/easy.ctp:342 View/Admin/Pages/Menu/easy.ctp:368
+#: View/Admin/Pages/Menu/index.ctp:110 View/Admin/Pages/Menu/index.ctp:124
+#: View/Admin/Pages/Menu/index.ctp:244 View/Admin/Pages/Menu/index.ctp:258
+#: View/Admin/Pages/Menu/index.ctp:368 View/Admin/Pages/Menu/index.ctp:382
+msgid "推奨文字数：約全角22文字"
+msgstr "The number of the recommended letters: About 22 full-width letters"
+
+#: View/Admin/Pages/Menu/advance.ctp:145 View/Admin/Pages/Menu/advance.ctp:306
+#: View/Admin/Pages/Menu/advance.ctp:464 View/Admin/Pages/Menu/advance.ctp:583
+#: View/Admin/Pages/Menu/easy.ctp:167 View/Admin/Pages/Menu/easy.ctp:362
+#: View/Admin/Pages/Menu/index.ctp:122 View/Admin/Pages/Menu/index.ctp:256
+#: View/Admin/Pages/Menu/index.ctp:380
+msgid "一覧説明"
+msgstr "List's discription"
+
+#: View/Admin/Pages/Menu/advance.ctp:148 View/Admin/Pages/Menu/advance.ctp:308
+#: View/Admin/Pages/Menu/advance.ctp:466 View/Admin/Pages/Menu/advance.ctp:586
+#: View/Admin/Pages/Menu/easy.ctp:170 View/Admin/Pages/Menu/easy.ctp:364
+#: View/Admin/Pages/Menu/index.ctp:123 View/Admin/Pages/Menu/index.ctp:257
+#: View/Admin/Pages/Menu/index.ctp:381
+msgid "一覧時の説明文を入力"
+msgstr "Input the explanation in the list"
+
+#: View/Admin/Pages/Menu/advance.ctp:150 View/Admin/Pages/Menu/advance.ctp:312
+#: View/Admin/Pages/Menu/advance.ctp:470 View/Admin/Pages/Menu/advance.ctp:588
+#: View/Admin/Pages/Menu/easy.ctp:172 View/Admin/Pages/Menu/easy.ctp:368
+#: View/Admin/Pages/Menu/index.ctp:124 View/Admin/Pages/Menu/index.ctp:190
+#: View/Admin/Pages/Menu/index.ctp:258 View/Admin/Pages/Menu/index.ctp:382
+msgid "商品一覧時に表示される補足説明になります。"
+msgstr "This will be supplementary explanation of good displaying on list"
+
+#: View/Admin/Pages/Menu/advance.ctp:159 View/Admin/Pages/Menu/advance.ctp:333
+#: View/Admin/Pages/Menu/advance.ctp:500 View/Admin/Pages/Menu/advance.ctp:606
+#: View/Admin/Pages/Menu/easy.ctp:190 View/Admin/Pages/Menu/easy.ctp:398
+#: View/Admin/Pages/Menu/index.ctp:140 View/Admin/Pages/Menu/index.ctp:274
+#: View/Admin/Pages/Menu/index.ctp:398
+msgid "表示する"
+msgstr "Display"
+
+#: View/Admin/Pages/Menu/advance.ctp:161 View/Admin/Pages/Menu/advance.ctp:335
+#: View/Admin/Pages/Menu/advance.ctp:502 View/Admin/Pages/Menu/advance.ctp:608
+#: View/Admin/Pages/Menu/easy.ctp:192 View/Admin/Pages/Menu/easy.ctp:400
+#: View/Admin/Pages/Menu/index.ctp:138 View/Admin/Pages/Menu/index.ctp:272
+#: View/Admin/Pages/Menu/index.ctp:396
+msgid "表示しない"
+msgstr "Hide"
+
+#: View/Admin/Pages/Menu/advance.ctp:163 View/Admin/Pages/Menu/advance.ctp:339
+#: View/Admin/Pages/Menu/advance.ctp:506 View/Admin/Pages/Menu/advance.ctp:610
+#: View/Admin/Pages/Menu/easy.ctp:194 View/Admin/Pages/Menu/easy.ctp:404
+#: View/Admin/Pages/Menu/index.ctp:142 View/Admin/Pages/Menu/index.ctp:276
+#: View/Admin/Pages/Menu/index.ctp:400
+msgid "アプリに表示させるかどうかを選ぶことができます。"
+msgstr "Select to display explanation on app or not"
+
+#: View/Admin/Pages/Menu/advance.ctp:195 View/Admin/Pages/Menu/easy.ctp:224
+#: View/Admin/Pages/Menu/index.ctp:169
+msgid "メニュー一覧"
+msgstr "List menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:223 View/Admin/Pages/Menu/easy.ctp:256
+msgid "更新日時:"
+msgstr "Date of updating:"
+
+#: View/Admin/Pages/Menu/advance.ctp:387
+msgid "更新日時"
+msgstr "Date of updating"
+
+#: View/Admin/Pages/Menu/advance.ctp:446 View/Admin/Pages/Menu/advance.ctp:563
+#: View/Admin/Pages/Menu/easy.ctp:144 View/Admin/Pages/Menu/easy.ctp:338
+#: View/Admin/Pages/Menu/index.ctp:108 View/Admin/Pages/Menu/index.ctp:242
+#: View/Admin/Pages/Menu/index.ctp:366
+msgid "商品名"
+msgstr "Product Name"
+
+#: View/Admin/Pages/Menu/advance.ctp:455 View/Admin/Pages/Menu/advance.ctp:573
+#: View/Admin/Pages/Menu/easy.ctp:154 View/Admin/Pages/Menu/easy.ctp:347
+#: View/Admin/Pages/Menu/index.ctp:115 View/Admin/Pages/Menu/index.ctp:249
+#: View/Admin/Pages/Menu/index.ctp:373
+msgid "価格"
+msgstr "Price"
+
+#: View/Admin/Pages/Menu/advance.ctp:456 View/Admin/Pages/Menu/advance.ctp:576
+#: View/Admin/Pages/Menu/easy.ctp:156 View/Admin/Pages/Menu/easy.ctp:348
+#: View/Admin/Pages/Menu/index.ctp:116 View/Admin/Pages/Menu/index.ctp:250
+#: View/Admin/Pages/Menu/index.ctp:374
+msgid "価格の入力"
+msgstr "Enter price"
+
+#: View/Admin/Pages/Menu/advance.ctp:459 View/Admin/Pages/Menu/advance.ctp:578
+#: View/Admin/Pages/Menu/easy.ctp:163 View/Admin/Pages/Menu/easy.ctp:357
+#: View/Admin/Pages/Menu/index.ctp:117 View/Admin/Pages/Menu/index.ctp:251
+#: View/Admin/Pages/Menu/index.ctp:375
+msgid "未入力、または0を入力で商品価格の非表示がされます。"
+msgstr "The prices that have not been entered or entered with 0 will be hiden"
+
+#: View/Admin/Pages/Menu/advance.ctp:476 View/Admin/Pages/Menu/advance.ctp:593
+#: View/Admin/Pages/Menu/easy.ctp:177 View/Admin/Pages/Menu/easy.ctp:374
+#: View/Admin/Pages/Menu/index.ctp:129 View/Admin/Pages/Menu/index.ctp:263
+#: View/Admin/Pages/Menu/index.ctp:387
+msgid "商品説明"
+msgstr "Item description"
+
+#: View/Admin/Pages/Menu/advance.ctp:480 View/Admin/Pages/Menu/advance.ctp:597
+#: View/Admin/Pages/Menu/easy.ctp:181 View/Admin/Pages/Menu/easy.ctp:378
+#: View/Admin/Pages/Menu/index.ctp:131 View/Admin/Pages/Menu/index.ctp:265
+#: View/Admin/Pages/Menu/index.ctp:389
+msgid "商品の詳細画面で表示される説明文になります。"
+msgstr "This will be discription displayed at detail screen of item."
+
+#: View/Admin/Pages/Menu/advance.ctp:533
+msgid "ページトップへ戻る"
+msgstr "Back to top of the page"
+
+#: View/Admin/Pages/Menu/advance.ctp:534
+msgid "商品の追加"
+msgstr "Add item"
+
+#: View/Admin/Pages/Menu/advance.ctp:645 View/Admin/Pages/Menu/easy.ctp:440
+#: View/Admin/Pages/Menu/index.ctp:432
+msgid "メニューの利用 ON/OFF"
+msgstr "ON/OFF Menu Function"
+
+#: View/Admin/Pages/Menu/advance.ctp:649 View/Admin/Pages/Menu/easy.ctp:444
+#: View/Admin/Pages/Menu/index.ctp:436
+msgid ""
+"現在、メニュー機能を利用中です。利用を停止する場合はボタンを押してください。"
+msgstr "Now, you are using Menu Function. Please push the button "
+
+#: View/Admin/Pages/Menu/advance.ctp:650 View/Admin/Pages/Menu/easy.ctp:445
+#: View/Admin/Pages/Menu/index.ctp:437
+msgid "メニュー機能を停止すると、アプリにメニューが表示されなくなります。"
+msgstr "When stop using Menu Function, Menu will be undisplayed on app."
+
+#: View/Admin/Pages/Menu/advance.ctp:657 View/Admin/Pages/Menu/easy.ctp:452
+#: View/Admin/Pages/Menu/index.ctp:443
+msgid "メニュー機能の利用を停止する"
+msgstr "Stop using Menu function."
+
+#: View/Admin/Pages/Menu/advance.ctp:672 View/Admin/Pages/Menu/easy.ctp:467
+#: View/Admin/Pages/Menu/index.ctp:458
+msgid "メニューのリセット"
+msgstr "Reset Menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:676 View/Admin/Pages/Menu/easy.ctp:471
+#: View/Admin/Pages/Menu/index.ctp:462
+msgid "メニュー機能をリセットすると、すべてのメニューは消えてしまいますが"
+msgstr "All of menus will be deleted when resetting menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:677 View/Admin/Pages/Menu/easy.ctp:472
+#: View/Admin/Pages/Menu/index.ctp:463
+msgid ""
+"シンプルタイプ/カスタムタイプの選択からやり直すことが出来ます。ご利用にご注意"
+"ください。"
+msgstr ""
+"However, you can start over by choosing simple type/ customize type of menu. "
+"Please be careful about the use."
+
+#: View/Admin/Pages/Menu/advance.ctp:684 View/Admin/Pages/Menu/easy.ctp:479
+#: View/Admin/Pages/Menu/index.ctp:469
+msgid "メニューをリセットする"
+msgstr "Reset the menu"
+
+#: View/Admin/Pages/Menu/advance.ctp:835 View/Admin/Pages/Menu/easy.ctp:567
+msgid "価格に数値以外が含まれています。"
+msgstr "Non-numerical value is included in the price."
+
+#: View/Admin/Pages/Menu/advance.ctp:838 View/Admin/Pages/Menu/easy.ctp:570
+msgid "タイトルが未入力です"
+msgstr "A title is non-input"
+
+#: View/Admin/Pages/Menu/advance.ctp:841 View/Admin/Pages/Menu/easy.ctp:573
+msgid "商品説明が未入力です"
+msgstr "Product explanation is non-input"
+
+#: View/Admin/Pages/Menu/easy.ctp:99 View/Admin/Pages/Menu/easy.ctp:105
+#: View/Admin/Pages/Menu/index.ctp:72 View/Admin/Pages/Menu/index.ctp:77
+msgid "商品の新規登録"
+msgstr "Registration new item"
+
+#: View/Admin/Pages/Menu/index.ctp:14 View/Admin/Pages/Menu/index.ctp:35
+#: View/Elements/block/image.ctp:33 View/Elements/block/image.ctp:35
+#: View/Elements/block/image.ctp:96 View/Elements/block/image.ctp:98
+msgid "メニュートップ画像"
+msgstr "Imagine of menu top"
+
+#: View/Admin/Pages/Menu/index.ctp:89
+msgid "メニュー商品追加画像"
+msgstr "Addition imagine of item in menu"
+
+#: View/Admin/Pages/Menu/index.ctp:180 View/Admin/Pages/Menu/index.ctp:223
+#: View/Admin/Pages/Menu/index.ctp:304 View/Admin/Pages/Menu/index.ctp:347
+msgid "メニュー商品画像"
+msgstr "Menu item image"
+
+#: View/Admin/Pages/Menu/index.ctp:191
+msgid "更新日時:2015/02/03 23:06"
+msgstr "Modified: 2015/02/03 23:06"
+
+#: View/Admin/Pages/Menu/index.ctp:315
+msgid "更新日時:2015/02/03 23:07"
+msgstr "Modified: 2015/02/03 23:07"
+
+#: View/Admin/Pages/Menu/resume.ctp:8
+msgid ""
+"現在、メニューは利用停止状態です。再開の場合は、下記ボタンを押して利用を開始"
+"してください。"
+msgstr ""
+"Menu function are stoped now. If you want to start over, please push the "
+"button below."
+
+#: View/Admin/Pages/Menu/resume.ctp:16 View/Admin/Pages/Menu/select.ctp:27
+msgid ""
+"商品をカテゴリーごとに分類して表示するなど、<br>より細かい設定で商品を登録で"
+"きます。"
+msgstr ""
+"By displaying by classifying the goods in each category, <br>you can "
+"register the goods at a finer setting."
+
+#: View/Admin/Pages/Menu/resume.ctp:18
+msgid "メニューを利用開始する"
+msgstr "Start to use Menu function."
+
+#: View/Admin/Pages/Menu/select.ctp:8
+msgid ""
+"メニュー機能には、２つのタイプがございます。以下よりお好みの方をお選びくださ"
+"い。"
+msgstr ""
+"There are 2 type of menu. You can select the menu type that you want in the "
+"following nemu's types"
+
+#: View/Admin/Pages/Menu/select.ctp:15
+msgid "商品の名前と値段を入れるだけの簡単設定！"
+msgstr "Simple setting! Just enter product name and price."
+
+#: View/Admin/Pages/Menu/select.ctp:17
+msgid "メニュー（シンプルタイプ）を利用する"
+msgstr "Use menu (Simple Type)"
+
+#: View/Admin/Pages/Menu/select.ctp:29
+msgid "メニュー（カスタムタイプ）を利用する"
+msgstr "Use menu (Customize Type)"
+
+#: View/Admin/Pages/News/index.ctp:3
+msgid "ニュースの新規登録"
+msgstr "New registration of news"
+
+#: View/Admin/Pages/News/index.ctp:6
+msgid "ニュースの新規登録になります"
+msgstr "This is the new registration of news"
+
+#: View/Admin/Pages/News/index.ctp:6
+msgid "アプリへの表示・プッシュ通知の送信は致しませんので、ご注意下さい。"
+msgstr ""
+"Please not that we do not display and distribute Push notification to app."
+
+#: View/Admin/Pages/News/index.ctp:9
+msgid "<i class=\"fa fa-plus mg-r-xs\"></i>ニュースの新規作成"
+msgstr "<i class=\"fa fa-plus mg-r-xs\"></i> Create new news"
+
+#: View/Admin/Pages/News/index.ctp:17 View/Elements/block/image.ctp:68
+msgid "画像、もしくはYoutube動画を任意で登録することが出来ます。"
+msgstr "Can register image or Youtube animation as you like."
+
+#: View/Admin/Pages/News/index.ctp:20
+msgid "どちらも利用しない"
+msgstr "Both are not used"
+
+#: View/Admin/Pages/News/index.ctp:21 View/Elements/block/image.ctp:71
+msgid "画像を登録する"
+msgstr "Register the image"
+
+#: View/Admin/Pages/News/index.ctp:22 View/Elements/block/image.ctp:72
+msgid "Youtube動画を登録する"
+msgstr "Submit a Youtube video"
+
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:174
+msgid "横幅&nbsp;640px&nbsp;以上の大きさを推奨"
+msgstr "Recommend size more than width &nbsp;640px&nbsp;"
+
+#: View/Admin/Pages/News/index.ctp:41 View/Admin/Pages/News/index.ctp:174
+msgid "高さの指定はありません。"
+msgstr "There is no designation of the height"
+
+#: View/Admin/Pages/News/index.ctp:49
+msgid "Youtube"
+msgstr "YouTube"
+
+#: View/Admin/Pages/News/index.ctp:51 View/Admin/Pages/News/index.ctp:183
+msgid "対象のYoutubeのURLをコピー＆貼り付けをしてください。"
+msgstr "Copy the Youtube URL and paste please."
+
+#: View/Admin/Pages/News/index.ctp:63 View/Admin/Pages/News/index.ctp:192
+msgid "文字数：全角20文字以内を推奨"
+msgstr "The number of the letters: Recommend less than 20 full-width letters"
+
+#: View/Admin/Pages/News/index.ctp:68 View/Admin/Pages/News/index.ctp:197
+msgid "本文"
+msgstr "The Body"
+
+#: View/Admin/Pages/News/index.ctp:75 View/Admin/Pages/News/index.ctp:205
+msgid "PUSH通知"
+msgstr "PUSH Notification"
+
+#: View/Admin/Pages/News/index.ctp:79 View/Admin/Pages/News/index.ctp:209
+msgid "ニュースを配信した時に、お客様に通知するかどうかを選べます。"
+msgstr "Can seclect to notify to user when delivering the news or not."
+
+#: View/Admin/Pages/News/index.ctp:85 View/Admin/Pages/News/index.ctp:216
+msgid "配信日時"
+msgstr "Deliver time"
+
+#: View/Admin/Pages/News/index.ctp:87 View/Admin/Pages/News/index.ctp:227
+msgid "日時を選択"
+msgstr "Select date"
+
+#: View/Admin/Pages/News/index.ctp:93 View/Admin/Pages/News/index.ctp:234
+msgid "配信希望日が指定できます。"
+msgstr "Can designate delivery time."
+
+#: View/Admin/Pages/News/index.ctp:93 View/Admin/Pages/News/index.ctp:236
+msgid "未設定の場合は、手動配信での設定になります。"
+msgstr ""
+"In the case that delivery time is not set, delivery news will bechange to "
+"hand-operated mode."
+
+#: View/Admin/Pages/News/index.ctp:93 View/Admin/Pages/News/index.ctp:237
+msgid "指定できる時間は、10分後からになっています。"
+msgstr "Specified time is after 10 minutes."
+
+#: View/Admin/Pages/News/index.ctp:114
+msgid "ニュース一覧"
+msgstr "List of news"
+
+#: View/Admin/Pages/News/index.ctp:134
+msgid "登録日時:"
+msgstr "Registered Time"
+
+#: View/Admin/Pages/News/index.ctp:139
+msgid "プッシュ通知"
+msgstr "PUSH Notification"
+
+#: View/Admin/Pages/News/index.ctp:142
+msgid "予約配信指定"
+msgstr "Desinating Reservations delivery "
+
+#: View/Admin/Pages/News/index.ctp:147 View/Admin/Pages/News/index.ctp:245
+#: View/Admin/Pages/Reserve/index.ctp:40 View/Admin/Pages/Reserve/index.ctp:67
+#: View/Admin/Pages/Reserve/index.ctp:104 View/Elements/sidemenu/coupon.ctp:25
+#: View/Elements/sidemenu/mail.ctp:26 View/Elements/sidemenu/map.ctp:26
+#: View/Elements/sidemenu/menu.ctp:26 View/Elements/sidemenu/news.ctp:26
+#: View/Elements/sidemenu/setting.ctp:26
+#: View/Elements/sidemenu/shopprofile.ctp:26 View/Elements/sidemenu/tel.ctp:26
+#: View/Elements/sidemenu/top.ctp:26
+msgid "<i class=\"fa fa-edit mg-r-xs\"></i>変更"
+msgstr "<i class=\"fa fa-edit mg-r-xs\"></i>Change"
+
+#: View/Admin/Pages/News/index.ctp:235
+msgid "配信されたニュースの日時変更は出来ません。"
+msgstr "You can not change the date and time of news have been delivered."
+
+#: View/Admin/Pages/News/index.ctp:257
+msgid "«"
+msgstr "«"
+
+#: View/Admin/Pages/News/index.ctp:259
+msgid "»"
+msgstr "»"
+
+#: View/Admin/Pages/Reserve/index.ctp:4
+msgid "機能 ON /OFF"
+msgstr "ON/OFF Function"
+
+#: View/Admin/Pages/Reserve/index.ctp:8
+msgid "予約カレンダーの使用"
+msgstr "Use reservation calendar"
+
+#: View/Admin/Pages/Reserve/index.ctp:12
+msgid "サイドメニューに、予約カレンダーを表示させるか選択できます。"
+msgstr ""
+"You can  select whether let reservation calendara display on side menu."
+
+#: View/Admin/Pages/Reserve/index.ctp:29 View/Admin/Pages/Reserve/index.ctp:33
+msgid "ご利用方法"
+msgstr "How to use"
+
+#: View/Admin/Pages/Reserve/index.ctp:54 View/Admin/Pages/Reserve/index.ctp:58
+msgid "メール本文"
+msgstr "Mail text"
+
+#: View/Admin/Pages/Reserve/index.ctp:61
+msgid "予約メールを送信する際に、ユーザーに記載してほしい項目を編集できます。"
+msgstr ""
+"When you send a reservation e-mail, you can edit  items that you want to "
+"describe in the user."
+
+#: View/Admin/Pages/Reserve/index.ctp:62
+msgid "予約希望日は、選択された日付が自動で挿入されます。"
+msgstr "Reservation date will be inserted automatically by selected date."
+
+#: View/Admin/Pages/Reserve/index.ctp:80
+msgid "予約用連絡先"
+msgstr "Contact  for reservations"
+
+#: View/Admin/Pages/Reserve/index.ctp:84 View/Admin/Pages/Shop/profile.ctp:85
+#: View/Admin/Pages/Shop/profile.ctp:186
+msgid "電話番号"
+msgstr "Phone number"
+
+#: View/Admin/Pages/Reserve/index.ctp:85 View/Admin/Pages/Reserve/index.ctp:86
+#: View/Admin/Pages/Reserve/index.ctp:87 View/Admin/Pages/Shop/profile.ctp:187
+#: View/Admin/Pages/Shop/profile.ctp:196
+msgid "市外局番"
+msgstr "Area code"
+
+#: View/Admin/Pages/Reserve/index.ctp:88
+msgid ""
+"予約受け付け用の電話番号を指定できます。指定しない場合は、店舗情報に登録され"
+"ている電話番号が利用されます。"
+msgstr ""
+"You can specify telephone number  for accepting reservation. If you do not "
+"specified,  we will use telephone number in shop information."
+
+#: View/Admin/Pages/Reserve/index.ctp:97 View/Admin/Pages/Shop/profile.ctp:207
+msgid "メールアドレスを入力"
+msgstr "Enter the E-mail address"
+
+#: View/Admin/Pages/Reserve/index.ctp:99
+msgid ""
+"予約受け付け用のメールアドレスを指定できます。指定しない場合は、登録されてい"
+"るログインメールアドレス宛に送信されます。"
+msgstr ""
+"You can specify the e-mail address for accepting reservation. If you do not "
+"specified,  reservation e-mail will be sent to the login e-mail address that "
+"you registered."
+
+#: View/Admin/Pages/Shop/profile.ctp:3
+msgid "お店の写真の登録・変更"
+msgstr "Register, change imagine of the shop"
+
+#: View/Admin/Pages/Shop/profile.ctp:11 View/Admin/Pages/Shop/profile.ctp:26
+msgid "ショップ画像"
+msgstr "Shop image"
+
+#: View/Admin/Pages/Shop/profile.ctp:36
+msgid ""
+"ファイルサイズ：3MBまで<br />640px&nbsp;×&nbsp;420px&nbsp;以上の大きさを推奨"
+msgstr ""
+"Filesize：Up to 3MB<br>Recommended size: more than 640px&nbsp;"
+"×&nbsp;420px&nbsp;"
+
+#: View/Admin/Pages/Shop/profile.ctp:52
+msgid "お店の情報の登録・変更"
+msgstr "Register, change information of the shop"
+
+#: View/Admin/Pages/Shop/profile.ctp:57 View/Admin/Pages/Shop/profile.ctp:158
+msgid "お店の名前"
+msgstr "Name of the shop"
+
+#: View/Admin/Pages/Shop/profile.ctp:67 View/Admin/Pages/Shop/profile.ctp:168
+msgid "郵便番号"
+msgstr "Postal code"
+
+#: View/Admin/Pages/Shop/profile.ctp:75 View/Admin/Pages/Shop/profile.ctp:177
+#: View/Preview/Pages/ShopPreview/profile.ctp:20
+msgid "住所"
+msgstr "Address"
+
+#: View/Admin/Pages/Shop/profile.ctp:93 View/Admin/Pages/Shop/profile.ctp:195
+#: View/Preview/Pages/ShopPreview/profile.ctp:43
+msgid "FAX"
+msgstr "FAX"
+
+#: View/Admin/Pages/Shop/profile.ctp:113 View/Admin/Pages/Shop/profile.ctp:215
+msgid "ホームページアドレス"
+msgstr "Website address"
+
+#: View/Admin/Pages/Shop/profile.ctp:121 View/Admin/Pages/Shop/profile.ctp:222
+#: View/Preview/Pages/ShopPreview/profile.ctp:71
+msgid "オンラインショップ"
+msgstr "Online shop"
+
+#: View/Admin/Pages/Shop/profile.ctp:132 View/Admin/Pages/Shop/profile.ctp:232
+#: View/Preview/Pages/ShopPreview/profile.ctp:79
+msgid "営業時間"
+msgstr "Business hours"
+
+#: View/Admin/Pages/Shop/profile.ctp:140 View/Admin/Pages/Shop/profile.ctp:240
+#: View/Preview/Pages/ShopPreview/profile.ctp:86
+msgid "定休日"
+msgstr "Regular holiday"
+
+#: View/Admin/Pages/Shop/profile.ctp:159
+msgid "お店の名前を入力"
+msgstr "Enter the name of the shop"
+
+#: View/Admin/Pages/Shop/profile.ctp:161
+msgid "お店の名前が必要になります。"
+msgstr "The name of the shop is required"
+
+#: View/Admin/Pages/Shop/profile.ctp:169
+msgid "上3桁"
+msgstr "Three columns of tops"
+
+#: View/Admin/Pages/Shop/profile.ctp:171 View/Admin/Pages/Shop/profile.ctp:189
+#: View/Admin/Pages/Shop/profile.ctp:198
+msgid "下4桁"
+msgstr "The last four digits"
+
+#: View/Admin/Pages/Shop/profile.ctp:178
+msgid "東京都渋谷区"
+msgstr "Shibuya district/, Tokyo"
+
+#: View/Admin/Pages/Shop/profile.ctp:188 View/Admin/Pages/Shop/profile.ctp:197
+msgid "上4桁"
+msgstr "4 columns of tops"
+
+#: View/Admin/Pages/Shop/profile.ctp:216
+msgid "ホームページアドレスを入力"
+msgstr "Enter the website address"
+
+#: View/Admin/Pages/Shop/profile.ctp:223
+msgid "オンラインショップURLを入力"
+msgstr "Enter the online shop URL"
+
+#: View/Admin/Pages/Shop/profile.ctp:233
+msgid "営業時間を入力"
+msgstr "Enter business hours"
+
+#: View/Admin/Pages/Shop/profile.ctp:241
+msgid "定休日を入力"
+msgstr "Enter regular holiday"
+
+#: View/Admin/Pages/Shop/profile.ctp:305
+msgid "お店の写真を登録します。よろしいですか"
+msgstr "We will register the photograph of the shop. Will that be all right?"
+
+#: View/Admin/Pages/Shop/profile.ctp:312
+msgid "店舗情報を登録します。よろしいですか"
+msgstr "We will register store information. Will that be all right?"
+
+#: View/Admin/Pages/Splash/index.ctp:3
+msgid "アプリ起動時画像の設定"
+msgstr "Set of application startup image"
+
+#: View/Admin/Pages/Splash/index.ctp:11 View/Admin/Pages/Splash/index.ctp:26
+msgid "スプラッシュ画像"
+msgstr "Splash image"
+
+#: View/Admin/Pages/Splash/index.ctp:37
+msgid "ファイルサイズ：3MBまで<br>640×1136pxの大きさを推奨"
+msgstr "Filesize：Up to 3MB<br>Recommend size of 640 X 1136px640×1136px"
+
+#: View/Admin/Pages/Splash/index.ctp:51
+msgid "アプリ起動時動画の設定"
+msgstr "Set of application startup videos"
+
+#: View/Admin/Pages/Splash/index.ctp:57 View/Admin/Pages/Splash/index.ctp:75
+#: View/Preview/Pages/SplashPreview/index.ctp:8
+msgid "動画を再生するにはvideoタグをサポートしたブラウザが必要です。"
+msgstr "The browser that supported video tag to play an animation is necessary"
+
+#: View/Admin/Pages/Splash/index.ctp:86
+msgid ""
+"ファイル形式：H.264&nbsp;/&nbsp;MPEG-4<br>解像度：640px x 1136px サイズを推奨"
+"<br>ファイルサイズ：1MBまで"
+msgstr ""
+"File Format: H.264 & nbsp; / & nbsp;  Resolution MPEG-4 <br>: Recommende the "
+"size of 640px x 1136px<br> file size: up to 1MB"
+
+#: View/Admin/Pages/Splash/index.ctp:142
+msgid "ファイル形式が異なっております"
+msgstr "File format is different"
+
+#: View/Admin/Pages/Splash/index.ctp:179
+msgid "スプラッシュ画像を登録します。よろしいですか"
+msgstr "We will register a splashing image. Will that be all right?"
+
+#: View/Admin/Pages/Splash/index.ctp:186
+msgid "スプラッシュ動画を登録します。よろしいですか"
+msgstr "We will register a splashing animation. Will that be all right?"
+
+#: View/Admin/Pages/Support/manual.ctp:5 View/Layouts/admin/default.ctp:68
+#: View/Layouts/admin/default.ctp:85
+msgid "マニュアル"
+msgstr "Manual"
+
+#: View/Admin/Pages/Support/manual.ctp:7
+msgid "アプリ制作や管理画面についてのマニュアルをダウンロードいただけます。"
+msgstr "Download Manual about application creation and the admin panel"
+
+#: View/Admin/Pages/Support/manual.ctp:9
+msgid "マニュアルのダウンロード"
+msgstr "Dowload Manual"
+
+#: View/Admin/Pages/Support/manual.ctp:10
+msgid "※pdfファイルとなっています。"
+msgstr "※Manual is pdf file."
+
+#: View/Admin/Pages/Top/index.ctp:12
+msgid "最新プッシュ日時:"
+msgstr "The latest push date and time:"
+
+#: View/Admin/Pages/Top/index.ctp:13
+msgid "ニュース配信は、アプリ公開後に行えます。"
+msgstr "News distribution can be used  after publishing app."
+
+#: View/Admin/Pages/Web/index.ctp:15 View/Admin/Pages/Web/index.ctp:87
+msgid "更新"
+msgstr "Update"
+
+#: View/Admin/Pages/Web/index.ctp:24
+msgid "画像を選択"
+msgstr "Select imagine"
+
+#: View/Admin/Pages/Web/index.ctp:33
+msgid "画像"
+msgstr "Imagine"
+
+#: View/Admin/Pages/Web/index.ctp:41
+msgid "ファイルサイズ：3MBまで<br />htmlに表示させる画像を登録してください。"
+msgstr "Filesize：Up to 3MB<br />Please register imagine to display on html。"
+
+#: View/Admin/Pages/Web/index.ctp:52
+msgid "画像が登録されていません。"
+msgstr "Image is not registered."
+
+#: View/Admin/Pages/Web/index.ctp:110
+msgid "HTMLを登録します。よろしいですか"
+msgstr "We will register HTML. Will that be all right?"
+
+#: View/Admin/Pages/Web/index.ctp:117
+msgid "画像を登録します。よろしいですか"
+msgstr "We will register image. Will that be all right?"
+
+#: View/Admin/Pages/Web/index.ctp:124
+msgid "画像を削除します。よろしいですか"
+msgstr "Imagine will be delete. Will that be all right?"
+
+#: View/Admin/Pages/Web/index.ctp:131
+msgid "CSSを登録します。よろしいですか"
+msgstr "We will register CSS. Will that be all right?"
+
+#: View/Elements/block/cms.ctp:5
+msgid "HTMLビューブロック"
+msgstr "HTML  View Block"
+
+#: View/Elements/block/cms.ctp:15 View/Elements/block/coupon.ctp:14
+#: View/Elements/block/image.ctp:14 View/Elements/block/map.ctp:15
+#: View/Elements/block/menu.ctp:14 View/Elements/block/news.ctp:13
+#: View/Elements/block/sns.ctp:14 View/Elements/block/tel.ctp:13
+#: View/Elements/block/topic.ctp:14 View/Elements/block/webview.ctp:17
+#: View/Elements/sidemenu/coupon.ctp:13 View/Elements/sidemenu/mail.ctp:13
+#: View/Elements/sidemenu/map.ctp:13 View/Elements/sidemenu/menu.ctp:13
+#: View/Elements/sidemenu/news.ctp:13 View/Elements/sidemenu/setting.ctp:13
+#: View/Elements/sidemenu/shopprofile.ctp:13 View/Elements/sidemenu/tel.ctp:13
+#: View/Elements/sidemenu/top.ctp:13
+msgid "お客様に見せるかどうかを選ぶことができます。"
+msgstr "You can choose whether to show to customers."
+
+#: View/Elements/block/cms.ctp:27
+msgid "ボックス高さ(px)"
+msgstr "Box's height(px)"
+
+#: View/Elements/block/cms.ctp:28
+msgid "数値を入力"
+msgstr "Enter a numeric value"
+
+#: View/Elements/block/cms.ctp:32
+msgid ""
+"端末によって表示に差異がございますので、おおよそのpx指定になっております。"
+"<br>最大1200pxまでになっています。ご注意ください。"
+msgstr ""
+"Because there is a difference in the display by the terminal, specified px "
+"is approximate . <br> Box's height  is not over 1200px. Please note."
+
+#: View/Elements/block/cms.ctp:42
+msgid "編集画面へ移動"
+msgstr "Go to the edit screen"
+
+#: View/Elements/block/cms.ctp:44
+msgid "上記、リンク先からでもHTMLの編集画面へ移動できます。"
+msgstr ""
+"You can move to the edit screen of HTML, even from the link destination."
+
+#: View/Elements/block/coupon.ctp:4
+msgid "クーポンブロック"
+msgstr "Coupon Block"
+
+#: View/Elements/block/image.ctp:5
+msgid "イメージリストブロック"
+msgstr "Imagine List Block"
+
+#: View/Elements/block/image.ctp:38
+msgid "Youtubeへリンクされています。"
+msgstr "Link to youtube"
+
+#: View/Elements/block/image.ctp:47
+#: View/Preview/Pages/ReservePreview/calendar.ctp:285
+msgid "年"
+msgstr "Year"
+
+#: View/Elements/block/image.ctp:48
+#: View/Preview/Pages/ReservePreview/calendar.ctp:286
+msgid "月"
+msgstr "Month"
+
+#: View/Elements/block/image.ctp:49
+#: View/Preview/Pages/ReservePreview/calendar.ctp:287
+msgid "日"
+msgstr "Day"
+
+#: View/Elements/block/image.ctp:110
+msgid ""
+"ファイルサイズ：3MBまで<br>640px&nbsp;×&nbsp;350px&nbsp;以上の大きさを推奨"
+msgstr ""
+"Filesize：Up to 3MB<br>Recommended size: more than 640px&nbsp;"
+"×&nbsp;420px&nbsp;"
+
+#: View/Elements/block/image.ctp:115
+msgid ""
+"お好きなURL、もしくはアプリ内の他ページへのリンクを任意で設定することが出来ま"
+"す。"
+msgstr ""
+"You can set the link to other pages in a favorite URL or the application for "
+"an option."
+
+#: View/Elements/block/image.ctp:118
+msgid "設定しない"
+msgstr "Do not set it"
+
+#: View/Elements/block/image.ctp:119
+msgid "URLを設定する"
+msgstr "Set URL"
+
+#: View/Elements/block/image.ctp:120
+msgid "アプリ内リンクを設定する"
+msgstr "Set link in the application"
+
+#: View/Elements/block/image.ctp:128
+msgid "リンク設定：なし"
+msgstr "Set Link: None"
+
+#: View/Elements/block/image.ctp:138
+msgid "例：http://www.hiropro.co.jp/"
+msgstr "Example：http://www.hiropro.co.jp/"
+
+#: View/Elements/block/image.ctp:147
+msgid "アプリ内リンク"
+msgstr "Link in application "
+
+#: View/Elements/block/map.ctp:5
+msgid "マップブロック"
+msgstr "Map Block"
+
+#: View/Elements/block/menu.ctp:4
+msgid "おすすめメニューブロック"
+msgstr "Recommended menu block"
+
+#: View/Elements/block/menu.ctp:29
+msgid "おすすめメニュー"
+msgstr "Recommended menu"
+
+#: View/Elements/block/news.ctp:4
+msgid "ニュースブロック"
+msgstr "News Block"
+
+#: View/Elements/block/sns.ctp:4
+msgid "SNSブロック"
+msgstr "SNS Block"
+
+#: View/Elements/block/tel.ctp:4
+msgid "TEL/MAILブロック"
+msgstr "TEL/MAIL Block"
+
+#: View/Elements/block/topic.ctp:4
+msgid "トピックメッセージブロック"
+msgstr "Topic Message Block"
+
+#: View/Elements/block/topic.ctp:25
+msgid "メッセージ"
+msgstr "Message"
+
+#: View/Elements/block/topic.ctp:26
+msgid "メッセージを入力してください"
+msgstr "Enter message"
+
+#: View/Elements/block/webview.ctp:4
+msgid "ウェブビューブロック"
+msgstr "Webview Block"
+
+#: View/Elements/block/webview.ctp:27
+msgid "例：http://www.google.co.jp"
+msgstr "Example：http://www.google.co.jp"
+
+#: View/Elements/paginator.ctp:14
+msgid "＜＜"
+msgstr "＜＜"
+
+#: View/Elements/paginator.ctp:16
+msgid "＞＞"
+msgstr "＞＞"
+
+#: View/Elements/paginator.ctp:21
+msgid "全{:count}件中　{:page}/{:pages}ページを表示"
+msgstr "Total{:count}item　Display page {:page}/{:pages}"
+
+#: View/Elements/preview/block/coupon.ctp:3
+msgid "お得なクーポン情報！"
+msgstr "Special coupon information!"
+
+#: View/Elements/preview/block/coupon.ctp:3
+#: View/Elements/preview/block/menu.ctp:4
+#: View/Elements/preview/block/news.ctp:5
+msgid "もっと見る"
+msgstr "Show more"
+
+#: View/Elements/preview/block/coupon.ctp:19
+#: View/Preview/Pages/CouponPreview/index.ctp:42
+#: View/Preview/Pages/CouponPreview/index.ctp:44
+msgid "有効期限"
+msgstr "Indefinite period"
+
+#: View/Elements/preview/block/coupon.ctp:19
+#: View/Elements/preview/block/news.ctp:11
+#: View/Preview/Pages/CouponPreview/index.ctp:42
+#: View/Preview/Pages/NewsPreview/index.ctp:26
+msgid "Y年m月d日"
+msgstr "YyearmMonthdDay"
+
+#: View/Elements/preview/block/map.ctp:3
+msgid "お店までのMAP"
+msgstr "MAP to shop"
+
+#: View/Elements/preview/block/menu.ctp:3
+msgid "当店のおすすめメニュー"
+msgstr "Recommended menu of store"
+
+#: View/Elements/preview/block/news.ctp:4
+msgid "当店のインフォメーション"
+msgstr "Information from Store"
+
+#: View/Elements/preview/block/tel.ctp:5
+msgid "電話をかける"
+msgstr "Make a phone call"
+
+#: View/Elements/preview/block/tel.ctp:5
+#: View/Preview/Pages/ShopPreview/profile.ctp:36
+msgid "TEL"
+msgstr "TEL"
+
+#: View/Elements/preview/block/tel.ctp:8
+msgid "メールを送る"
+msgstr "Mailer"
+
+#: View/Elements/preview/block/tel.ctp:8
+msgid "MAIL"
+msgstr "MAIL"
+
+#: View/Elements/preview/block/webview.ctp:4
+#: View/Layouts/admin/default.ctp:120
+#: View/Preview/Pages/HtmlPreview/index.ctp:2
+#: View/Preview/Pages/ReservePreview/index.ctp:3
+msgid "この部分はインラインフレームを使用しています。"
+msgstr "This part is using an in-line frame"
+
+#: View/Elements/preview/sidemenu.ctp:6
+msgid "Preview"
+msgstr "Preview"
+
+#: View/Elements/preview/top.ctp:9
+msgid "アプリケーション名"
+msgstr "Application Name"
+
+#: View/Elements/sidemenu/coupon.ctp:21 View/Elements/sidemenu/mail.ctp:22
+#: View/Elements/sidemenu/map.ctp:22 View/Elements/sidemenu/menu.ctp:22
+#: View/Elements/sidemenu/news.ctp:22 View/Elements/sidemenu/setting.ctp:22
+#: View/Elements/sidemenu/shopprofile.ctp:22 View/Elements/sidemenu/tel.ctp:22
+#: View/Elements/sidemenu/top.ctp:22
+msgid "メニュー名"
+msgstr "Menu name"
+
+#: View/Elements/sidemenu/coupon.ctp:22 View/Elements/sidemenu/mail.ctp:23
+#: View/Elements/sidemenu/map.ctp:23 View/Elements/sidemenu/menu.ctp:23
+#: View/Elements/sidemenu/news.ctp:23 View/Elements/sidemenu/setting.ctp:23
+#: View/Elements/sidemenu/shopprofile.ctp:23 View/Elements/sidemenu/tel.ctp:23
+#: View/Elements/sidemenu/top.ctp:23
+msgid "メニュー名の入力"
+msgstr "Enter Menu name"
+
+#: View/Layouts/admin/default.ctp:79
+msgid "ログアウト"
+msgstr "Log out"
+
+#: View/Layouts/admin/default.ctp:106
+msgid "お疲れ様でした！"
+msgstr "Thank you for your hard work"
+
+#: View/Layouts/admin/default.ctp:108
+msgid ""
+"アプリの準備が整いました！！<br>審査申請ボタンを押してください。なお、申請中"
+"は管理画面のすべての機能が一時的にご利用できなくなります。申請が完了するまで"
+"今しばらくお待ちください。"
+msgstr ""
+"Application are ready!!<br>Please push examanation request button. In "
+"request period, all of funtion of admin panel will not be available "
+"temporarily. Please wait until request is completed"
+
+#: View/Layouts/admin/default.ctp:112
+msgid "確認する"
+msgstr "Confirm"
+
+#: View/Layouts/admin/default.ctp:184
+msgid "スプラッシュ"
+msgstr "Splash"
+
+#: View/Layouts/admin/default.ctp:193
+msgid "ヘッダー"
+msgstr "Header"
+
+#: View/Layouts/admin/default.ctp:202
+msgid "背景"
+msgstr "Background"
+
+#: View/Layouts/admin/default.ctp:211
+msgid "フッター"
+msgstr "Footer"
+
+#: View/Layouts/admin/default.ctp:221
+msgid "サイドメニュー"
+msgstr "Side Menu"
+
+#: View/Layouts/admin/default.ctp:251
+#: View/Preview/Pages/ReservePreview/calendar.ctp:134
+msgid "予約カレンダー"
+msgstr "Booking Calendar"
+
+#: View/Layouts/admin/default.ctp:260
+msgid "ストア情報"
+msgstr "Store information"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:38
+msgid "無料"
+msgstr "Free"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:46
+msgid "詳細"
+msgstr "Detail"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:47
+msgid "レビュー"
+msgstr "Review"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:48
+msgid "関連"
+msgstr "Relevance"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:79
+msgid "説明"
+msgstr "Description "
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:88
+msgid "情報"
+msgstr "Information"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:90
+msgid "販売元"
+msgstr "Sales agency"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:91
+msgid "デベロッパ"
+msgstr "Developer"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:92
+msgid "カテゴリ"
+msgstr "Category"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:93
+msgid "バージョン"
+msgstr "Version"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:94
+msgid "サイズ"
+msgstr "Size"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:95
+msgid "レート"
+msgstr "Rate"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:96
+msgid "互換性"
+msgstr "Compatibility"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:96
+msgid ""
+"iOS 6.1 以降。iPhone、iPad および iPod touch 対応。iPhone 5 用に最適化済み"
+msgstr ""
+"iOS 6.1 or later. Support to iPhone, iPad and iPod touch. Optimized for the "
+"iPhone 5"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:105
+msgid "バージョン履歴"
+msgstr "Version history"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:113
+msgid "デベロッパApp"
+msgstr "App Developer "
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:121
+msgid "デベロッパWebサイト"
+msgstr "Website Developer"
+
+#: View/Preview/Pages/ApplyPreview/index.ctp:129
+msgid "プライバシーポリシー"
+msgstr "Privacy Policy"
+
+#: View/Preview/Pages/CouponPreview/index.ctp:37
+msgid "ご注意事項"
+msgstr "Notes"
+
+#: View/Preview/Pages/NewsPreview/index.ctp:43
+msgid "いいね！"
+msgstr "Like!"
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:289
+msgid "下記の日付にて予約メールを送信いたしますか？"
+msgstr "Can we send the reservation mail by the following date."
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:295
+msgid "【重要】予約希望メール"
+msgstr "[Important] Reservation email"
+
+#: View/Preview/Pages/ReservePreview/calendar.ctp:306
+msgid "■予約希望日%0D%0A"
+msgstr "Reservation day %0D%0A"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:23
+msgid "〒"
+msgstr "〒"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:50
+#: View/Preview/Pages/ShopPreview/profile.ctp:57
+msgid "Email"
+msgstr "Email"
+
+#: View/Preview/Pages/ShopPreview/profile.ctp:64
+msgid "URL"
+msgstr "URL"
+
+#~ msgid "<i class=\"a fa-trash-o mg-l-xs\"></i>削除"
+#~ msgstr "<i class=\"a fa-trash-o mg-l-xs\"></i>delete"
+
+#~ msgid "IDとパスワードを入力してください。"
+#~ msgstr "Please input ID and password"
+
+#~ msgid "The language has been changed to %s"
+#~ msgstr "The language has been changed to %s"
+
+#~ msgid "Language %s is not supported"
+#~ msgstr "Language %s is not supported"

@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+/**
+ * CSSスタイル 差分
+ * @author Yoshitaka Kitagawa
+ */
+ @font-face {
+  font-family: 'Engschrift';/*for IE*/
+  src: url('../fonts/Engschrift.eot');/*ローカルにインストールされている場合*/
+  src: local('Engschrift'), /*一応別名で複数していするとより安全？*/
+  local('Engschrift'), /*for Firefox3.6*/
+  url('../fonts/Engschrift.woff') format('woff'),
+  url('../fonts/Engschrift.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'FontIconStandard';
+  src: url('../fonts/ipost-icon/ipost-icon01-regular.eot');
+  src: local('FontIconStandard'),
+  local('FontIconStandard'),
+  url('../fonts/ipost-icon/ipost-icon01-regular.woff') format('woff'),
+  url('../fonts/ipost-icon/ipost-icon01-regular.ttf') format('truetype'),
+  url('../fonts/ipost-icon/ipost-icon01-regular.svg') format('svg');
+}
+
+.font-icon-standart {
+  font-family: 'FontIconStandard'!important;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uniqlo-font {
+  display: inline-block;
+  font-family: 'Engschrift';
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mr_0{margin-right:0px!important;}
+.mb_0{margin-bottom:0px!important;}
+.ml_0{margin-left:0px!important;}
+.ml_10{margin-left:10px!important;}
+.ml_15{margin-left:15px!important;}
+.ml_20{margin-left:20px!important;}
+.pt_60{padding-top:60px!important;}
+.pl_30{padding-left:30px!important;}
+.txt_l{text-align:left!important;}
+.txt_r{text-align:right!important;}
+
+.fl{float:left!important;}
+.fr{float:right!important;}
+
+.w_a{width:auto!important;}
+
+/* 画像サイズ Style */
+/* トップ */
+/*img.path-img-block-imglist{
+    width: 80px;
+    height: 44px;
+}*/
+/* ニュース */
+img.path-img-news{
+    width: 80px;
+    height: 44px;
+}
+/* メニュー */
+img.path-img-menu-top,
+img.path-img-menu-cate,
+img.path-img-menu-item{
+    width: 80px;
+    height: 44px;
+}
+/* クーポン */
+img.path-img-coupon{
+    width: 80px;
+    height: 44px;
+}
+/* ストア情報 */
+img.path-img-store-appicon{
+    width: 80px;
+    height: 80px;
+}
+img.path-img-store-splash{
+    width: 80px;
+    height: 142px;
+}
+img.path-img-store-screenshot{
+    width: 80px;
+    height: 142px;
+}
+/* お店の画像 */
+img.path-img-shop{
+    width: 80px;
+    height: 44px;
+}
+/* End :; 画像サイズ Style */
+
+/* Hack */
+label.no-hand{
+    cursor: default!important;
+}
+a.btn-success,
+a.btn-info,
+a.btn-danger,
+a.btn-warning{
+    color: #ffffff!important;
+}
+/* End : Hack */
+
+/* Analytics Style */
+.analytics-count{
+    width: 96%;
+    margin: 8px 2%;
+    padding: 20px 15px 12px;
+    color: rgb(108, 108, 108);
+    font-size: 26pt;
+    text-align: center;
+    background-color:#e6e6e6;
+}
+.color-analytics{
+    color: rgb(108, 108, 108);
+}
+/* Analytics Style */
+
+/* Top Style */
+.top_pic_number{
+  display: block;
+  float: left;
+  margin: 48px 3px 0 20px;
+  padding: 5px 0px 4px 0px;
+  background-color: #70696a;
+  color: #fff;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 18px;
+  width: 30px;
+  height: 30px;
+}
+.path-img-block-imglist{
+  width: 150px;
+  height: 105px;
+  border: solid 10px #d1d1d1;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-box-shadow: 0 4px 0 #bcbcbc;
+  -moz-box-shadow: 0 4px 0 #bcbcbc;
+  box-shadow: 0 4px 0 #bcbcbc;
+}
+.top-right-box-date{
+  margin-right: 20px;
+  text-align: right;
+}
+.top-right-box{
+  margin-top: 60px;
+  margin-right: 20px;
+}
+/* Top Style End */
+
+/* Block Style */
+.block-menu-title{
+  margin: 20px 0 0 10px;
+  font-weight: bold;
+  font-size: 16pt;
+  color: #666;
+}
+.block-menu-sub_title{
+  margin: 5px 0 0 10px;
+  font-size: 12pt;
+  color: #999;
+}
+/* Block Style End*/
+
+/* Coupon Style */
+.coupon-ribon{
+  width: 58px;
+  height: 90px;
+  margin-left: 10px;
+  margin-top: -96px;
+  background-image: url("../img/common/coupon/ribon.png");
+  background-size: 58px 90px;
+  background-repeat: no-repeat;
+}
+dl.menu_ac .up_down{
+    float: right;
+    margin-top: -60px;
+}
+dl.menu_ac dd{
+    margin-top: -50px;
+}
+/* End : Coupon Style */
+
+/* Inspect Style */
+.inspect-head{
+    width: 80%;
+    margin: 10px auto;
+    color: #900;
+}
+/* End: ; Inspect Style */
+

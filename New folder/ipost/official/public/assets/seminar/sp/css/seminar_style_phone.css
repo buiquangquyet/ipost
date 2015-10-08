@@ -1,0 +1,1233 @@
+/*----------------------------****リセット*****-----------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     outline: 0;
+     font-size: 100%;
+     vertical-align: baseline;
+     background: transparent;
+}
+body {
+     line-height: 1;
+}
+ol, ul {
+     list-style: none;
+}
+blockquote, q {
+     quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+     content: '';
+     content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+     outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+     text-decoration: none;
+}
+del {
+     text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing=&quot;0&quot;' in the markup */
+table {
+     border-collapse: collapse;
+     border-spacing: 0;
+}
+
+/*------------------------------------  共通  ---------------------------------------------------*/
+
+body{
+	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+	background-image:url(../img/brillant.png);
+	background-repeat:repeat;
+}
+.back{
+	background-image:url(../img/background.png);
+	background-repeat:repeat-x;
+}
+.top_back{
+	background-image:url(../img/background.png);
+	background-repeat:repeat-x;
+}
+
+a:link{
+	text-decoration:none; /*-- 未訪問のリンク --*/
+	color:#444;
+}
+a:visited{
+	color: #444;  /*-- 訪問済みのリンク --*/
+}
+a:active {
+	text-decoration:none; /*-- 選択中のリンク --*/
+}
+.main{
+	width:320px;
+	margin:auto;
+}
+/*** ぴょこんとでてくるTOPへ画像 ***/
+#page-top {
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+}
+#page-top a {
+    background:url(../img/up.png) no-repeat;
+    width: 80px;
+	height: 100px;
+    display: block;
+    text-indent:-9999px;
+}
+#page-top a:hover {
+    opacity:0.7;
+    filter:alpha(opacity=70);
+}
+
+/*-----------------------------------  使い回すcss ------------------------------------*/
+.fw_b{
+	font-weight:bold;
+}
+
+
+.fs15{
+	font-size:15px;
+}
+.ml10{
+	margin-left:10px;
+}
+.ml30{
+	margin-left:30px;
+}
+.mt30{
+	margin-top:30px;
+}
+.mb30{
+	margin-bottom:30px;
+}
+.km{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+}
+.km10{
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-ms-border-radius:10px;
+	-o-border-radius:10px;
+}
+.km_t_l{
+	border-top-left-radius:5px;
+	-moz-border-top-left-radius:5px;
+	-webkit-border-top-left-radius:5px;
+	-ms-border-top-left-radius:5px;
+	-o-border-top-left-radius:5px;
+}
+.km_t_r{
+	border-top-right-radius:5px;
+	-moz-border-top-right-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-ms-border-top-right-radius:5px;
+	-o-border-top-right-radius:5px;
+}
+.km_top{
+	border-top-left-radius:5px;
+	-moz-border-top-left-radius:5px;
+	-webkit-border-top-left-radius:5px;
+	-ms-border-top-left-radius:5px;
+	-o-border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	-moz-border-top-right-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-ms-border-top-right-radius:5px;
+	-o-border-top-right-radius:5px;
+}
+.km_b_l{
+	border-bottom-left-radius:5px;
+	-moz-border-bottom-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-ms-border-bottom-left-radius:5px;
+	-o-border-bottom-left-radius:5px;
+}
+.km_b_r{
+	border-bottom-right-radius:5px;
+	-moz-border-bottom-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-ms-border-bottom-right-radius:5px;
+	-o-border-bottom-right-radius:5px;
+}
+
+.km_bottom{
+	border-bottom-left-radius:5px;
+	-moz-border-bottom-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-ms-border-bottom-left-radius:5px;
+	-o-border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	-moz-border-bottom-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-ms-border-bottom-right-radius:5px;
+	-o-border-bottom-right-radius:5px;
+}
+.ma{
+	margin:auto;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.gray_line{
+	margin:0;
+	color:#EAEAEA;
+}
+.clear{
+	clear:both;
+}
+.mo:hover{
+	box-shadow:2px 2px 20px #3CF;
+	-moz-box-shadow:2px 2px 20px #3CF;
+	-webkit-box-shadow:2px 2px 20px #3CF;
+	-ms-box-shadow:2px 2px 20px #3CF;
+	-o-box-shadow:2px 2px 20px #3CF;
+	cursor:pointer;
+}
+.op:hover{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	-ms-filter: "alpha( opacity=70 )";
+	cursor:pointer;
+}
+.op90:hover{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	-ms-filter: "alpha( opacity=90 )";
+	cursor:pointer;
+}
+
+.shadow_w{
+	text-shadow: 0 1px 0 #ffffff;
+	-moz-text-shadow: 0 1px 0 #ffffff;
+	-webkit-text-shadow: 0 1px 0 #ffffff;
+}
+.end{
+	text-decoration:line-through;
+	color:#999;
+}
+.end li{
+	text-decoration:line-through;
+}
+.next{
+	color:#F36;
+}
+
+/*-----------------------------  ヘッダー  -----------------------------*/
+.km_top10{
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	-moz-border-top-left-radius:10px;
+	-moz-border-top-right-radius:10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+}
+.km_bottom10{
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	-moz-border-bottom-left-radius:10px;
+	-moz-border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+}
+
+
+
+#head {
+	background: url("../../ipost_partner/images/background.png") repeat scroll 0 0 #FFFFFF;
+	border-top: 10px solid #67B0D1;
+	box-shadow: 1px 1px 2px #176A8A;
+	padding-top: 5px;
+	width: 100%;
+	height: 48px;
+	z-index: 2;
+}
+.head_width{
+	width:320px;
+	margin:auto;
+}
+
+.logo {
+	height: 33px;
+	margin-top: 6px;
+	margin-left: 88px;
+}
+.home_btn {
+	height: 28px;
+	float: left;
+	margin-top: 8px;
+	margin-left: 10px;
+}
+
+
+/******************アコーディオンメニュー ************************/
+.accordion{
+	z-index:1;
+	position:absolute;
+	margin-top:-20px;
+}
+.menu_btn {
+	height: 32px;
+	margin-top: -22px;
+	position: absolute;
+	margin-left: 281px;
+}
+
+
+dl.accordion dt {
+	cursor: pointer;
+	background:none;
+	margin-bottom:35px;
+}
+dl.accordion dd {
+	cursor: pointer;
+	color: black;
+	background-color: rgb(247,247,247);
+	padding: 14px;
+	padding-left: 30px;
+	width: 256px;
+	margin-left: 10px;
+}
+.acco_border{
+	border-bottom: 2px dotted rgb(13,141,187);
+}
+dl.accordion dt.opened {
+	color: black;
+	border: none;
+	background: none;
+}
+.accordion_box{
+	width:95%;
+}
+.main_menu{
+	height:25px;
+}
+/****************** メニュー **********************/
+.menu {
+	width: 100%;
+	display: block;
+	height: 60px;
+	background-color: rgb(103,176,209);
+	border-bottom: 1px solid rgb(136, 187, 204);
+	box-shadow: 1px 1px 2px #9B9B9B;
+}
+.menu_img {
+	height: 40px;
+	padding-left: 50px;
+}
+.menu ul li{
+	float:left;
+}
+.menu ul {
+	width: 900px;
+	margin: auto;
+	padding-top:12px;
+}
+.menu ul li:hover{
+/*	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	-ms-filter: "alpha( opacity=70 )";
+*/
+	background:url(../img/menu_background.png) no-repeat 20px;
+}
+.select{
+	background:url(../img/menu_background.png) no-repeat 20px;
+}
+/*----------------------------- フッター -----------------------------*/
+#foot a{
+	color:white;
+}
+#foot {
+	background: url(../img/mizu.png);
+	background-repeat: repeat;
+	background-color: rgb(175, 175, 175);
+	border-top: 2px solid rgb(202, 202, 202);
+	width: 100%;
+	color: white;
+}
+
+.ipost_r {
+	font-size: 10px;
+	letter-spacing: 0.1em;
+	line-height: 1.5;
+	margin-top: 8px;
+	margin-left:12px;
+}
+
+#foot_bottom{
+	background-color:#062B3C;
+	padding:15px 8px;
+	margin-top:0;
+}
+#foot_bottom p{
+	font-size:10px;
+	line-height:1.5;
+	text-align:center;
+}
+#foot_bottom p a{
+	color:white;
+}
+#foot_bottom span {
+	border-right: 1px solid white;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+
+.foot_img {
+	width: 290px;
+	height: 110px;
+	border: 6px solid rgb(60,152,197);
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+#footer_contents{
+	width:320px;
+	height:454px;
+	margin:auto;
+}
+.pmark {
+	width: 36px;
+	margin-top: 6px;
+}
+.contact {
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 30px;
+	width: 300px;
+}
+.contact1 {
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.contact2 {
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+.contact3 {
+	font-weight:bold;
+	font-size:30px;
+	margin-bottom:10px;
+}
+.contact4 {
+	margin-bottom: 44px;
+	margin-left: 48px;
+	margin-top: 14px;
+}
+
+
+.contact5 {
+	font-size: 12px;
+	margin-bottom: 9px;
+}
+
+.foot_tell {
+	height: 36px;
+	margin-right: 10px;
+	float: left;
+	margin-top: -4px;
+}
+
+.foot_mail {
+	height: 18px;
+	margin-left: 8px;
+	margin-top: 4px;
+	float: left;
+}
+
+.add{
+	margin-top:-22px;
+}
+#go_top{
+	margin-bottom:20px;
+	font-size:16px;
+	float:right;
+	margin-right:10px;
+	margin-top:-26px;
+}
+#go_top a{
+	text-decoration:underline;
+}
+
+/*-----------------------------パンくずリスト-----------------------------*/
+#topicpath {
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid lightgray;
+	background-color: rgb(247,247,247);
+	padding-bottom: 6px;
+}
+#topicpath ol li {
+	display: block;
+	float: left;
+	height: 13px;
+	color: #4b4b4b;
+	font-size:11px;
+}
+
+#topicpath ol {
+	font-size: 10px;
+	height: 8px;
+	letter-spacing: 0.08em;
+	line-height: 13px;
+	margin: auto;
+	padding: 8px 0 8px 16px;
+	text-align: left;
+	width: 300px;
+	background-color: rgb(247,247,247);
+}
+
+ol {
+	background-color:white;
+	display: block;
+	list-style-type: decimal;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 40px;
+}
+
+#topicpath li{
+	list-style-type:none;
+	display: block;
+	_display: inline;
+	height: 13px;
+	padding-right: 23px;
+	line-height: 13px;
+	font-size: 13px;
+	letter-spacing: 0.08em;
+}
+
+#topicpath ol li a:hover {
+	color: #3698BE;
+	text-decoration: underline;
+}
+
+#topicpath ol li a {
+	display: block;
+	display: inline;
+	height: 13px;
+	padding-right: 23px;
+	background: url("../img/blue_arrow.png") center right no-repeat;
+	color: #8c8c8c;
+	line-height: 13px;
+	font-size: 11px;
+	letter-spacing: 0.08em;
+}
+
+/*---------------------------- index ---------------------------------------------*/
+.top_ipost_img{
+	width:290px;
+	margin:auto;
+}
+.top_ipost_p {
+	float: right;
+	margin-bottom: 15px;
+}
+.top_ipost_p a{
+	text-decoration:underline;
+}
+.index_top_img {
+	width: 300px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom:-3px;
+}
+.map_title {
+	height: 30px;
+	margin-top: 30px;
+	margin-left:10px;
+}
+.point {
+	height: 50px;
+	position: absolute;
+	z-index: 1;
+}
+
+.next_seminar_box {
+	padding: 15px 15px 7px 15px;
+	border: 6px solid rgba(60,152,197,0.5);
+	background-color: white;
+	width: 250px;
+	height: 84px;
+	box-shadow: 2px 2px 3px gray,inset -2px -2px 3px lightgray;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+
+.p1{
+	font-weight:bold;
+	color:#333;
+}
+.p2 {
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	color: #333;
+}
+
+.p3{
+	text-align:right;
+	color:#333;
+}
+.s_btn{
+	height:50px;
+}
+.box {
+	width: 290px;
+	padding: 15px;
+	margin-bottom: 30px;
+}
+.box_b {
+	width: 262px;
+	padding: 15px;
+	margin-bottom: 30px;
+	border: 4px solid rgb(13,141,187);
+	margin-left: 10px;
+	background-color: white;
+}
+
+.seminar_images img{
+	width:200px;
+	margin:20px;
+}
+
+/************************* 日本地図 *********************************/
+#imagemap {
+	margin: 50px 60px;
+	padding: 0px;
+	background: url(../img/jp.png) top left no-repeat;
+	width: 600px;
+	height: 400px;
+	position: relative;
+}
+#imagemap li {
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	list-style: none;
+	font-size: 14px;
+}
+#imagemap a {
+	position: absolute;
+}
+#imagemap a span {
+	display: none;
+}
+
+/* 北海道 */
+#hokkaido {
+	top: 0px;
+	left: 333px;
+}
+#hokkaido a {
+	width: 300px;
+	height: 131px;
+}
+#hokkaido a:hover {
+	background: url(../img/jp.png) -333px -400px no-repeat;
+}
+/* 東北 */
+#touhoku {
+	top: 128px;
+	left: 253px;
+}
+#touhoku a {
+	width: 180px;
+	height: 145px;
+}
+#touhoku a:hover {
+	background: transparent url(../img/jp.png) -253px -928px no-repeat;
+}
+
+/* 北陸・甲信越 */
+#hokuriku {
+	top: 208px;
+	left: 202px;
+}
+#hokuriku a {
+	width: 128px;
+	height: 95px;
+}
+#hokuriku a:hover {
+	background: transparent url(../img/jp.png) -202px -1408px no-repeat;
+}
+
+/* 関東 */
+#kanto {
+	top: 252px;
+	left: 280px;
+}
+#kanto a {
+	width: 68px;
+	height: 148px;
+}
+#kanto a:hover {
+	background: transparent url(../img/jp.png) -280px -1852px no-repeat;
+}
+
+/* 東海 */
+#tokai {
+	top: 260px;
+	left: 202px;
+}
+#tokai a {
+	width: 88px;
+	height: 100px;
+}
+#tokai a:hover {
+	background: transparent url(../img/jp.png) -202px -2260px no-repeat;
+}
+
+/* 関西 */
+#kansai {
+	top: 261px;
+	left: 171px;
+}
+#kansai a {
+	width: 62px;
+	height: 87px;
+}
+#kansai a:hover {
+	background: transparent url(../img/jp.png) -171px -2661px no-repeat;
+}
+
+/* 中国 */
+#chugoku {
+	top: 235px;
+	left: 85px;
+}
+#chugoku a {
+	width: 100px;
+	height: 75px;
+}
+#chugoku a:hover {
+	background: transparent url(../img/jp.png) -85px -3035px no-repeat;
+}
+
+/* 四国 */
+#shikoku {
+	top: 300px;
+	left: 107px;
+}
+#shikoku a {
+	width: 75px;
+	height: 50px;
+}
+#shikoku a:hover {
+	background: transparent url(../img/jp.png) -107px -3500px no-repeat;
+}
+
+/* 九州 */
+#kyushu {
+	top: 265px;
+	left: 24px;
+}
+#kyushu a {
+	width: 88px;
+	height: 135px;
+}
+#kyushu a:hover {
+	background: transparent url(../img/jp.png) -24px -3865px no-repeat;
+}
+
+/* 沖縄 */
+#okinawa {
+	top: 0px;
+	left: 0px;
+}
+#okinawa a {
+	width: 298px;
+	height: 155px;
+}
+#okinawa a:hover {
+	background: transparent url(../img/jp.png) 0px -4000px no-repeat;
+}
+
+/***************** 各都道府県ポイント ****************************/
+.hiroshima{
+	margin-top: 292px;
+	margin-left: 174px;
+}
+.hokkaido{
+	margin-top: 87px;
+	margin-left: 454px;
+}
+
+.aomori{
+	margin-top: 163px;
+	margin-left: 404px;
+}
+.miyagi{
+	margin-top: 217px;
+	margin-left: 404px;
+}
+.tokyo{
+	margin-top: 300px;
+	margin-left: 348px;
+}
+.mie{
+	margin-top: 319px;
+	margin-left: 253px;
+}
+.nara{
+	margin-top: 322px;
+	margin-left: 239px;
+}
+.fukuoka{
+	margin-top: 312px;
+	margin-left: 117px;
+}
+.kumamoto{
+	margin-top: 341px;
+	margin-left: 111px;
+}
+.kagoshima{
+	margin-top: 364px;
+	margin-left: 102px;
+}
+.nagasaki{
+	margin-top: 320px;
+	margin-left: 91px;
+}
+.okinawa{
+	margin-top: 122px;
+	margin-left: 188px;
+}
+
+
+/************************* 日程表 *********************************/
+.schedule_title{
+	height:45px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+
+.day_tb tr:nth-child(2n){
+	background-color:#E6FBFF;
+}
+.day_tb tr:nth-child(2n+1){
+	background-color:white;
+}
+.day_tb{
+	line-height:1.5;
+	margin-top:30px;
+	letter-spacing:0.1em;
+	width:100%;
+}
+.day_tb th{
+	padding:5px 10px;
+}
+.day_tb td {
+	font-size: 12px;
+	vertical-align: middle;
+	padding: 15px 6px;
+}
+
+.day_tb td a{
+	color:rgb(13,141,187);
+	text-decoration:underline;
+}
+.day_tb td a:hover{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	-ms-filter: "alpha( opacity=70 )";
+}
+.arrow{
+	margin-right:10px;
+}
+.m_btn{
+	height:34px;
+}
+.click_p {
+	margin-left: 10px;
+	font-size: 12px;
+	margin-top: 30px;
+	margin-bottom: -15px;
+}
+
+/*---------------------------- seminar ---------------------------------------------*/
+.chiho_arrow{
+	margin-top:6px;
+}
+.chiho_p {
+	font-size: 13px;
+	margin-top: 24px;
+	margin-bottom:-15px;
+}
+
+.seminar_title {
+	height: 35px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.chiho a{
+	text-decoration:underline;
+	color:rgb(13,141,187);
+}
+.chiho a:hover{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	-ms-filter: "alpha( opacity=70 )";
+	cursor:pointer;
+}
+.chiho li{
+	float:left;
+	padding-right:30px;
+	list-style:none;
+	line-height:2;
+}
+.blue_line{
+	border-top:2px dotted rgb(60,152,197);
+	border-bottom:none;
+	margin-top:5px;
+}
+.bbd li {
+	float: left;
+	margin-top: 5px;
+	line-height: 2;
+	font-size: 13px;
+	padding-top: 10px;
+	padding-right:16px;
+}
+.bbd li a{
+	color:rgb(13,141,187);
+	text-decoration:underline;
+}
+.fb{
+	font-weight:bold;
+	color:#444;
+}
+.chiho_title {
+	margin-top: 40px;
+	height: 23px;
+	margin-bottom: 5px;
+}
+.non_sc{
+	margin-top:30px;
+}
+.seminar_m_btn{
+	height:30px;
+	position: absolute;
+	margin-top: -2px;
+}
+/*---------------------------- form ---------------------------------------------*/
+.form_name {
+	position: absolute;
+	margin-top: 19px;
+	margin-left: 5px;
+	font-size: 14px;
+}
+.red {
+	color: red;
+	padding-left: 5px;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 106px;
+}
+.red2{
+	color:red;
+	padding-left:5px;
+	font-size: 12px;
+	margin-top: 12px;
+}
+.red3 {
+	color: red;
+	padding-left: 5px;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 52px;
+}
+
+
+
+.form_box {
+	width: 248px;
+	border: 4px solid rgb(60,152,197);
+	background-color: rgba(255,255,255,0.9);
+	padding: 20px;
+	margin-bottom: 60px;
+	margin: 10px auto;
+	margin-top:20px;
+}
+.form_title_p {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 15px;
+	color: rgb(13,141,187);
+}
+.form_p {
+	margin-bottom: 15px;
+	line-height: 2;
+	font-size: 12px;
+}
+
+.form_tb{
+	margin-top: -10px;
+}
+
+.icon {
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 2px;
+}
+
+.check_btn {
+	height: 32px;
+	margin-top: 17px;
+}
+
+.ok_btn {
+	height: 32px;
+	margin-top: 17px;
+	float: right;
+}
+.check_p{
+	margin-left: 5px;
+	margin-top: 5px;
+	border-bottom: 2px dotted rgb(60,152,197);
+	padding-bottom: 5px;
+}
+/*---------------------------- seminar_s ---------------------------------------------*/
+.seminar_girl {
+	width: 242px;
+	margin-top: 10px;
+}
+.seminar_s_box {
+	width: 264px;
+	border: 4px solid rgb(60,152,197);
+	background-color: white;
+	padding: 15px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.s_title{
+	height:25px;
+}
+.big_p {
+	font-weight: bold;
+	font-size: 16px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 38px;
+	color: #555;
+}
+.big_p2 {
+	font-weight: bold;
+	font-size: 14px;
+	float: right;
+	margin-top: 6px;
+	color: #555;
+	margin-right: 18px;
+}
+.big_p3 {
+	font-weight: bold;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 68px;
+	color: #555;
+}
+
+.big_p4 {
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #555;
+	line-height:1.5;
+}
+
+.big_p4 a{
+	text-decoration:underline;
+	color:blue;
+}
+.big_p4 a:hover{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	-ms-filter: "alpha( opacity=70 )";
+	cursor:pointer;
+}
+.map{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 128px;
+}
+.seminar_s_title {
+	font-weight: bold;
+	color: rgb(13,141,187);
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.application_btn img {
+	height: 32px;
+	margin-left: 34px;
+	margin-bottom: 2px;
+}
+
+.application_btn{
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.big_map_p {
+	font-size: 12px;
+	margin-top: 10px;
+	float: left;
+	margin-left: 32px;
+}
+
+/*---------------------------- form_check ---------------------------------------------*/
+
+
+
+/*---------------------------- form_exe ---------------------------------------------*/
+.form_exe_p {
+	font-weight: bold;
+	line-height: 1.5;
+	font-size: 14px;
+}
+
+.form_exe_p2 {
+	line-height: 1.5;
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+/*---------------------------- ipost ---------------------------------------------*/
+
+.ipost_img {
+	width: 290px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.ipost_box{
+	width: 860px;
+	border: 6px solid rgb(60,152,197);
+	background-color: white;
+	padding: 30px;
+	margin-bottom: 30px;
+	margin-top:30px;
+}
+
+/*---------------------------- partner ---------------------------------------------*/
+
+.partner_img {
+	width: 276px;
+	margin-left: 4px;
+}
+.partner_tb {
+	width: 290px;
+	margin: auto;
+	border: 2px solid rgb(60,152,197);
+	font-size: 12px;
+}
+
+.partner_tb th{
+	padding:10px 15px;
+	background-color:rgb(13,141,187);
+	color:white;
+	vertical-align:middle;
+	line-height:1.5;
+}
+.partner_tb td {
+	padding: 10px 15px;
+	border-bottom: 1px solid rgb(60,152,197);
+	border-right: 1px dotted rgb(60,152,197);
+	width: 120px;
+	text-align: center;
+	vertical-align:middle;
+}
+.partner_title {
+	height: 24px;
+	margin-bottom: 20px;
+}
+
+.setsumei {
+	line-height: 1.6;
+	letter-spacing: 0.02em;
+	width: 290px;
+	margin: auto;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+
+.setsumei2 {
+	line-height: 1.7;
+	letter-spacing: 0.02em;
+	width: 290px;
+	margin: auto;
+	margin-bottom: 20px;
+	font-size: 12px;
+	margin-top: 30px;
+}
+
+.font_b {
+	font-weight: bold;
+}
+.movie{
+	margin-bottom:20px;
+}
+.ms {
+	width: 290px;
+	margin-bottom: 45px;
+}
+
+.rank_img{
+	margin-bottom:45px;
+	width:300px;
+}
+
+

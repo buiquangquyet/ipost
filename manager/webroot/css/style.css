@@ -1,0 +1,189 @@
+@charset "utf-8";
+
+/******************************
+* 全体・共通部分
+*******************************/
+/**
+* 画面全体関係
+*/
+body { padding-top: 70px; }
+@media (min-width:768px) {
+  body { padding-top: 70px; }
+}
+@media (min-width:992px) {
+  body { padding-top: 70px; }
+}
+@media (min-width:1200px) {
+  body { padding-top: 70px; }
+}
+
+
+
+small { color: #aaa; }
+
+/**
+* スニペット的なもの
+*/
+.text-left{text-align:left;}
+.text-center{text-align:center;}
+.text-right{text-align:right;}
+.margin-auto{margin:auto;}
+
+.media-body p{color: #999999;}
+
+.mb_10{margin-bottom: 10px;}
+.mb_20{margin-bottom: 20px;}
+
+.pt_100{padding-top: 100px;}
+
+.txt_c{text-align: center;}
+
+/**
+* 背景色
+*/
+body {
+  background-color: #EFF3F6;
+  background-image: linear-gradient(to bottom, #eff3f6, #dce2e7);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+/**
+* パンくずなどの背景色
+*/
+.breadcrumb, .jumbotron{
+  background-color: #fcfffd;
+}
+
+/*
+* ノーマルパネルのヘッダーの色
+*/
+.panel.panel-default .panel-heading{
+  background-image: none;
+  background-color: #9b9b9b;
+  color: #fff;
+}
+
+/*
+* エラーメッセージ表示関係
+*/
+.error-message{
+  margin-top: 5px;
+  color: #900;
+}
+.form-error{
+  border-color: #900;
+}
+
+/*
+* テーブルの並び替え関係
+*/
+th>a.desc:after{
+  content: '▼';
+}
+th>a.asc:after{
+  content: '▲';
+}
+
+/**
+* 情報詳細の名前のふりがな
+*/
+p.ruby-block{
+  display: block;
+  margin-top: 0px;
+  margin-bottom: -10px;
+  color: #737373;
+}
+
+/******************************
+* ▼ Header
+*******************************/
+/* ヘッダー全体の背景色 */
+.navbar.navbar-default{
+  background-image: none;
+  background-color: #6dc2c8;
+}
+.navbar-default .navbar-nav>li>a{
+  color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover{
+  color: #55989d;
+}
+/* スマホサイズ時の 三 のところの色 */
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #fff;
+}
+.navbar-default .navbar-toggle{
+  border-color: #fff;
+}
+/* スマホサイズ時の 三 のところを押した時の色 */
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background-color: #55989d;
+}
+/* タイトル文字 */
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand small{
+  color: #fff;
+}
+/* PCサイズ時の ドロップ を開いた時の色 */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a{
+  background-image: none;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+  color: #fff;
+  background-color: #55989d;
+}
+
+/**
+* 画面幅小さい時のナビゲーションの色
+*/
+@media (max-width:767px) {
+  /* ドロップのリンクの色 */
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #fff;
+  }
+}
+/* ▲ */
+
+/******************************
+* ▼ Footer
+*******************************/
+.footer{
+padding-top: 40px;
+padding-bottom: 40px;
+margin-top: 100px;
+color: #777;
+text-align: center;
+border-top: 1px solid #999;
+}
+.footer p{
+margin-bottom: 0;
+}
+.social{
+margin-bottom: 20px;
+text-align: center;
+}
+.social-buttons{
+display: inline-block;
+padding-left: 0;
+margin-bottom: 0;
+list-style: none;
+}
+.social-buttons li{
+display: inline-block;
+padding: 5px 8px;
+line-height: 1;
+}
+.footer-links{
+padding-left: 0;
+margin-top: 20px;
+color: #999;
+}
+.footer-links li{
+display: inline;
+padding: 0 2px;
+}
+.footer-links li:first-child{
+padding-left: 0;
+}
+/* ▲ */

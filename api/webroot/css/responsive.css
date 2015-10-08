@@ -1,0 +1,579 @@
+@charset "UTF-8";
+/* 標準可変メディア
+   メモ : 可変メディアでは、HTML からメディアの高さおよび幅の属性を削除する必要がある
+   http://www.alistapart.com/articles/fluid-images/
+*/
+img, object, embed, video {
+	max-width: 100%;
+}
+/* IE 6 では最大幅がサポートされていないため、デフォルトで幅 100% に設定される */
+.ie6 img {
+	width:100%;
+}
+
+img{
+	height: auot;
+	width: 100%;
+}
+
+/*img {
+  width: 300px;
+  border-radius: 300px;
+  -webkit-border-radius: 300px;
+  -moz-border-radius: 300px;
+}*/
+
+/*
+	Dreamweaver 可変グリッドプロパティ
+	----------------------------------
+	dw-num-cols-mobile:		5;
+	dw-num-cols-tablet:		8;
+	dw-num-cols-desktop:	10;
+	dw-gutter-percentage:	25;
+
+	以下からヒントを入手 : Ethan Marcotte 氏の「レスポンシブ Web デザイン」
+	http://www.alistapart.com/articles/responsive-web-design
+
+	および Joni Korpi 氏の「Golden Grid System」
+	http://goldengridsystem.com/
+*/
+
+/* モバイルレイアウト : 480 px およびそれ以下. */
+
+.sm_non{
+	display: none;
+}
+
+/*////////////////////////////////////////////////HEAD*/
+
+#head_navi{
+	background-color: #6CC;
+	height: 100px;
+	width: 100%;
+	padding-top: 15px;
+	}
+
+.arrow_top{
+	bottom: -85px;
+	left: 50%;
+	border: solid transparent;
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: #6CC;
+	border-width: 14px;
+	margin-left: -14px;
+	position: relative;
+}
+
+#navi {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	padding: 0px;
+	height: 75px;
+	margin-top: 0px;
+}
+
+.head_navi_txt01{
+	padding-top: 7px;
+	color: #FFF;
+	font-size: 9px;
+	margin-left: 7px;
+	text-align: center;
+}
+
+.head_navi_txt02{
+	padding-top: 7px;
+	color: #FFF;
+	font-size: 9px;
+	padding-left: 6px;
+	text-align: center;
+}
+
+@media only screen and (min-width: 481px) {
+
+#head_navi{
+	height: 120px;
+	}
+
+.arrow_top{
+	bottom: -105px;
+}
+
+#navi {
+	height: 60px;
+}
+
+.navi_kihon{
+	margin-right: 15px;
+}
+}
+
+#logo{
+	background-image: url(../img/common/logo/logo.png);
+	background-repeat: no-repeat;
+	height: 20px;
+	width: 100px;
+	display: block;
+	background-size: 100px 20px;
+	background-position: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo_box{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: left;
+	text-align: center;
+}
+
+#logo_box_l{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: left;
+}
+
+#logo_box_r{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: right;
+	text-align: right;
+}
+
+.f_right{
+	float: right;
+	}
+
+
+/*////////////////////////////////////////////////SMAFO NAVI*/
+
+#smart_phone_box{
+	display: none;
+}
+
+.l_box_b{
+	width: 100%;
+	float: none;
+}
+
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+#intro {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#figure {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#products {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#aside {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+#l_box {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#main_box {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#main_box2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: none;
+		/*background-color: #39C;*/
+}
+
+/*////////////////////////////////////////////////////////////BOX/*/
+
+.top_name{
+	font-size: large;
+	color: #000;
+}
+
+.top_mini{
+	font-size: xx-small;
+	color: #666;
+}
+
+.i_s{
+	font-size: medium;
+}
+
+.box50{
+	width: 50%;
+	float: left;
+}
+
+/*////////////////////////////////////////////////////////////footer/*/
+#footer_box {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	text-align: center;
+	/*background-color: #666;*/
+}
+
+#footer_box ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#footer_box li{
+	padding: 5px;
+	text-align: center;
+}
+
+/* タブレットレイアウト : 481 px ～ 768 px。モバイルレイアウトからスタイルを継承。 */
+
+@media only screen and (min-width: 481px) {
+/*////////////////////////////////////////////////HEAD*/
+
+.sm_non{
+	display: block;
+}
+
+#navi {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	padding: 0px;
+	height: 80px;
+	margin-top: 0px;
+}
+
+#logo{
+	background-image: url(../img/common/logo/logo.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	width: 200px;
+	display: block;
+	background-size: 200px 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo_box{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: left;
+	text-align: center;
+}
+
+#logo_box_l{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: left;
+}
+
+#logo_box_r{
+	width: 33.333333333%;
+	margin-top: 20px;
+	float: left;
+	text-align: right;
+}
+
+/*////////////////////////////////////////////////SMAFO NAVI*/
+#smart_phone_box{
+	background-repeat: no-repeat;
+	height: 602px;
+	width: 292px;
+	margin-bottom: 30px;
+	display: block;
+	float: left;
+}
+
+.l_box_b{
+	width: 292px;
+	float: left;
+}
+
+.gridContainer {
+	width: 97.5%;
+	padding-left: 1.25%;
+	padding-right: 1.25%;
+}
+
+#intro {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 48.7179%;
+	display: block;
+}
+#figure {
+	clear: none;
+	float: left;
+	margin-left: 2.5641%;
+	width: 48.7179%;
+	display: block;
+}
+#products {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 61.5384%;
+	display: block;
+}
+#aside {
+	clear: none;
+	float: left;
+	margin-left: 2.5641%;
+	width: 35.8974%;
+	display: block;
+}
+
+#l_box {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 35.8974%;
+	/*display: block;*/
+    display: none;
+}
+#main_box {
+	clear: none;
+	float: left;
+	/*margin-left: 2.5641%;
+	width: 61.5384%;
+	margin-left: 6.5641%;
+    width: 57.5384%;*/
+	display: block;
+}
+#main_box2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	/*background-color: #39C;*/
+}
+/*////////////////////////////////////////////////////////////footer/*/
+#footer_box{
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#footer_box ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#footer_box li{
+	float: left;
+	padding-left: 10px;
+}
+}
+
+/* デスクトップレイアウト : 769 px ～最大 1232 px。モバイルレイアウトとタブレットレイアウトからスタイルを継承。 */
+
+@media only screen and (min-width: 769px) {
+/*////////////////////////////////////////////////HEAD*/
+
+#navi {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	padding: 0px;
+	height: 80px;
+	margin-top: 0px;
+}
+
+#logo{
+	background-image: url(../img/common/logo/logo.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	width: 200px;
+	display: block;
+	background-size: 200px 40px;
+	background-position: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+/*////////////////////////////////////////////////SMAFO NAVI*/
+
+#smart_phone_box{
+	background-repeat: no-repeat;
+	height: 602px;
+	width: 292px;
+	margin-bottom: 30px;
+	display: block;
+	float: left;
+}
+
+.l_box_b{
+	width: 292px;
+	float: left;}
+
+.gridContainer {
+	width: 98%;
+	max-width: 1232px;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin: auto;
+}
+
+#intro {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 48.9795%;
+	display: block;
+}
+#figure {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 48.9795%;
+	display: block;
+}
+#products {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 59.1836%;
+	display: block;
+	/*background-color: #3C6;*/
+}
+#aside {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 38.7755%;
+	display: block;
+}
+
+
+#l_box {
+	clear: both;
+	float: left;
+	margin-left: 1.204%;
+	width: 22.5714%;
+	display: block;
+	margin-right: 8%;
+}
+#main_box {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 64.9795%;
+	display: block;
+}
+
+#main_box2 {
+	clear: both;
+	float: left;
+	margin-left: 10.204%;
+	width: 79.5918%;
+	display: block;
+	/*background-color: #39C;*/
+}
+/*////////////////////////////////////////////////////////////footer/*/
+#footer_box {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+#footer_box ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: 300px;
+}
+
+#footer_box li{
+	float: left;
+	padding-left: 10px;
+	text-align: center;
+}
+
+}
+
+/*PC用*/
+@media only screen and (min-width : 1224px) {
+#l_box {
+	/*clear: both;
+	float: left;
+	margin-left: 10.204%;
+	width: 28.5714%;
+	display: block;
+	margin-right: 0%;*/
+	clear: both;
+	float: left;
+	margin-left: 10.204%;
+	width: 25%;
+	display: block;
+	margin-right: 0%;
+}
+#main_box {
+	/*clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 48.9795%;
+	display: block;*/
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 62%;
+	display: block;
+}
+	}

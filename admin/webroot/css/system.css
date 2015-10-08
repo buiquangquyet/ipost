@@ -1,0 +1,35 @@
+.checkbox_box label {
+	/* width:60px; */
+	width:auto;
+	margin-top:5px;
+	font-weight:normal;
+}
+
+
+
+
+
+
+
+div.smartphone-wrap{
+height: 426px;
+margin: 0 44px auto;
+overflow-x: hidden;
+overflow-y: scroll;
+width: 360px;
+}
+
+img.img-thum{
+  margin: 5px;
+  width:  auto!important;
+  height: 100px!important;
+}
+.img-thum-list{
+  height: 240px;
+  overflow: auto;
+}
+.img-thum-list .del-button{
+  margin-right: 30px;
+  line-height: 100px;
+  height: 100px;
+}

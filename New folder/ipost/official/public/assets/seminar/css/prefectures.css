@@ -1,0 +1,249 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+ * 都道府県
+ */
+ /* 北海道 */
+.hokkaido{
+  margin-top: 92px;
+  margin-left: 481px;
+}
+
+/* 青森 */
+.aomori{
+margin-top: 155px;
+margin-left: 408px;
+}
+/* 岩手 */
+.iwate{
+margin-top: 188px;
+margin-left: 414px;
+}
+/* 宮城 */
+.miyagi{
+margin-top: 229px;
+margin-left: 387px;
+}
+/* 秋田 */
+.akita{
+margin-top: 184px;
+margin-left: 391px;
+}
+/* 山形 */
+.yamagata{
+margin-top: 222px;
+margin-left: 378px;
+}
+/* 福島 */
+.fukushima{
+margin-top: 243px;
+margin-left: 375px;
+}
+
+/* 茨木 */
+.ibaraki{
+margin-top: 287px;
+margin-left: 360px;
+}
+/* 栃木 */
+.tochigi{
+margin-top: 278px;
+margin-left: 350px;
+}
+/* 群馬 */
+.gumma{
+margin-top: 286px;
+margin-left: 340px;
+}
+/* 埼玉 */
+.saitama{
+margin-top: 294px;
+margin-left: 342px;
+}
+/* 千葉 */
+.chiba{
+margin-top: 303px;
+margin-left: 356px;
+}
+/* 東京 */
+.tokyo{
+margin-top: 299px;
+margin-left: 346px;
+}
+/* 神奈川 */
+.kanagawa{
+margin-top: 306px;
+margin-left: 335px;
+}
+
+/* 新潟 */
+.niigata{
+margin-top: 234px;
+margin-left: 346px;
+}
+/* 富山 */
+.toyama{
+margin-top: 258px;
+margin-left: 293px;
+}
+/* 石川 */
+.ishikawa{
+margin-top: 260px;
+margin-left: 277px;
+}
+/* 福井 */
+.fukui{
+margin-top: 269px;
+margin-left: 264px;
+}
+/* 山梨 */
+.yamanashi{
+margin-top: 296px;
+margin-left: 311px;
+}
+/* 長野 */
+.nagano{
+margin-top: 262px;
+margin-left: 318px;
+}
+/* 岐阜 */
+.gifu{
+margin-top: 288px;
+margin-left: 271px;
+}
+/* 静岡 */
+.shizuoka{
+margin-top: 309px;
+margin-left: 302px;
+}
+/* 愛知 */
+.aichi{
+margin-top: 298px;
+margin-left: 272px;
+}
+
+/* 三重 */
+.mie{
+margin-top: 310px;
+margin-left: 255px;
+}
+/* 滋賀 */
+.shiga{
+margin-top: 295px;
+margin-left: 248px;
+}
+/* 京都 */
+.kyoto{
+margin-top: 296px;
+margin-left: 240px;
+}
+/* 大阪 */
+.osaka{
+margin-top: 302px;
+margin-left: 236px;
+}
+/* 兵庫 */
+.hyogo{
+margin-top: 298px;
+margin-left: 228px;
+}
+/* 奈良 */
+.nara{
+margin-top: 302px;
+margin-left: 247px;
+}
+/* 和歌山 */
+.wakayama{
+margin-top: 313px;
+margin-left: 228px;
+}
+
+/* 鳥取 */
+.tottori{
+margin-top: 273px;
+margin-left: 210px;
+}
+/* 島根 */
+.shimane{
+margin-top: 269px;
+margin-left: 181px;
+}
+/* 岡山 */
+.okayama{
+margin-top: 294px;
+margin-left: 195px;
+}
+/* 広島 */
+.hiroshima{
+margin-top: 291px;
+margin-left: 164px;
+}
+/* 山口 */
+.yamaguchi{
+margin-top: 295px;
+margin-left: 141px;
+}
+
+/* 徳島 */
+.tokushima{
+margin-top: 315px;
+margin-left: 203px;
+}
+/* 香川 */
+.kagawa{
+margin-top: 307px;
+margin-left: 196px;
+}
+/* 愛媛 */
+.ehime{
+margin-top: 313px;
+margin-left: 167px;
+}
+/* 高知 */
+.kochi{
+margin-top: 323px;
+margin-left: 179px;
+}
+
+/* 福岡 */
+.fukuoka{
+margin-top: 305px;
+margin-left: 107px;
+}
+/* 佐賀 */
+.saga{
+margin-top: 311px;
+margin-left: 101px;
+}
+/* 長崎 */
+.nagasaki{
+margin-top: 322px;
+margin-left: 91px;
+}
+/* 熊本 */
+.kumamoto{
+margin-top: 325px;
+margin-left: 111px;
+}
+/* 大分 */
+.oita{
+margin-top: 321px;
+margin-left: 130px;
+}
+/* 宮崎 */
+.miyazaki{
+margin-top: 355px;
+margin-left: 115px;
+}
+/* 鹿児島 */
+.kagoshima{
+margin-top: 358px;
+margin-left: 94px;
+}
+
+/* 沖縄 */
+.okinawa{
+margin-top: 130px;
+margin-left: 183px;
+}
